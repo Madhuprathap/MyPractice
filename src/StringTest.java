@@ -1,21 +1,32 @@
 import java.net.URL;
 import java.net.URLDecoder;
+import java.util.ArrayList;
 
 public class StringTest {
 	public static void main(String[] args) {
-		String url = "http://slc11wxa.us.oracle.com:8080";
-        String cleanURL = url;
-        try {
-            URL decodedURL = new URL(URLDecoder.decode(url, "UTF-8"));
-            String urlPath = decodedURL.getPath().substring(1);
-            String query = decodedURL.getQuery();
-            String ref   = decodedURL.getRef();
-            cleanURL = urlPath + (query != null && query.trim().length() > 0 ? "/" + query : "") + (ref != null && ref.trim().length() > 0 ? "/" + ref : "");
-        } catch (Exception e) {
-            String temp = url.substring(url.indexOf("://") + 3);
-            cleanURL = temp.substring(temp.indexOf('/') + 1);
+		String toExpand = "margin-left: 30px; padding: 4px;\n<br /> {MAHDU-prathap}\n<br /> \n<br /> \n<span style=\"background-color:#FFFF00;\">sdfsdf adsfasf dfa<br /> sdfasd</span> \n<div style=\"text-align: right;\">\n asdfa adfasdf\n</div> \n<div style=\"text-align: justify;\">\n <span style=\"font-size:10px;margin-left: 40px; padding: 4px;\"><span style=\"font-family:arial,helvetica,sans-serif;\">asdf</span></span>\n</div>";
+		ArrayList pieces = new ArrayList();
+
+        int start = 0;
+        for (int i = 0; i < toExpand.length(); i++) {
+            char c = toExpand.charAt(i);
+            if ( (c == '}' || c == '{') &&
+                 (i == 0 || toExpand.charAt(i-1) != '\\') ) {
+                if (start == i)
+                    pieces.add("");
+                else {
+                    String str = toExpand.substring(start, i);
+                    str = str.replaceAll("\\\\([{}])", "$1");
+                    pieces.add(str);
+                }
+                start = i+1;
+            }
         }
-        System.out.println(cleanURL);
+        if(start < toExpand.length()) {
+            String str = toExpand.substring(start);
+            str = str.replaceAll("\\\\([{}])", "$1");
+            pieces.add(str);
+        }
         
 	}
 }
