@@ -14,10 +14,13 @@ public class SetToArray {
 		boolean flag = true;
 		HashMap myMap = new HashMap<String, Object>();
 		myMap.put("1", "1");
+		System.out.println(myMap);
 		HashMap liveMap = new HashMap<String, Object>();
 		liveMap.put("2", "2");
+		System.out.println(liveMap);
 		HashMap visited = new HashMap<String, Object>(myMap);
 		visited.putAll(liveMap);
+		System.out.println(visited);
 		
 		assert("madhu12".equals("madhu"));
 		System.out.println(myMap.size());

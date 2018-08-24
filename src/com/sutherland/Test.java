@@ -9,10 +9,14 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Hashtable;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.Stack;
+import java.util.TreeMap;
 import java.util.TreeSet;
 
 
@@ -34,13 +38,19 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) throws IOException {
+		float f = 2.1f;
+		double d = 4.8;
+		System.out.println((f+d));
+		System.out.println((int)(f+d));
+		
+		System.out.println((int)2.5);
 		
 		HashMap map = new HashMap();
 		map.put(1, "1");
 		map.put(1, "2");
+		map.put("Madhu", "Mahdu");
 		System.out.println(map.get(1));
 		System.out.println( map.size());
-		
 		
 		Scanner scanner = new Scanner(System.in);
 		String txt = scanner.next().trim();
@@ -51,6 +61,8 @@ public class Test {
 		Object[] objectArray = new Object[50];
 		objectArray[1] = new Test();
 		System.out.println(objectArray[1]);
+		
+		int[][] test = new int[5][];
 		
 		Hashtable table = new Hashtable();
 //		Hashtable null as key not allowed
@@ -71,10 +83,24 @@ public class Test {
 		for (int i = 0; i < l.size(); i++) {
 			System.out.println(l.get(i));
 		}
+		System.out.println("LinkedList:");
+		List linkedList = new LinkedList();
+		linkedList.add("Madhu");
+		linkedList.add("Gaddam");
+		linkedList.add(0, "prathap");
+		System.out.println(linkedList);
+		
+		System.out.println("stack:");
+		List stack = new Stack();
+		stack.add("Madhu");
+		stack.add("Gaddam");
+		stack.add(0, "prathap");
+		System.out.println(stack);
 		
 		Collection sort = new LinkedList();
 		sort.add(1);
 		sort.add(2);
+		sort.add("Madhu");
 		for (Object object : sort) {
 			System.out.println(object);
 		}
@@ -105,10 +131,27 @@ public class Test {
 		System.out.println(Integer.valueOf('A'));
 		
 		
+		List ll = new ArrayList();
+		ll.add("Madhu");
+		ll.add(12);
+		System.out.println(ll);
+		
+		System.out.println("LinkedHashMap");
+		Map map2 = new LinkedHashMap();
+		map2.put("Madhu", "madhu");
+		map2.put(1, 1);
+		
+		System.out.println("tree map");
+		Map map1 = new TreeMap();
+		map1.put(12, 12);
+		map1.put("Madhu", "madhu");
+		System.out.println(map1.keySet().toArray());
+		
 		System.out.println("tree set");
 		Set tree1 = new TreeSet();
-		tree1.add("7");
+		tree1.add("Madhu");
 		tree1.add(9);
+		System.out.println(tree1);
 		
 		iterator = tree1.iterator();
 		while (iterator.hasNext()) {

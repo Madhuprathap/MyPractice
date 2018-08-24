@@ -6,6 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.UTFDataFormatException;
 import java.net.URLDecoder;
+import java.util.Arrays;
 
 import org.apache.commons.io.IOUtils;
 
@@ -27,7 +28,11 @@ public static void main(String[] args) throws Exception {
 	             requestBody .append(charBuffer, 0, bytesRead);  
 	         }*/  
 	   System.out.println(URLDecoder.decode("%3C1%262","UTF-8"));
-		 
+	   
+	   String[] values = new String[2];
+	   values = "".split(("-"));
+	   System.out.println("   "+values.length);
+	   System.out.println(values[1]);
 
 }
 }

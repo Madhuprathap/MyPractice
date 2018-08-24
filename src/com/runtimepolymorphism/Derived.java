@@ -1,5 +1,6 @@
 package com.runtimepolymorphism;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class Derived extends Base{
@@ -9,11 +10,12 @@ public class Derived extends Base{
 		System.out.println("Dervied constructor");
 	}
 	
-	
-	public void update(User user) throws IOException, NullPointerException{
+	@Override
+	public void update(User user) throws IOException, FileNotFoundException, NullPointerException{
 		user.email = "test@test.com";
 		System.out.println("derived update");
-		super.update(user);
+//		super.update(user);
+//		throw new Exception();
 	}
 
 	public void direvedOnlyMethod() {

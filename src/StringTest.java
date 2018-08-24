@@ -4,7 +4,17 @@ import java.util.ArrayList;
 
 public class StringTest {
 	public static void main(String[] args) {
-		String toExpand = "margin-left: 30px; padding: 4px;\n<br /> {MAHDU-prathap}\n<br /> \n<br /> \n<span style=\"background-color:#FFFF00;\">sdfsdf adsfasf dfa<br /> sdfasd</span> \n<div style=\"text-align: right;\">\n asdfa adfasdf\n</div> \n<div style=\"text-align: justify;\">\n <span style=\"font-size:10px;margin-left: 40px; padding: 4px;\"><span style=\"font-family:arial,helvetica,sans-serif;\">asdf</span></span>\n</div>";
+		String toExpand = "margin-left: 30px; padding: 4px;\r\n" + 
+				"<br /> , MAHDU-prathap, \r\n" + 
+				"<br /> \r\n" + 
+				"<br /> \r\n" + 
+				"<span style=\"background-color:#FFFF00;\">sdfsdf adsfasf dfa<br /> sdfasd</span> \r\n" + 
+				"<div style=\"text-align: right;\">\r\n" + 
+				" asdfa adfasdf\r\n" + 
+				"</div> \r\n" + 
+				"<div style=\"text-align: justify;\">\r\n" + 
+				" <span style=\"font-size:10px;margin-left: 40px; padding: 4px;\"><span style=\"font-family:arial,helvetica,sans-serif;\">asdf</span></span>\r\n" + 
+				"</div>";
 		ArrayList pieces = new ArrayList();
 
         int start = 0;
@@ -27,6 +37,5 @@ public class StringTest {
             str = str.replaceAll("\\\\([{}])", "$1");
             pieces.add(str);
         }
-        
 	}
 }

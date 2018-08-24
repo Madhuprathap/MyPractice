@@ -11,13 +11,13 @@ public class Base {
 		user.name = "Madhu";
 		try {
 			update(user);
-		} catch (IOException e) {
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
 
-	public void update(User user) throws IOException {
+	public void update(User user) throws Exception {
 		System.out.println("base update" + user.name);
 		System.out.println("base update" + user.email);
 	}

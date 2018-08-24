@@ -10,7 +10,7 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		/*System.out.println("call by value=================");
+		System.out.println("call by value=================");
 		int i = 1;
 		callbyValue(i);
 		System.out.println(i);
@@ -18,6 +18,10 @@ public class Test {
 		Integer val = new Integer(4);
 		callByRef(val);
 		System.out.println(val);
+		
+		String str = new String("Madhu,"); 
+		callByRef(str);
+		System.out.println(str);
 		
 		System.out.println("call by ref=================");
 		int[] value = new int[] {1,2,3};
@@ -48,13 +52,22 @@ public class Test {
 		for (int index = 0; index < value.length; index++) {
 			System.out.println(intergerArray[index]);
 		}
-		*/
+		
 		StringBuilder strBuilder = new StringBuilder("Madhu,"); 
 		callByRef(strBuilder);
 		System.out.println(strBuilder);
 		
 	}
 	
+	private static void callByRef(String str) {
+		System.out.println("String: "+str.toString());
+		if (',' == (str.charAt(str.length()-1))) {
+			str = str.substring(0, str.length()-1);
+		}
+		System.out.println(str.toString());
+		
+	}
+
 	private static void callByRef(StringBuilder strBuilder) {
 		System.out.println("StringBuilder: "+strBuilder.toString());
 		if (',' == (strBuilder.charAt(strBuilder.length()-1))) {
@@ -93,6 +106,7 @@ public class Test {
 	private static void callbyValue(int i) {
 		System.out.println(++i);
 		++i;
+		System.out.println(i);
 	}
 
 }

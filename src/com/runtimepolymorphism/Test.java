@@ -1,7 +1,12 @@
 package com.runtimepolymorphism;
 
+import java.io.IOException;
+import java.sql.Timestamp;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
+
+import statictest.test;
 
 
 public class Test {
@@ -27,6 +32,49 @@ public class Test {
 			e.printStackTrace();
 		}
 		
+		try {
+			((Derived)base).update(new User());
+		} catch (NullPointerException | IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		List<String> name = new ArrayList<String>();
+		name.add("Madhu");
+		name.add("Prathap");
+		name.add("Janu");
+		System.out.println(name.size());
+		name.set(1, "gaddam");
+		System.out.println(name.size());
+		Iterator<String> it = name.iterator();
+		while (it.hasNext()) {
+			String t = it.next();
+			System.out.println(t);
+		}
+		name.add(1, "Test");
+		System.out.println(name.size());
+		it = name.iterator();
+		while (it.hasNext()) {
+			String t = it.next();
+			System.out.println(t);
+		}
+		test(new Integer(1));
+		test(1);
+		
+		System.out.println(new Timestamp(1533640857851L));
 	}
-
+	
+	public static void test(Object a) {
+		System.out.println("test Object");
+	}
+	
+	public static void test(Integer a) {
+		System.out.println("test Integer");
+	}
+	
+	public static void test(int a) {
+		System.out.println("test int");
+	}
+	
 }
