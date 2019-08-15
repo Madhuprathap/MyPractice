@@ -15,8 +15,17 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		float f = 45.1f;
+		long l = (long) f;
+		System.out.println(l);
+		
+		long l1 = 123132l;
+		float f1 = l1;
+		System.out.println(f1);
+		
 		Base base = new Derived();//Upcast, can only call methods from interface Base
 		//Run time polymorphism, overwritten method of object created gets called, here derived calls methods.
+		((Derived)base).direvedOnlyMethod();
 //		Derived derived = (Derived) new Base(); //Downcast, runtimeexception classcastexception
 //		derived.direvedOnlyMethod();
 		((Derived)base).direvedOnlyMethod();
@@ -44,7 +53,7 @@ public class Test {
 		name.add("Madhu");
 		name.add("Prathap");
 		name.add("Janu");
-		System.out.println(name.size());
+		System.out.println(" jjk "+name.size());
 		name.set(1, "gaddam");
 		System.out.println(name.size());
 		Iterator<String> it = name.iterator();
