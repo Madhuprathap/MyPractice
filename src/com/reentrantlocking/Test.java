@@ -43,7 +43,7 @@ public class Test {
 	      
 	       daemonThread.setDaemon(true); //making this thread daemon
 	       daemonThread.start();
-	       Thread.sleep(10000);
+//	       Thread.sleep(10000);
 	}
 
 }

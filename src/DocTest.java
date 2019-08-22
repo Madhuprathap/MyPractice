@@ -13,6 +13,8 @@ public class DocTest {
 	
 	@Test
     public void testElementNameExists() throws Exception {
+		InputStream tt = getClass().getResourceAsStream("/com/images/DataListItemResources_en.xml");
+		System.out.println(tt);
         InputStream stream = getClass().getResourceAsStream("DataListItemResources_en.xml");
         DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
         Document doc = builder.parse(stream);

@@ -1,5 +1,6 @@
 package com.runtimepolymorphism;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class Base {
@@ -26,5 +27,7 @@ public class Base {
 		System.out.println("Base" + x);
 	}
 
-	
+	public void exceptionCheck() throws IOException, ClassNotFoundException{
+		System.out.println("Base exceptionCheck");
+	}
 }

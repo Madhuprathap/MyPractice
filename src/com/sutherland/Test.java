@@ -54,7 +54,7 @@ public class Test {
 		
 		Scanner scanner = new Scanner(System.in);
 		String txt = scanner.next().trim();
-		System.out.println(Integer.parseInt(txt));
+//		System.out.println(Integer.parseInt(txt));
 		/*Test t;
 		t.dispaly();*/
 		int[] intArray = new int[10];
@@ -140,6 +140,7 @@ public class Test {
 		Map map2 = new LinkedHashMap();
 		map2.put("Madhu", "madhu");
 		map2.put(1, 1);
+		System.out.println(map2);
 		
 		System.out.println("tree map");
 		Map map1 = new TreeMap();

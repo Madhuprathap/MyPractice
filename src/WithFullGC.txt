@@ -1,0 +1,1425 @@
+5738	05:17:50.379	AskQuestion Thread Group 1-4	Understanding Collection performance	404	Success	17788	1626	400	21
+5737	05:17:50.467	AskQuestion Thread Group 1-2	QuickDraw GX	247	Success	16971	1600	244	0
+5740	05:17:50.690	AskQuestion Thread Group 1-1	x500@umich.edu	263	Success	2733	1600	263	22
+5741	05:17:50.714	AskQuestion Thread Group 1-2	Rearranging Images in the Browser	466	Success	19569	1627	464	0
+5743	05:17:50.783	AskQuestion Thread Group 1-4	Bioinformatics Benchmark System (BBSv3): Dual Processor Details	477	Success	3109	1661	477	0
+5742	05:17:50.801	AskQuestion Thread Group 1-3	VideoSyncII	435	Success	5507	1597	435	0
+5744	05:17:50.957	AskQuestion Thread Group 1-1	Garantie limitÃ©e des supports	632	Success	22662	1632	616	0
+5746	05:17:51.181	AskQuestion Thread Group 1-2	Xsan_Admin_Guide_v1.4.pdf	557	Success	19056	1611	554	24
+5745	05:17:51.237	AskQuestion Thread Group 1-3	PowerBook 5300 System Software	440	Success	18257	1622	318	0
+5747	05:17:51.261	AskQuestion Thread Group 1-4	Tilladelse til brug af data	599	Success	20228	1621	595	0
+5749	05:17:51.589	AskQuestion Thread Group 1-1	ERROR status	571	Success	20859	1600	566	0
+5748	05:17:51.677	AskQuestion Thread Group 1-3	Open a web page by typing a URL	372	Success	19621	1631	367	0
+5750	05:17:51.738	AskQuestion Thread Group 1-2	Allocation Percentage	490	Success	18182	1609	487	0
+5751	05:17:51.860	AskQuestion Thread Group 1-4	NSAccessibility Protocol	468	Success	17145	1612	463	0
+5752	05:17:52.049	AskQuestion Thread Group 1-3	macos100_intro_for_tech-EN.pdf	454	Success	19334	1616	449	11
+5753	05:17:52.160	AskQuestion Thread Group 1-1	fidelity_doc_1032.html	378	Success	12044	1608	377	0
+5754	05:17:52.228	AskQuestion Thread Group 1-2	Additive primaries	446	Success	18485	1606	441	0
+5755	05:17:52.328	AskQuestion Thread Group 1-4	Transferring a Call	469	Success	19478	1609	465	0
+5757	05:17:52.503	AskQuestion Thread Group 1-3	Adding Text to a Sequence	670	Success	18299	1619	667	0
+5756	05:17:52.538	AskQuestion Thread Group 1-1	Control Bar	591	Success	19318	1599	587	0
+5758	05:17:52.674	AskQuestion Thread Group 1-2	System Enabler 403	500	Success	15207	1608	499	0
+5759	05:17:52.798	AskQuestion Thread Group 1-4	TIFFS directory	535	Success	19594	1603	530	20
+5760	05:17:53.129	AskQuestion Thread Group 1-1	Commercial developer	426	Success	20423	1608	420	18
+5762	05:17:53.173	AskQuestion Thread Group 1-3	Cost Basis of Powertel Share	645	Success	18327	1622	641	0
+5761	05:17:53.175	AskQuestion Thread Group 1-2	Connecting an External Video Monitor and Audio Speakers	459	Success	29895	1655	455	0
+5763	05:17:53.334	AskQuestion Thread Group 1-4	Certificates missing CUSIP numbers	485	Success	16814	1626	482	0
+5765	05:17:53.555	AskQuestion Thread Group 1-1	Apple IIGS ShrinkIt archive in Binary II format	524	Success	21512	1647	520	0
+5764	05:17:53.634	AskQuestion Thread Group 1-2	245102.pdf	330	Success	2552	1596	330	18
+5766	05:17:53.818	AskQuestion Thread Group 1-3	Matching keys from IOKitKeys.h 3	299	Success	4447	1626	298	0
+5767	05:17:53.819	AskQuestion Thread Group 1-4	HCIIGS 1.1-4of6.sea	313	Success	15329	1607	309	0
+5768	05:17:53.964	AskQuestion Thread Group 1-2	Contrato Ã­ntegro	435	Success	16230	1615	431	0
+5770	05:17:54.079	AskQuestion Thread Group 1-1	Choosing a Screen Layout	560	Success	20379	1616	557	0
+5771	05:17:54.117	AskQuestion Thread Group 1-3	Setting SNMP Traps	703	Success	20043	1608	699	11
+5769	05:17:54.133	AskQuestion Thread Group 1-4	LiveType-software	314	Success	17442	1603	311	0
+5772	05:17:54.400	AskQuestion Thread Group 1-2	Going Beyond the Basics	430	Success	20753	1615	423	0
+5773	05:17:54.448	AskQuestion Thread Group 1-4	Schema validation	506	Success	18324	1605	502	0
+5774	05:17:54.640	AskQuestion Thread Group 1-1	Browsing web pages	474	Success	18519	1608	470	0
+5776	05:17:54.821	AskQuestion Thread Group 1-3	9 Fidelity Advisor Municipal Income Fund Class I	487	Success	45035	1648	483	0
+5775	05:17:54.830	AskQuestion Thread Group 1-2	Creating disk images	386	Success	17085	1610	382	0
+5777	05:17:54.954	AskQuestion Thread Group 1-4	Putting a Call on Hold	470	Success	17749	1616	467	24
+5778	05:17:55.114	AskQuestion Thread Group 1-1	Most Innovative	320	Success	17025	1603	316	0
+5779	05:17:55.216	AskQuestion Thread Group 1-2	VoiceStream and Powertel	339	Success	15877	1614	335	0
+5782	05:17:55.308	AskQuestion Thread Group 1-3	Displaying Specific Metadata with Your Images	469	Success	20584	1641	467	0
+5780	05:17:55.424	AskQuestion Thread Group 1-4	fidelity_doc_1057.html	278	Success	4934	1608	277	0
+5781	05:17:55.435	AskQuestion Thread Group 1-1	LaserWriter Pro 600 and 630	323	Success	19308	1621	318	18
+5784	05:17:55.555	AskQuestion Thread Group 1-2	Delete a SIM card contact	473	Success	19182	1619	469	0
+5786	05:17:55.702	AskQuestion Thread Group 1-4	763077G	439	Success	11043	1593	437	0
+5785	05:17:55.758	AskQuestion Thread Group 1-1	Installing the ClarisImpact 2.0v3 update	292	Success	16822	1634	288	0
+5783	05:17:55.778	AskQuestion Thread Group 1-3	Gavin.Eadie@UMich.EDU	242	Success	2785	1607	242	0
+5789	05:17:56.021	AskQuestion Thread Group 1-3	Tax considerations	541	Success	14408	1606	538	0
+5787	05:17:56.028	AskQuestion Thread Group 1-2	Savings in Tax Deferred Retirement	363	Success	19793	1628	360	21
+5790	05:17:56.051	AskQuestion Thread Group 1-1	Limitation de responsabilitÃ©	681	Success	22341	1629	676	0
+5788	05:17:56.141	AskQuestion Thread Group 1-4	iMovie HD 6.0.3	334	Success	11030	1605	333	0
+5791	05:17:56.391	AskQuestion Thread Group 1-2	What is native editing?	388	Success	20712	1615	384	0
+5792	05:17:56.487	AskQuestion Thread Group 1-4	Vertical Multitrack Controls	436	Success	20827	1618	432	0
+5793	05:17:56.562	AskQuestion Thread Group 1-3	CONTEST RULES	508	Success	17241	1601	506	20
+5795	05:17:56.732	AskQuestion Thread Group 1-1	NOMINEES	505	Success	14002	1594	503	0
+5794	05:17:56.779	AskQuestion Thread Group 1-2	XserveRAID_UserGuide.PDF	300	Success	14847	1610	296	0
+5797	05:17:56.923	AskQuestion Thread Group 1-4	Adjustments Inspector	772	Success	20732	1609	768	0
+5796	05:17:57.071	AskQuestion Thread Group 1-3	763069	280	Success	2944	1592	280	0
+5800	05:17:57.079	AskQuestion Thread Group 1-2	Assistive application	729	Success	22381	1609	725	0
+5798	05:17:57.237	AskQuestion Thread Group 1-1	Viewing phone information	479	Success	20185	1615	475	0
+5799	05:17:57.352	AskQuestion Thread Group 1-3	Identifying Suspect Units	381	Success	16127	1615	375	0
+5801	05:17:57.695	AskQuestion Thread Group 1-4	5xxx-6xxx_Tester_1.0_Info.txt	315	Success	16822	1615	311	20
+5804	05:17:57.716	AskQuestion Thread Group 1-1	Controlling Contrast	457	Success	19392	1608	455	18
+5803	05:17:57.733	AskQuestion Thread Group 1-3	Opening a Telnet Session	391	Success	19054	1616	386	0
+5802	05:17:57.809	AskQuestion Thread Group 1-2	Dell PowerEdge 1850	270	Success	4464	1609	269	0
+5805	05:17:58.010	AskQuestion Thread Group 1-4	Powertel Merger	386	Success	17937	1603	383	0
+5806	05:17:58.079	AskQuestion Thread Group 1-2	AccessingHardware.pdf	350	Success	12693	1607	347	18
+5808	05:17:58.124	AskQuestion Thread Group 1-3	Call Barring	525	Success	18451	1600	471	0
+5807	05:17:58.174	AskQuestion Thread Group 1-1	Dialect resolution	381	Success	14454	1606	378	0
+5809	05:17:58.396	AskQuestion Thread Group 1-4	fidelity_doc_1085.html	255	Success	4934	1608	254	0
+5810	05:17:58.429	AskQuestion Thread Group 1-2	Aviso sobre H.264/AVC	325	Success	23567	1611	322	0
+5814	05:17:58.555	AskQuestion Thread Group 1-1	Call an emergency phone number	609	Success	21412	1624	603	0
+5811	05:17:58.649	AskQuestion Thread Group 1-3	245101.pdf	289	Success	2553	1596	289	14
+5812	05:17:58.651	AskQuestion Thread Group 1-4	Apple Video Player	346	Success	17069	1608	343	0
+5813	05:17:58.754	AskQuestion Thread Group 1-2	Creating Versions of an Image	391	Success	18785	1623	387	0
+5815	05:17:58.939	AskQuestion Thread Group 1-3	APPLEVDO.INF	239	Success	2698	1598	238	0
+5816	05:17:58.997	AskQuestion Thread Group 1-4	Scanner	239	Success	15108	1593	235	0
+5817	05:17:59.145	AskQuestion Thread Group 1-2	ContrÃ´le des exportations	391	Success	27974	1626	387	0
+5820	05:17:59.165	AskQuestion Thread Group 1-1	Fidelity Asset Manager	519	Success	16874	1612	516	0
+5818	05:17:59.178	AskQuestion Thread Group 1-3	Enter Stock or Market Index Symbol	360	Success	16886	1630	356	0
+5819	05:17:59.236	AskQuestion Thread Group 1-4	Mounting disk images	305	Success	18025	1610	301	0
+5822	05:17:59.536	AskQuestion Thread Group 1-2	AppleScript Scripting Additions Guide	499	Success	21435	1629	495	0
+5821	05:17:59.538	AskQuestion Thread Group 1-3	HCIIGS 1.1-5of6.sea	327	Success	3223	1607	327	0
+5823	05:17:59.541	AskQuestion Thread Group 1-4	Quarterly Report on Form 10-Q	503	Success	19202	1623	390	0
+5825	05:17:59.684	AskQuestion Thread Group 1-1	Setting TTY options	633	Success	19578	1609	629	0
+5824	05:17:59.865	AskQuestion Thread Group 1-3	PowerBook Duo Enabler	339	Success	22631	1611	335	0
+5826	05:18:00.035	AskQuestion Thread Group 1-2	Student developer	408	Success	16132	1605	404	0
+5828	05:18:00.044	AskQuestion Thread Group 1-4	Creating Artificially High Contrast	553	Success	20458	1627	549	12
+5827	05:18:00.205	AskQuestion Thread Group 1-3	TÃ©rmino	338	Success	16245	1604	335	0
+5831	05:18:00.317	AskQuestion Thread Group 1-1	Sending Messages	595	Success	18490	1604	589	17
+5829	05:18:00.444	AskQuestion Thread Group 1-2	MovingProjectsToXcode.pdf	356	Success	12678	1611	352	11
+5830	05:18:00.544	AskQuestion Thread Group 1-3	Apple Remote Access 1.0 Modem Script	307	Success	18892	1632	304	0
+5833	05:18:00.597	AskQuestion Thread Group 1-4	Locale Naming Conventions	568	Success	18450	1615	564	0
+5850	05:18:00.801	AskQuestion Thread Group 1-2	Fidelity Blue Chip Growth Fund	2985	Success	12603	1624	2984	0
+5832	05:18:00.852	AskQuestion Thread Group 1-3	246109.pdf	290	Success	2552	1596	290	17
+5834	05:18:00.913	AskQuestion Thread Group 1-1	Mute a phone call	536	Success	18098	1609	532	0
+5836	05:18:01.142	AskQuestion Thread Group 1-3	fidelity_doc_1098.html	796	Success	12048	1608	788	0
+5837	05:18:01.165	AskQuestion Thread Group 1-4	Fabric Connection	853	Success	20561	1605	844	0
+5835	05:18:01.449	AskQuestion Thread Group 1-1	Subtractive primaries	380	Success	16101	1609	376	0
+5838	05:18:01.829	AskQuestion Thread Group 1-1	BSEC FIND	489	Success	15333	1597	486	0
+5839	05:18:01.938	AskQuestion Thread Group 1-3	ASCII Character	574	Success	19040	1603	570	0
+5840	05:18:02.019	AskQuestion Thread Group 1-4	Setting voice mail options	513	Success	18141	1618	509	0
+5841	05:18:02.318	AskQuestion Thread Group 1-1	UsuÃ¡rios do Governo	394	Success	3962	1620	394	12
+5842	05:18:02.513	AskQuestion Thread Group 1-3	Deutsche Telekom	302	Success	10822	1604	302	0
+5843	05:18:02.532	AskQuestion Thread Group 1-4	Metadata Inspector	366	Success	17923	1606	362	21
+5844	05:18:02.712	AskQuestion Thread Group 1-1	033-2287-A_ServerSupportGuide.pdf	295	Success	13866	1619	291	0
+5845	05:18:02.815	AskQuestion Thread Group 1-3	DOS Compatibility Software Update	502	Success	18374	1625	498	0
+5847	05:18:02.898	AskQuestion Thread Group 1-4	Correcting and Coloring Images	442	Success	19029	1622	439	0
+5846	05:18:03.007	AskQuestion Thread Group 1-1	LINPACK	325	Success	6868	1593	325	0
+5848	05:18:03.317	AskQuestion Thread Group 1-3	Receiving and Reading Messages	417	Success	20082	1622	412	19
+5849	05:18:03.333	AskQuestion Thread Group 1-1	763077H	409	Success	11046	1593	408	0
+5851	05:18:03.341	AskQuestion Thread Group 1-4	Regulatory Approvals	461	Success	19404	1608	457	0
+5852	05:18:03.734	AskQuestion Thread Group 1-3	Avis MPEG-2	324	Success	20664	1599	321	0
+5855	05:18:03.742	AskQuestion Thread Group 1-1	Alternate between phone calls	618	Success	18806	1621	615	0
+5854	05:18:03.786	AskQuestion Thread Group 1-2	Gavin King	356	Success	14356	1598	353	12
+5853	05:18:03.802	AskQuestion Thread Group 1-4	Understanding Image Versions	331	Success	19417	1618	327	0
+5858	05:18:04.059	AskQuestion Thread Group 1-3	Computational power	431	Success	18819	1607	427	0
+5856	05:18:04.133	AskQuestion Thread Group 1-4	fidelity_doc_1129.html	247	Success	4937	1608	247	0
+5857	05:18:04.142	AskQuestion Thread Group 1-2	VoiceStream Wireless Corporation	342	Success	17731	1622	340	0
+5862	05:18:04.360	AskQuestion Thread Group 1-1	Example of Accessibility	694	Success	20047	1614	690	18
+5859	05:18:04.380	AskQuestion Thread Group 1-4	Command syntax for standard AppleScript scripting	475	Success	20631	1645	471	0
+5860	05:18:04.485	AskQuestion Thread Group 1-2	Why edit HDV natively?	398	Success	23583	1614	393	0
+5861	05:18:04.491	AskQuestion Thread Group 1-3	Canadian Quote	419	Success	14839	1602	416	0
+5865	05:18:04.855	AskQuestion Thread Group 1-4	Disk Tools for Mac OS 8.1 PowerPC-based computers	443	Success	19453	1649	441	15
+5866	05:18:04.883	AskQuestion Thread Group 1-2	Set general phone options	613	Success	19935	1617	609	0
+5864	05:18:04.911	AskQuestion Thread Group 1-3	Initiator with Stealth	387	Success	18063	1612	382	0
+5863	05:18:05.054	AskQuestion Thread Group 1-1	UsuÃ¡rios do Governo	242	Success	3962	1620	241	0
+5868	05:18:05.296	AskQuestion Thread Group 1-1	Installing and Printing the PostScript Version of the Color Chart Over NetWare	643	Success	21457	1686	641	0
+5871	05:18:05.298	AskQuestion Thread Group 1-3	Ease 3.0.3 Updater	6205	Success	17924	1608	6203	0
+5867	05:18:05.299	AskQuestion Thread Group 1-4	incompatibilities with Avid Cinema	381	Success	17707	1626	379	0
+5874	05:18:05.497	AskQuestion Thread Group 1-2	LaserWriter 8.3.3	7008	Success	2970	1605	7007	0
+5869	05:18:05.680	AskQuestion Thread Group 1-4	Control de las exportaciones	514	Success	21349	1620	509	0
+5870	05:18:05.939	AskQuestion Thread Group 1-1	Dissenting Shares	5561	Success	17233	1605	5558	0
+5876	05:18:06.194	AskQuestion Thread Group 1-4	Powertel	6416	Success	15439	1594	6414	0
+5872	05:18:11.501	AskQuestion Thread Group 1-1	Phonebook	708	Success	15079	1595	705	21
+5873	05:18:11.504	AskQuestion Thread Group 1-3	Fidelity Balanced Fund	706	Success	20798	1612	703	19
+5875	05:18:12.209	AskQuestion Thread Group 1-1	Materials	391	Success	19458	1595	388	0
+5877	05:18:12.210	AskQuestion Thread Group 1-3	Paperwork retention requirement	407	Success	15163	1621	404	0
+5878	05:18:12.506	AskQuestion Thread Group 1-2	WorkingWithFW.pdf	314	Success	12601	1603	314	14
+5880	05:18:12.600	AskQuestion Thread Group 1-1	Vaults Panel	429	Success	16927	1600	427	0
+5882	05:18:12.612	AskQuestion Thread Group 1-4	BEST MAC OS X LEOPARD APPLICATION	682	Success	19073	1629	678	18
+5879	05:18:12.617	AskQuestion Thread Group 1-3	Use alpha-dialing	296	Success	6317	1605	296	0
+5881	05:18:12.820	AskQuestion Thread Group 1-2	Secondary Color Correction	415	Success	19553	1616	412	0
+5883	05:18:12.914	AskQuestion Thread Group 1-3	Rack of servers containing	438	Success	19539	1618	434	0
+5884	05:18:13.029	AskQuestion Thread Group 1-1	Built-in sensors	437	Success	18768	1604	434	0
+5885	05:18:13.236	AskQuestion Thread Group 1-2	fidelity_doc_1211.html	378	Success	12049	1608	378	0
+5887	05:18:13.294	AskQuestion Thread Group 1-4	Scriptable Text Editor	416	Success	18748	1612	412	0
+5886	05:18:13.352	AskQuestion Thread Group 1-3	Color Classic Update	357	Success	17447	1610	353	0
+5888	05:18:13.466	AskQuestion Thread Group 1-1	HCIIGS 1.1-6of6.sea	260	Success	15248	1607	257	0
+5889	05:18:13.615	AskQuestion Thread Group 1-2	Appraisal Rights	337	Success	18949	1604	333	0
+5890	05:18:13.710	AskQuestion Thread Group 1-4	763047A	261	Success	2688	1593	261	0
+5891	05:18:13.710	AskQuestion Thread Group 1-3	Reverse Alpha	366	Success	15180	1601	362	23
+5892	05:18:13.727	AskQuestion Thread Group 1-1	Copying Images and Moving Images to Different Locations	384	Success	19417	1655	380	18
+5894	05:18:13.952	AskQuestion Thread Group 1-2	Employee BeneÃ‘ts	522	Success	13763	1618	519	0
+5895	05:18:13.971	AskQuestion Thread Group 1-4	BEST MAC OS X GAME	526	Success	18922	1612	522	0
+5896	05:18:14.077	AskQuestion Thread Group 1-3	DigiSign digital signatures	492	Success	18497	1617	488	0
+5893	05:18:14.112	AskQuestion Thread Group 1-1	246105.pdf	295	Success	2554	1596	295	0
+5897	05:18:14.408	AskQuestion Thread Group 1-1	Steve Ebersole	270	Success	2945	1602	269	0
+5898	05:18:14.475	AskQuestion Thread Group 1-2	Integralidade; Idioma Prevalecente	470	Success	18979	1624	464	0
+5901	05:18:14.497	AskQuestion Thread Group 1-4	Using Livetype with Final Cut Pro	589	Success	21455	1629	586	0
+5900	05:18:14.569	AskQuestion Thread Group 1-3	Accessibility Keyboard Shortcuts	501	Success	20070	1622	496	0
+5899	05:18:14.678	AskQuestion Thread Group 1-1	Lifetime of Locale Objects	352	Success	20067	1618	351	0
+5902	05:18:14.945	AskQuestion Thread Group 1-2	Xserve G5	330	Success	16312	1597	327	19
+5903	05:18:15.032	AskQuestion Thread Group 1-1	Voice Dial	487	Success	18272	1598	483	0
+5906	05:18:15.070	AskQuestion Thread Group 1-3	Delete a phone call log	549	Success	18829	1617	546	0
+5904	05:18:15.087	AskQuestion Thread Group 1-4	installing System 7.5 Update	443	Success	18877	1620	437	15
+5905	05:18:15.276	AskQuestion Thread Group 1-2	Fidelity Dividend Growth Fund	313	Success	21146	1621	307	0
+5907	05:18:15.519	AskQuestion Thread Group 1-1	self-extracting archive of DOS files	412	Success	15700	1630	409	0
+5910	05:18:15.533	AskQuestion Thread Group 1-4	Importing Music from Your Audio CDs into iTunes	538	Success	23878	1647	533	0
+5909	05:18:15.589	AskQuestion Thread Group 1-2	PRINT SERVER 3.0.1	463	Success	22823	1608	458	0
+5908	05:18:15.619	AskQuestion Thread Group 1-3	Aviso acerca de MPEG-2	387	Success	20898	1614	376	0
+5912	05:18:15.932	AskQuestion Thread Group 1-1	Are we really editing native HDV?	445	Success	21550	1629	441	23
+5911	05:18:16.006	AskQuestion Thread Group 1-3	Expenses	311	Success	14775	1594	309	20
+5915	05:18:16.052	AskQuestion Thread Group 1-2	Data Objects	699	Success	19876	1600	695	0
+5913	05:18:16.071	AskQuestion Thread Group 1-4	Avis MPEG-4	383	Success	17711	1599	379	0
+5914	05:18:16.318	AskQuestion Thread Group 1-3	Showing and Hiding Areas of the Interface	423	Success	19426	1639	420	0
+5916	05:18:16.378	AskQuestion Thread Group 1-1	AppleScript support	496	Success	19822	1607	492	0
+5917	05:18:16.454	AskQuestion Thread Group 1-4	VideoSyncII only supports	570	Success	18792	1615	563	0
+5918	05:18:16.742	AskQuestion Thread Group 1-3	AppleScript Language	363	Success	18712	1608	358	0
+5920	05:18:16.751	AskQuestion Thread Group 1-2	Search for a phone call log	786	Success	18626	1623	778	0
+5919	05:18:16.874	AskQuestion Thread Group 1-1	Administrationssoftware	308	Success	6784	1609	308	0
+5922	05:18:17.024	AskQuestion Thread Group 1-4	Managing Firmware and Configuration Files	569	Success	22231	1635	567	0
+5921	05:18:17.105	AskQuestion Thread Group 1-3	Identifying Referenced Images	453	Success	19163	1619	451	0
+5923	05:18:17.182	AskQuestion Thread Group 1-1	PAG_IntroMacOSXforTechs.pdf	427	Success	12697	1613	422	0
+5924	05:18:17.540	AskQuestion Thread Group 1-2	ClarisWorks4.0v5-Edu.txt	305	Success	15631	1610	302	17
+5926	05:18:17.559	AskQuestion Thread Group 1-3	Using LiveType to Create a Motion Menu	470	Success	20563	1636	466	0
+5925	05:18:17.594	AskQuestion Thread Group 1-4	OT 1.1.1-1of4.sea	333	Success	17038	1605	329	19
+5929	05:18:17.609	AskQuestion Thread Group 1-1	Dissenting Shares	921	Success	17232	1605	917	0
+5927	05:18:17.845	AskQuestion Thread Group 1-2	Fidelity Exchange Fund	547	Success	16871	1612	544	0
+5928	05:18:17.927	AskQuestion Thread Group 1-4	Affordable	482	Success	18917	1596	477	0
+5930	05:18:18.029	AskQuestion Thread Group 1-3	Sending DTMF Tones	526	Success	19593	1608	522	20
+5931	05:18:18.392	AskQuestion Thread Group 1-2	Installing the ClarisImpact 2.0v3 update	286	Success	16822	1634	283	0
+5932	05:18:18.409	AskQuestion Thread Group 1-4	763580	304	Success	2727	1592	304	0
+5933	05:18:18.530	AskQuestion Thread Group 1-1	Telebit QBlazer	371	Success	14394	1603	368	14
+5936	05:18:18.555	AskQuestion Thread Group 1-3	BEST MAC OS X STUDENT PRODUCT	739	Success	21044	1625	737	0
+5935	05:18:18.679	AskQuestion Thread Group 1-2	Blackberry_8830_User_Guide.pdf	449	Success	13742	1616	448	0
+5934	05:18:18.713	AskQuestion Thread Group 1-4	Installing Scripting Additions	372	Success	19674	1620	369	0
+5938	05:18:18.901	AskQuestion Thread Group 1-1	Control de las exportaciones	711	Success	21349	1620	708	0
+5937	05:18:19.086	AskQuestion Thread Group 1-4	PowerTalk Gateways	250	Success	15955	1606	247	0
+5941	05:18:19.128	AskQuestion Thread Group 1-2	DOS Clipboard not Supported	658	Success	21098	1619	656	0
+5940	05:18:19.294	AskQuestion Thread Group 1-3	Moves focus to the Dock	413	Success	25141	1617	411	0
+5939	05:18:19.338	AskQuestion Thread Group 1-4	246102.pdf	367	Success	2555	1596	367	0
+5942	05:18:19.613	AskQuestion Thread Group 1-1	How is long GOP MPEG-2 HDV different than regular video codecs?	511	Success	28950	1669	507	0
+5945	05:18:19.706	AskQuestion Thread Group 1-4	Avis AMR	479	Success	18950	1596	473	16
+5943	05:18:19.709	AskQuestion Thread Group 1-3	QT_Streaming_Server_v10.4.pdf	431	Success	22003	1615	427	0
+5944	05:18:19.787	AskQuestion Thread Group 1-2	Background of the Deutsche Telekom	359	Success	17437	1628	355	19
+5948	05:18:20.124	AskQuestion Thread Group 1-1	Apple Menu Options	647	Success	18443	1608	644	0
+5950	05:18:20.140	AskQuestion Thread Group 1-3	Choosing Your Workspace Layout	889	Success	20768	1622	885	21
+5946	05:18:20.146	AskQuestion Thread Group 1-2	fidelity_doc_1244.html	287	Success	4934	1608	287	0
+5947	05:18:20.185	AskQuestion Thread Group 1-4	Fidelity Export and Multinational Fund	513	Success	17348	1632	510	0
+5949	05:18:20.433	AskQuestion Thread Group 1-2	LaserWriter Printing Software	346	Success	17479	1619	341	0
+5951	05:18:20.698	AskQuestion Thread Group 1-4	Accessing and Comparing Bytes	522	Success	20374	1621	517	0
+5953	05:18:20.772	AskQuestion Thread Group 1-1	Monitoring Phone Use	527	Success	19585	1610	521	18
+5952	05:18:20.779	AskQuestion Thread Group 1-2	Avid Cinema 1.1 Update	442	Success	18244	1614	438	0
+5954	05:18:21.029	AskQuestion Thread Group 1-3	OphÃ¸r	306	Success	11029	1602	305	0
+5958	05:18:21.220	AskQuestion Thread Group 1-4	Animating Type with LiveType	704	Success	24906	1620	700	0
+5956	05:18:21.221	AskQuestion Thread Group 1-2	PCI Timing Update	453	Success	15805	1607	449	0
+5955	05:18:21.300	AskQuestion Thread Group 1-1	Goldman Sachs	260	Success	16386	1601	256	0
+5959	05:18:21.336	AskQuestion Thread Group 1-3	Fraskrivelse af ansvar for egenskaber ved Apple-software	714	Success	25742	1654	711	0
+5957	05:18:21.560	AskQuestion Thread Group 1-1	SetPrintersInMacOSX.pdf	364	Success	12667	1609	362	0
+5960	05:18:21.674	AskQuestion Thread Group 1-2	Locating a Referenced Image on a Hard Disk	449	Success	20688	1642	442	0
+5962	05:18:21.924	AskQuestion Thread Group 1-4	PLATFORM INNOVATION	516	Success	19432	1607	509	18
+5964	05:18:21.924	AskQuestion Thread Group 1-1	High-Bandwidth Server Architecture	706	Success	22740	1624	703	0
+5961	05:18:22.052	AskQuestion Thread Group 1-3	Final Cut Studio Workflow	358	Success	19150	1617	355	0
+5963	05:18:22.123	AskQuestion Thread Group 1-2	Is it true that HDV render times are longer?	438	Success	20566	1646	427	18
+5967	05:18:22.410	AskQuestion Thread Group 1-3	Change your call barring password	521	Success	20139	1627	516	19
+5965	05:18:22.441	AskQuestion Thread Group 1-4	Locales	464	Success	18382	1593	461	0
+5966	05:18:22.561	AskQuestion Thread Group 1-2	USER EXPERIENCE	353	Success	17311	1603	348	0
+5968	05:18:22.631	AskQuestion Thread Group 1-1	Viewing and Specifying Preferences	322	Success	20367	1626	318	0
+5972	05:18:22.906	AskQuestion Thread Group 1-4	Data and Fax Calls	625	Success	19395	1610	622	0
+5969	05:18:22.914	AskQuestion Thread Group 1-2	Single-Switch Zoning	338	Success	6592	1608	338	0
+5970	05:18:22.931	AskQuestion Thread Group 1-3	763582	398	Success	2749	1592	398	0
+5971	05:18:22.953	AskQuestion Thread Group 1-1	accessibility.pdf	559	Success	13930	1603	558	19
+5973	05:18:23.252	AskQuestion Thread Group 1-2	Copying Data Objects	515	Success	21811	1610	512	0
+5974	05:18:23.330	AskQuestion Thread Group 1-3	Eksportkontrol	500	Success	19053	1600	496	0
+5976	05:18:23.513	AskQuestion Thread Group 1-1	Activates the next open window in the frontmost application	744	Success	20244	1661	641	0
+5975	05:18:23.531	AskQuestion Thread Group 1-4	Modifying Bytes	687	Success	19573	1603	683	0
+5978	05:18:23.767	AskQuestion Thread Group 1-2	Fidelity Select Banking Portfolio	616	Success	18232	1625	612	0
+5977	05:18:23.830	AskQuestion Thread Group 1-3	Comparison with other AFS Commercial Credit leases	530	Success	21785	1648	527	0
+5980	05:18:24.219	AskQuestion Thread Group 1-4	Creating a Locale Object	656	Success	30448	1616	652	17
+5979	05:18:24.257	AskQuestion Thread Group 1-1	AirCard 710/750 Wireless Network Card	311	Success	17325	1631	307	0
+5982	05:18:24.361	AskQuestion Thread Group 1-3	Working Efficiently	624	Success	20875	1607	620	0
+5981	05:18:24.383	AskQuestion Thread Group 1-2	Emmanuel Bernard	492	Success	4945	1604	492	21
+5983	05:18:24.568	AskQuestion Thread Group 1-1	Replacing Bytes	597	Success	16233	1603	546	0
+5984	05:18:24.875	AskQuestion Thread Group 1-2	Set call forwarding profiles	441	Success	19709	1620	438	0
+5986	05:18:24.875	AskQuestion Thread Group 1-4	Adjusting the Background of the Viewer	628	Success	27935	1634	624	0
+5985	05:18:24.985	AskQuestion Thread Group 1-3	GSM Wireless Networks	465	Success	19421	1611	461	18
+5987	05:18:25.166	AskQuestion Thread Group 1-1	GÃ¦ldende lovgivning og tilsidesÃ¦ttelse af bestemmelser	433	Success	13914	1672	418	10
+5988	05:18:25.317	AskQuestion Thread Group 1-2	Replacing Bytes	435	Success	16233	1603	432	0
+5989	05:18:25.451	AskQuestion Thread Group 1-3	Creating Date Objects	519	Success	22260	1611	514	0
+5991	05:18:25.503	AskQuestion Thread Group 1-4	Network Selection	489	Success	18488	1605	486	0
+5990	05:18:25.600	AskQuestion Thread Group 1-1	Copias acadÃ©micas	376	Success	20534	1616	373	0
+5992	05:18:25.752	AskQuestion Thread Group 1-2	fidelity_doc_1307.html	286	Success	4934	1608	286	0
+5993	05:18:25.970	AskQuestion Thread Group 1-3	246101.pdf	360	Success	2554	1596	360	0
+5994	05:18:25.977	AskQuestion Thread Group 1-1	Recovering a Bad Zone Automatically	399	Success	19669	1629	394	0
+5995	05:18:25.993	AskQuestion Thread Group 1-4	Locking and Unlocking Your Phone	411	Success	19275	1626	407	0
+5996	05:18:26.038	AskQuestion Thread Group 1-2	GPRS packet mode data connections	538	Success	20561	1627	529	0
+5999	05:18:26.330	AskQuestion Thread Group 1-3	Enable or disable a call forwarding profile	527	Success	20396	1641	523	0
+5997	05:18:26.376	AskQuestion Thread Group 1-1	768866	266	Success	2749	1592	266	0
+5998	05:18:26.404	AskQuestion Thread Group 1-4	Fidelity Select Financial Services Portfolio	399	Success	33506	1638	394	19
+6004	05:18:26.577	AskQuestion Thread Group 1-2	Cascading Switches	915	Success	17758	1606	911	12
+6000	05:18:26.644	AskQuestion Thread Group 1-1	Australia	367	Success	15033	1595	362	0
+6002	05:18:26.803	AskQuestion Thread Group 1-4	Fidelity Account Change of Registration Form	400	Success	20085	1640	397	0
+6001	05:18:26.857	AskQuestion Thread Group 1-3	Gateway	299	Success	16641	1593	295	0
+6003	05:18:27.012	AskQuestion Thread Group 1-1	PERFORMANCE OPTIMIZATION	479	Success	19539	1612	475	0
+6005	05:18:27.156	AskQuestion Thread Group 1-3	Automatic waiver	397	Success	14392	1604	395	22
+6006	05:18:27.203	AskQuestion Thread Group 1-4	Delegation	397	Success	17457	1596	394	0
+6009	05:18:27.491	AskQuestion Thread Group 1-1	Hibernate Reference	530	Success	14137	1607	526	18
+6010	05:18:27.492	AskQuestion Thread Group 1-2	Fidelity Select Utilities Growth Portfolio	531	Success	20336	1636	527	0
+6008	05:18:27.553	AskQuestion Thread Group 1-3	è²¬ä»»ã�®åˆ¶é™�	438	Success	14301	1685	437	0
+6007	05:18:27.600	AskQuestion Thread Group 1-4	Consenso all'utilizzo dei dati	331	Success	24343	1622	327	0
+6011	05:18:27.931	AskQuestion Thread Group 1-4	fidelity_doc_1100.pdf	310	Success	4912	1607	310	0
+6012	05:18:27.991	AskQuestion Thread Group 1-3	BlackBerry	338	Success	16568	1596	333	0
+6014	05:18:28.021	AskQuestion Thread Group 1-1	Transferring Files Between Computers	577	Success	20922	1628	573	0
+6013	05:18:28.023	AskQuestion Thread Group 1-2	Tree Cascades	391	Success	16662	1601	387	0
+6016	05:18:28.242	AskQuestion Thread Group 1-4	Final Cut Express HD	448	Success	16805	1612	445	0
+6015	05:18:28.329	AskQuestion Thread Group 1-3	768868	357	Success	2727	1592	357	0
+6017	05:18:28.414	AskQuestion Thread Group 1-2	Loading and storing objects	492	Success	19790	1619	491	0
+6018	05:18:28.599	AskQuestion Thread Group 1-1	YleistÃ¤	338	Success	629	1604	338	0
+6019	05:18:28.687	AskQuestion Thread Group 1-3	242309.pdf	454	Success	12603	1596	453	0
+6020	05:18:28.690	AskQuestion Thread Group 1-4	Protecting Web Transactions	528	Success	19355	1617	524	19
+6024	05:18:28.907	AskQuestion Thread Group 1-2	Quickly Accessing Commands	575	Success	20885	1616	570	20
+6021	05:18:28.937	AskQuestion Thread Group 1-1	cisco	440	Success	18077	1591	438	0
+6022	05:18:29.142	AskQuestion Thread Group 1-3	Leasing Versus Cascading	262	Success	15247	1614	260	0
+6023	05:18:29.218	AskQuestion Thread Group 1-4	240218.pdf	245	Success	629	1596	245	0
+6025	05:18:29.379	AskQuestion Thread Group 1-1	LDAP	354	Success	15726	1590	350	0
+6027	05:18:29.405	AskQuestion Thread Group 1-3	AXRadioButton	449	Success	3062	1599	449	27
+6028	05:18:29.465	AskQuestion Thread Group 1-4	Backlight Control 1.0	568	Success	16996	1611	565	0
+6026	05:18:29.483	AskQuestion Thread Group 1-2	SIM Card Overview	355	Success	21577	1607	347	0
+6032	05:18:29.733	AskQuestion Thread Group 1-1	How does the quality of a native HDV workflow compare with the competition?	579	Success	23421	1685	575	18
+6030	05:18:29.838	AskQuestion Thread Group 1-2	iTunes	360	Success	15886	1592	356	0
+6029	05:18:29.854	AskQuestion Thread Group 1-3	Ricardo Batista	303	Success	2650	1603	303	0
+6031	05:18:30.033	AskQuestion Thread Group 1-4	Canvas	279	Success	17265	1592	276	0
+6034	05:18:30.157	AskQuestion Thread Group 1-3	HAMILTON SUNDSTRAND	415	Success	18162	1607	413	0
+6033	05:18:30.198	AskQuestion Thread Group 1-2	StyleWriter 6500 Printer	314	Success	19490	1614	312	0
+6035	05:18:30.312	AskQuestion Thread Group 1-4	Troubleshooting	320	Success	13824	1601	317	0
+6036	05:18:30.312	AskQuestion Thread Group 1-1	iPod shuffle	335	Success	15831	1600	332	0
+6037	05:18:30.512	AskQuestion Thread Group 1-2	Header	379	Success	17476	1592	376	0
+6040	05:18:30.572	AskQuestion Thread Group 1-3	Recent Clips Pop-Up Menu	7473	Success	20206	1616	7470	0
+6043	05:18:30.632	AskQuestion Thread Group 1-4	Apple Earphones	9244	Success	16079	1603	9240	0
+6038	05:18:30.647	AskQuestion Thread Group 1-1	Garantie limitÃ©e du support (le cas Ã©chÃ©ant)	695	Success	25708	1675	693	0
+6044	05:18:30.892	AskQuestion Thread Group 1-2	United States	9084	Success	14877	1601	9080	0
+6039	05:18:31.343	AskQuestion Thread Group 1-1	246100.pdf	293	Success	2553	1596	293	0
+6042	05:18:31.636	AskQuestion Thread Group 1-1	Using mmap and munmap	8228	Success	4755	1613	8227	0
+6041	05:18:38.045	AskQuestion Thread Group 1-3	AFS Commercial Credit: Leases for technology	1369	Success	22243	1640	1366	19
+6045	05:18:39.415	AskQuestion Thread Group 1-3	Fidelity Select Home Finance Portfolio	583	Success	25176	1632	580	0
+6046	05:18:39.864	AskQuestion Thread Group 1-1	timeIntervalSinceDate	346	Success	4469	1607	346	25
+6047	05:18:39.876	AskQuestion Thread Group 1-4	Alarm Reminders	415	Success	19198	1603	410	14
+6049	05:18:39.976	AskQuestion Thread Group 1-2	Can't make some data into the expected type	583	Success	21364	1643	576	20
+6048	05:18:39.999	AskQuestion Thread Group 1-3	Managed Systems -ohjelmisto rajattomalle kÃ¤yttÃ¤jÃ¤mÃ¤Ã¤rÃ¤lle	358	Success	5009	1717	357	0
+6051	05:18:40.211	AskQuestion Thread Group 1-1	LaserWriter 8 driver	461	Success	19761	1610	457	0
+6050	05:18:40.291	AskQuestion Thread Group 1-4	JMX Integration	297	Success	18314	1603	293	0
+6052	05:18:40.357	AskQuestion Thread Group 1-3	Santorini Server Manager earlier than 4.0	332	Success	18843	1637	329	18
+6053	05:18:40.559	AskQuestion Thread Group 1-2	Restoring the Previous Volume Configuration After Changes	386	Success	21077	1655	382	0
+6056	05:18:40.589	AskQuestion Thread Group 1-4	knowledge	767	Success	14835	1595	764	0
+6054	05:18:40.672	AskQuestion Thread Group 1-1	fidelity_doc_1322.pdf	336	Success	13129	1607	333	0
+6055	05:18:40.690	AskQuestion Thread Group 1-3	FAULT TOLERANT SUPERVISOR PRINTED WIRING BOARD ASSEMBLY	374	Success	19073	1653	370	0
+6058	05:18:40.945	AskQuestion Thread Group 1-2	Setting Your Internet Connection to Use the AirCard	447	Success	22226	1651	444	0
+6057	05:18:41.008	AskQuestion Thread Group 1-1	Aperture Workflow	357	Success	17682	1605	354	0
+6059	05:18:41.064	AskQuestion Thread Group 1-3	Automatic Trunking	463	Success	15545	1606	460	0
+6060	05:18:41.356	AskQuestion Thread Group 1-4	4GiPoddimensions.pdf	254	Success	10898	1606	252	0
+6061	05:18:41.365	AskQuestion Thread Group 1-1	FIDELITY GOLD CARD UPGRADES	360	Success	17006	1619	357	0
+6063	05:18:41.393	AskQuestion Thread Group 1-2	Connecting iPod shuffle	442	Success	21289	1613	436	0
+6062	05:18:41.528	AskQuestion Thread Group 1-3	Frontmost	298	Success	17839	1595	293	0
+6064	05:18:41.611	AskQuestion Thread Group 1-4	IC Policies & Procedures	482	Success	14981	1616	480	0
+6065	05:18:41.726	AskQuestion Thread Group 1-1	Factors to Consider	384	Success	18377	1609	381	0
+6066	05:18:41.826	AskQuestion Thread Group 1-3	246113.pdf	338	Success	2553	1596	338	0
+6067	05:18:41.836	AskQuestion Thread Group 1-2	Fund Closed description	558	Success	20400	1613	556	0
+6069	05:18:42.093	AskQuestion Thread Group 1-4	Documentation Error	527	Success	18258	1607	525	14
+6068	05:18:42.110	AskQuestion Thread Group 1-1	phone	510	Success	13814	1591	507	13
+6070	05:18:42.164	AskQuestion Thread Group 1-3	play MIDI tune	472	Success	19347	1604	468	0
+6071	05:18:42.394	AskQuestion Thread Group 1-2	Contextual sessions	494	Success	16846	1607	491	21
+6073	05:18:42.620	AskQuestion Thread Group 1-1	ICP system	477	Success	16449	1598	475	0
+6074	05:18:42.620	AskQuestion Thread Group 1-4	Downloading a File Using a Web Browser	524	Success	19760	1636	473	0
+6072	05:18:42.636	AskQuestion Thread Group 1-3	GEARBOX ASSEMBL	400	Success	17483	1603	396	16
+6075	05:18:42.888	AskQuestion Thread Group 1-2	autofill music onto iPod shuffle	326	Success	20305	1626	323	0
+6076	05:18:43.036	AskQuestion Thread Group 1-3	6809449A06-A	335	Success	2912	1598	335	0
+6093	05:18:43.098	AskQuestion Thread Group 1-1	sky	2607	Success	12799	1589	2605	0
+6077	05:18:43.144	AskQuestion Thread Group 1-4	Controls in the Projects Panel	393	Success	19124	1624	390	0
+6078	05:18:43.214	AskQuestion Thread Group 1-2	Position	429	Success	14224	1594	426	0
+6079	05:18:43.371	AskQuestion Thread Group 1-3	Systems monitoring and management department 	447	Success	20858	1641	440	0
+6080	05:18:43.538	AskQuestion Thread Group 1-4	Disk Security	526	Success	19835	1601	518	0
+6081	05:18:43.643	AskQuestion Thread Group 1-2	How does HDV hold up for visual effects work?	439	Success	21780	1647	435	0
+6082	05:18:43.818	AskQuestion Thread Group 1-3	zoom	293	Success	15793	1590	283	0
+6084	05:18:44.064	AskQuestion Thread Group 1-4	Basic Platinum Card	329	Success	18601	1609	324	0
+6083	05:18:44.082	AskQuestion Thread Group 1-2	240211.pdf	267	Success	629	1596	267	0
+6085	05:18:44.116	AskQuestion Thread Group 1-3	Alternatives to 64-bit Computing	442	Success	19626	1624	437	0
+6086	05:18:44.350	AskQuestion Thread Group 1-2	AUTOMATION	391	Success	16917	1596	387	0
+6087	05:18:44.394	AskQuestion Thread Group 1-4	Desktop Printer Spooler	537	Success	17906	1613	429	18
+6089	05:18:44.559	AskQuestion Thread Group 1-3	Set up your Aperture system	650	Success	18867	1621	647	0
+6088	05:18:44.742	AskQuestion Thread Group 1-2	fidelity_doc_1332.pdf	407	Success	4914	1607	407	21
+6090	05:18:44.931	AskQuestion Thread Group 1-4	CREATOR ID	439	Success	16826	1598	436	0
+6091	05:18:45.149	AskQuestion Thread Group 1-2	Windows 98	298	Success	16484	1598	294	0
+6092	05:18:45.210	AskQuestion Thread Group 1-3	033-2287-A_ServerSupportGuide.pdf	356	Success	13866	1619	353	17
+6094	05:18:45.370	AskQuestion Thread Group 1-4	Xsan	388	Success	16069	1590	381	0
+6096	05:18:45.447	AskQuestion Thread Group 1-2	Reply has not yet arrived	656	Success	17438	1619	653	0
+6097	05:18:45.566	AskQuestion Thread Group 1-3	Fidelity Value Fund	537	Success	18249	1609	533	0
+6098	05:18:45.706	AskQuestion Thread Group 1-1	Apple Qmaster	649	Success	18386	1601	646	20
+6095	05:18:45.759	AskQuestion Thread Group 1-4	tmobile_content_doc_1499.pdf	312	Success	15600	1614	308	0
+6099	05:18:46.071	AskQuestion Thread Group 1-4	Calendars	362	Success	13901	1595	358	0
+6100	05:18:46.103	AskQuestion Thread Group 1-3	Desktop Printer Extension	351	Success	17968	1615	346	0
+6101	05:18:46.103	AskQuestion Thread Group 1-2	apple_content_test	370	Success	10526	1604	369	0
+6102	05:18:46.356	AskQuestion Thread Group 1-1	Sopimuksen pÃ¤Ã¤ttyminen	382	Success	18508	1632	379	0
+6104	05:18:46.434	AskQuestion Thread Group 1-4	AC SSPC POWER MODULE PRINTED WIRING BOARD ASSEMBLY	520	Success	21795	1650	517	18
+6103	05:18:46.454	AskQuestion Thread Group 1-3	MotoMixer Sound Editor	344	Success	19772	1612	341	0
+6105	05:18:46.473	AskQuestion Thread Group 1-2	IntÃ©gralitÃ© de lâ€™Accord	745	Success	22348	1658	741	0
+6107	05:18:46.738	AskQuestion Thread Group 1-1	phone call is in progress	574	Success	18762	1619	570	0
+6106	05:18:46.799	AskQuestion Thread Group 1-3	Battery Meter	471	Success	19695	1601	467	0
+6109	05:18:46.955	AskQuestion Thread Group 1-4	Add Motion Keyframe	674	Success	23822	1609	669	0
+6108	05:18:47.219	AskQuestion Thread Group 1-2	SQL Dialects	324	Success	15437	1600	322	20
+6110	05:18:47.271	AskQuestion Thread Group 1-3	AppleShare Client software	362	Success	18603	1616	358	18
+6111	05:18:47.313	AskQuestion Thread Group 1-1	fidelity_doc_1338.pdf	382	Success	13129	1607	378	0
+6113	05:18:47.545	AskQuestion Thread Group 1-2	SmoothCam Node	449	Success	19005	1602	446	0
+6112	05:18:47.630	AskQuestion Thread Group 1-4	247002.pdf	286	Success	2554	1596	286	0
+6115	05:18:47.634	AskQuestion Thread Group 1-3	AltiVec/SSE Migration Guide	572	Success	17337	1617	568	0
+6114	05:18:47.695	AskQuestion Thread Group 1-1	Bad name for file	406	Success	17516	1609	403	0
+6116	05:18:47.918	AskQuestion Thread Group 1-4	SHARING AND INTEGRATION	297	Success	15565	1613	295	0
+6117	05:18:47.995	AskQuestion Thread Group 1-2	Embraer ERJ170	567	Success	15375	1602	563	0
+6118	05:18:48.103	AskQuestion Thread Group 1-1	Fixed Dial	468	Success	18390	1598	464	19
+6120	05:18:48.206	AskQuestion Thread Group 1-3	Photo edit	382	Success	20784	1598	380	0
+6119	05:18:48.216	AskQuestion Thread Group 1-4	Playhead and Scrubber Bar	368	Success	17390	1617	366	0
+6122	05:18:48.563	AskQuestion Thread Group 1-2	Updating and Restoring iPod shuffle Software	367	Success	15106	1640	363	0
+6123	05:18:48.572	AskQuestion Thread Group 1-1	Translating Compare Operations	362	Success	23292	1620	358	0
+6124	05:18:48.584	AskQuestion Thread Group 1-4	Check Disb Inquiry tab	545	Success	15734	1614	541	20
+6121	05:18:48.589	AskQuestion Thread Group 1-3	Windows 2000	304	Success	15593	1600	301	0
+6126	05:18:48.895	AskQuestion Thread Group 1-3	WTLS	391	Success	7381	1590	391	0
+6127	05:18:48.931	AskQuestion Thread Group 1-2	FINANCIAL PROFILE FOR NEW REGISTRATION	578	Success	18851	1632	571	0
+6125	05:18:48.935	AskQuestion Thread Group 1-1	770553	289	Success	3255	1592	288	0
+6128	05:18:49.130	AskQuestion Thread Group 1-4	240221.pdf	390	Success	629	1596	390	0
+6129	05:18:49.225	AskQuestion Thread Group 1-1	Tool and Compatibility Issues	339	Success	18707	1621	335	0
+6130	05:18:49.288	AskQuestion Thread Group 1-3	Calculations	398	Success	14236	1598	395	13
+6133	05:18:49.511	AskQuestion Thread Group 1-2	Opening and Closing Projects	603	Success	18734	1620	599	21
+6131	05:18:49.520	AskQuestion Thread Group 1-4	5500-6500_Video_Input_Updt_Info.txt	277	Success	6016	1621	277	0
+6132	05:18:49.565	AskQuestion Thread Group 1-1	Creating Alert Tones	514	Success	19117	1610	511	0
+6135	05:18:49.687	AskQuestion Thread Group 1-3	APU START CONTACTOR ASSEMBLY 	604	Success	19407	1623	601	0
+6134	05:18:49.797	AskQuestion Thread Group 1-4	fidelity_doc_1353.pdf	442	Success	4919	1607	442	0
+6136	05:18:50.080	AskQuestion Thread Group 1-1	Load Balancing	352	Success	19923	1602	342	0
+6138	05:18:50.114	AskQuestion Thread Group 1-2	tmobile_content_doc_1553.pdf	479	Success	15600	1614	475	0
+6137	05:18:50.240	AskQuestion Thread Group 1-4	1702774	293	Success	623	1593	293	0
+6139	05:18:50.291	AskQuestion Thread Group 1-3	txt_files	341	Success	14372	1595	333	0
+6140	05:18:50.432	AskQuestion Thread Group 1-1	è¼¸å‡ºç®¡ç�†ã€€ã€€ã�Šå®¢æ§˜ã�¯	348	Success	17463	1793	345	21
+6141	05:18:50.534	AskQuestion Thread Group 1-4	ZWIRE	254	Success	14038	1591	250	0
+6142	05:18:50.594	AskQuestion Thread Group 1-2	OT 1.1.1-3of4.sea	413	Success	17487	1605	409	0
+6143	05:18:50.632	AskQuestion Thread Group 1-3	LaserWriter 8.5.1 software	486	Success	19198	1616	484	0
+6144	05:18:50.781	AskQuestion Thread Group 1-1	Dialing an Emergency Number	433	Success	19358	1619	431	0
+6145	05:18:50.789	AskQuestion Thread Group 1-4	Final_Cut_Express_HD_User_Manual.pdf	447	Success	18123	1622	445	11
+6146	05:18:51.007	AskQuestion Thread Group 1-2	HCIIGS_1.1.txt	357	Success	14519	1600	355	0
+6148	05:18:51.118	AskQuestion Thread Group 1-3	JDBC connections	429	Success	20758	1604	425	0
+6147	05:18:51.214	AskQuestion Thread Group 1-1	Einwilligung zur Verwendung von Daten	333	Success	22579	1631	328	0
+6149	05:18:51.236	AskQuestion Thread Group 1-4	Fidelity Select Home Finance Portfolio	467	Success	18459	1632	463	0
+6151	05:18:51.365	AskQuestion Thread Group 1-2	AppleCare_Protect_Plan_EU_es.pdf	464	Success	19903	1618	460	0
+6150	05:18:51.548	AskQuestion Thread Group 1-1	Focused	272	Success	15804	1593	269	0
+6152	05:18:51.548	AskQuestion Thread Group 1-3	Windows xp	368	Success	16415	1598	364	18
+6153	05:18:51.703	AskQuestion Thread Group 1-4	US Mac OS 7.1.1 or later	276	Success	16705	1620	273	0
+6154	05:18:51.821	AskQuestion Thread Group 1-1	WAP Push	327	Success	18435	1596	324	0
+6155	05:18:51.829	AskQuestion Thread Group 1-2	Fidelity Debit Card	387	Success	15754	1609	384	17
+6156	05:18:51.916	AskQuestion Thread Group 1-3	Making Code 64-Bit Clean	435	Success	20272	1616	431	0
+6157	05:18:51.980	AskQuestion Thread Group 1-4	fidelity_doc_1360.pdf	466	Success	11809	1607	465	0
+6158	05:18:52.148	AskQuestion Thread Group 1-1	VientisÃ¤Ã¤tely	360	Success	18113	1621	358	0
+6160	05:18:52.216	AskQuestion Thread Group 1-2	Setting the Maximum Volume Limit	565	Success	19016	1626	562	0
+6159	05:18:52.351	AskQuestion Thread Group 1-3	APU BATT CHGR	358	Success	17286	1603	354	0
+6162	05:18:52.446	AskQuestion Thread Group 1-4	BEST MAC OS X DEVELOPER TOOL	527	Success	21968	1624	524	0
+6161	05:18:52.508	AskQuestion Thread Group 1-1	Nederlands	360	Success	14992	1596	357	18
+6163	05:18:52.710	AskQuestion Thread Group 1-3	Resolves issue with Wireless Disabled mode for AirPort Express	440	Success	20761	1664	436	0
+6165	05:18:52.781	AskQuestion Thread Group 1-2	Floating Point Capabilities of AltiVec and SSE	496	Success	25871	1644	493	0
+6164	05:18:52.869	AskQuestion Thread Group 1-1	AOPAY 	336	Success	14603	1594	333	0
+6166	05:18:52.974	AskQuestion Thread Group 1-4	tmobile_content_doc_1646.pdf	310	Success	2535	1614	310	24
+6167	05:18:53.151	AskQuestion Thread Group 1-3	RotoShape Node	317	Success	17944	1602	315	0
+6168	05:18:53.205	AskQuestion Thread Group 1-1	Using Time Zones	292	Success	17335	1606	289	0
+6170	05:18:53.277	AskQuestion Thread Group 1-2	System disk for the Apple II	407	Success	15696	1624	403	0
+6169	05:18:53.284	AskQuestion Thread Group 1-4	Unlock your handheld	348	Success	15191	1610	343	0
+6171	05:18:53.469	AskQuestion Thread Group 1-3	Financial Advisor Fee Request	301	Success	15803	1621	298	0
+6172	05:18:53.497	AskQuestion Thread Group 1-1	Port Utilization and Health	470	Success	20145	1619	464	0
+6174	05:18:53.633	AskQuestion Thread Group 1-4	Midboard Slat Actuator	426	Success	17345	1612	423	0
+6173	05:18:53.684	AskQuestion Thread Group 1-2	Launching the Watcher Program	337	Success	19422	1621	333	0
+6175	05:18:53.770	AskQuestion Thread Group 1-3	SPDA DC FEEDER PRINTED WIRING BOARD	433	Success	18308	1631	429	21
+6178	05:18:53.968	AskQuestion Thread Group 1-1	Select an Alert Profile	411	Success	19680	1615	394	0
+6177	05:18:54.022	AskQuestion Thread Group 1-2	fidelity_doc_1367.pdf	355	Success	13129	1607	351	15
+6176	05:18:54.060	AskQuestion Thread Group 1-4	Sign Extension Rules for C and C-derived Languages	300	Success	4555	1650	300	0
+6179	05:18:54.203	AskQuestion Thread Group 1-3	Rigorous Research Studies 	509	Success	20557	1618	505	0
+6181	05:18:54.362	AskQuestion Thread Group 1-4	CarbonPrintingManager_Ref.pdf	446	Success	15319	1615	440	0
+6180	05:18:54.379	AskQuestion Thread Group 1-2	Portable Phone Operation and EME Exposure	423	Success	18928	1637	413	0
+6182	05:18:54.380	AskQuestion Thread Group 1-1	Distribute your images	659	Success	13268	1612	656	0
+6183	05:18:54.713	AskQuestion Thread Group 1-3	Networking	349	Success	14634	1596	347	0
+6185	05:18:54.803	AskQuestion Thread Group 1-2	OT 1.1.1-Net Install.sea	480	Success	17539	1614	471	0
+6184	05:18:54.808	AskQuestion Thread Group 1-4	File reference number error	383	Success	18681	1619	379	0
+6186	05:18:55.039	AskQuestion Thread Group 1-1	Download notification tunes	383	Success	18707	1617	377	18
+6187	05:18:55.062	AskQuestion Thread Group 1-3	Processing position-level deposits in BCOW	394	Success	16270	1636	391	0
+6188	05:18:55.191	AskQuestion Thread Group 1-4	Window	446	Success	13503	1592	443	18
+6189	05:18:55.283	AskQuestion Thread Group 1-2	BROKERAGE ACCOUNT CHECK PERSONALIZATION	500	Success	18945	1631	496	0
+6190	05:18:55.422	AskQuestion Thread Group 1-1	fidelity_doc_1386.pdf	403	Success	13129	1607	400	0
+6191	05:18:55.456	AskQuestion Thread Group 1-3	Corrections to Shake Documentation	422	Success	21439	1626	419	0
+6193	05:18:55.637	AskQuestion Thread Group 1-4	The Differences Between Apple FireWire and FireWire Basic	534	Success	24669	1657	530	0
+6195	05:18:55.783	AskQuestion Thread Group 1-2	Creating and Showing Favorite Projects	522	Success	21243	1632	518	0
+6194	05:18:55.825	AskQuestion Thread Group 1-1	Hibernate statistics	370	Success	13214	1608	367	0
+6192	05:18:55.879	AskQuestion Thread Group 1-3	tmobile_content_doc_1685.pdf	288	Success	2534	1614	288	18
+6197	05:18:56.168	AskQuestion Thread Group 1-3	About AirPort Extreme Update 2007-002	328	Success	17192	1631	325	0
+6196	05:18:56.172	AskQuestion Thread Group 1-4	HaftungsbeschrÃ¤nkung	309	Success	653	1617	309	0
+6198	05:18:56.196	AskQuestion Thread Group 1-1	Overdracht	402	Success	21735	1596	398	0
+6199	05:18:56.306	AskQuestion Thread Group 1-2	Converting Dates to Strings	445	Success	20363	1619	441	17
+6200	05:18:56.481	AskQuestion Thread Group 1-4	Speak directly into the microphone	395	Success	18333	1628	393	0
+6201	05:18:56.497	AskQuestion Thread Group 1-3	Collaboration Services Administration	510	Success	19590	1627	506	0
+6202	05:18:56.598	AskQuestion Thread Group 1-1	275237.pdf	505	Success	2551	1596	505	0
+6203	05:18:56.751	AskQuestion Thread Group 1-2	AppleShare_MMgr_INIT_1.0_Info.txt	370	Success	17849	1619	366	0
+6204	05:18:56.876	AskQuestion Thread Group 1-4	jump to a new location in the scrubber bar	432	Success	18443	1644	429	0
+6206	05:18:57.007	AskQuestion Thread Group 1-3	Data Connections Through GPRS	420	Success	19893	1621	417	0
+6207	05:18:57.104	AskQuestion Thread Group 1-1	Partnership Account Agreement	381	Success	20997	1619	377	19
+6205	05:18:57.122	AskQuestion Thread Group 1-2	Focused	255	Success	623	1593	255	0
+6210	05:18:57.309	AskQuestion Thread Group 1-4	BEST MAC OS X GAME	505	Success	21877	1612	500	22
+6209	05:18:57.377	AskQuestion Thread Group 1-2	fidelity_doc_1394.pdf	330	Success	13129	1607	327	0
+6208	05:18:57.428	AskQuestion Thread Group 1-3	BCOW CKRD	247	Success	2655	1597	247	0
+6213	05:18:57.485	AskQuestion Thread Group 1-1	Galaxy_S_II_quick_reference_sheet.pdf	6993	Success	18444	1623	6988	0
+6211	05:18:57.675	AskQuestion Thread Group 1-3	770561A	3538	Success	2874	1593	3538	0
+6215	05:18:57.707	AskQuestion Thread Group 1-2	242361.pdf	7147	Success	2536	1596	7147	0
+6212	05:18:57.814	AskQuestion Thread Group 1-4	Vector Shift Operations	6664	Success	22203	1613	6658	0
+6214	05:19:01.213	AskQuestion Thread Group 1-3	Creating a Tone	3284	Success	18092	1605	3279	20
+6217	05:19:04.478	AskQuestion Thread Group 1-4	LaserWriter Software Compatibility	609	Success	18067	1624	605	17
+6218	05:19:04.478	AskQuestion Thread Group 1-1	Delete a notification profile	616	Success	13712	1621	605	16
+6216	05:19:04.498	AskQuestion Thread Group 1-3	Elements Used in Aperture	359	Success	18711	1617	355	17
+6219	05:19:04.854	AskQuestion Thread Group 1-2	1702885B	328	Success	11190	1594	327	15
+6220	05:19:04.857	AskQuestion Thread Group 1-3	Troubleshooting Digital Cinema Desktop Preview	428	Success	23903	1640	424	0
+6223	05:19:05.087	AskQuestion Thread Group 1-4	Video overlay software for the Apple IIGS	554	Success	18433	1639	550	0
+6221	05:19:05.094	AskQuestion Thread Group 1-1	fidelity_doc_1576.pdf	352	Success	13129	1607	350	0
+6224	05:19:05.182	AskQuestion Thread Group 1-2	Choosing the Windows ID Mapping Method	463	Success	21309	1634	459	0
+6222	05:19:05.285	AskQuestion Thread Group 1-3	DHCP	341	Success	18314	1590	337	0
+6225	05:19:05.447	AskQuestion Thread Group 1-1	PSD Files	577	Success	18410	1597	572	0
+6228	05:19:05.626	AskQuestion Thread Group 1-3	Programming SSE in C	549	Success	20675	1612	547	0
+6226	05:19:05.642	AskQuestion Thread Group 1-4	Pledge Agreement for Lending on Shelf-Registered	433	Success	16985	1644	430	0
+6227	05:19:05.645	AskQuestion Thread Group 1-2	Value Propositions	515	Success	15140	1606	512	0
+6231	05:19:06.024	AskQuestion Thread Group 1-1	Some parameter was invalid	503	Success	17367	1618	499	0
+6229	05:19:06.075	AskQuestion Thread Group 1-4	SCSI Utilities disk for the Apple II	398	Success	16199	1634	395	0
+6230	05:19:06.160	AskQuestion Thread Group 1-2	Adding LUNs to a Storage Poo	349	Success	2719	1624	349	0
+6232	05:19:06.177	AskQuestion Thread Group 1-3	tmobile_content_doc_1712.pdf	406	Success	15600	1614	403	0
+6233	05:19:06.474	AskQuestion Thread Group 1-4	iPod Hi-Fi	261	Success	14741	1598	258	0
+6234	05:19:06.510	AskQuestion Thread Group 1-2	BCOW PLD	294	Success	15016	1596	290	0
+6236	05:19:06.527	AskQuestion Thread Group 1-1	Viewing Port Diagnostics	403	Success	21301	1614	398	18
+6235	05:19:06.584	AskQuestion Thread Group 1-3	Tuplizers	274	Success	2817	1595	274	17
+6237	05:19:06.735	AskQuestion Thread Group 1-4	Aircraft	410	Success	15611	1594	409	18
+13600	05:32:12.128	AskQuestion Thread Group 1-3	Out of memory	455	Success	15908	1603	450	0
+13599	05:32:12.199	AskQuestion Thread Group 1-1	Brokerage Keogh fee	326	Success	16264	1609	323	0
+13601	05:32:12.350	AskQuestion Thread Group 1-4	Manatee County School District	273	Success	3075	1622	273	0
+13603	05:32:12.460	AskQuestion Thread Group 1-2	General Text Entry Rules	534	Success	17928	1616	532	21
+13602	05:32:12.525	AskQuestion Thread Group 1-1	fidelity_doc_714.pdf	265	Success	3749	1606	265	0
+13605	05:32:12.583	AskQuestion Thread Group 1-3	Mixer and Audio Objects in the Environment	573	Success	21022	1640	571	0
+13604	05:32:12.623	AskQuestion Thread Group 1-4	FIDELITY RETIREMENT PLAN	441	Success	17778	1614	439	0
+13608	05:32:12.790	AskQuestion Thread Group 1-1	Create a folder for bookmarks	728	Success	19705	1623	726	0
+13607	05:32:12.994	AskQuestion Thread Group 1-2	Default	470	Success	15987	1593	467	0
+13606	05:32:13.064	AskQuestion Thread Group 1-4	OT 1.1.1-4of4.sea	292	Success	16909	1605	289	0
+13609	05:32:13.156	AskQuestion Thread Group 1-3	Government End Users	546	Success	19187	1610	543	18
+13610	05:32:13.356	AskQuestion Thread Group 1-4	Considering object identity	428	Success	19214	1617	426	0
+13612	05:32:13.464	AskQuestion Thread Group 1-2	Adding Filters to Multiple Clips	557	Success	21921	1626	553	0
+13611	05:32:13.518	AskQuestion Thread Group 1-1	School Administrative District #4	384	Success	25560	1623	380	17
+13614	05:32:13.702	AskQuestion Thread Group 1-3	iMovie HD Help	548	Success	19350	1604	546	0
+13615	05:32:13.784	AskQuestion Thread Group 1-4	Tax Summary	556	Success	16557	1599	551	0
+13613	05:32:13.902	AskQuestion Thread Group 1-1	PowerPC G5 Processor	348	Success	19161	1610	346	0
+13616	05:32:14.021	AskQuestion Thread Group 1-2	tmobile_content_doc_1574.pdf	470	Success	15600	1614	467	0
+13617	05:32:14.250	AskQuestion Thread Group 1-1	FFT modes	506	Success	18811	1597	502	0
+13619	05:32:14.250	AskQuestion Thread Group 1-3	Changing the Color and Blend Mode of the Circle Text	583	Success	21606	1656	579	0
+13618	05:32:14.340	AskQuestion Thread Group 1-4	Licencia de software para Managed Systems ilimitados	425	Success	13774	1650	422	13
+13620	05:32:14.491	AskQuestion Thread Group 1-2	promptString	403	Success	2915	1598	403	12
+13623	05:32:14.756	AskQuestion Thread Group 1-1	Limited Partnership fee	624	Success	18484	1613	618	0
+13621	05:32:14.766	AskQuestion Thread Group 1-4	Premium Branch Alignment	286	Success	15470	1614	283	0
+13624	05:32:14.833	AskQuestion Thread Group 1-3	North American English Mac OS 8.0	569	Success	18490	1629	565	0
+13622	05:32:14.894	AskQuestion Thread Group 1-2	fidelity_doc_901.pdf	289	Success	4982	1606	289	0
+13626	05:32:15.052	AskQuestion Thread Group 1-4	Add contact information from the Phone screen	604	Success	19426	1643	599	0
+13625	05:32:15.183	AskQuestion Thread Group 1-2	Move a bookmark	400	Success	19578	1605	396	0
+13627	05:32:15.380	AskQuestion Thread Group 1-1	1.2 GB Firmware Utility	407	Success	18914	1615	403	0
+13629	05:32:15.402	AskQuestion Thread Group 1-3	Outgoing Calls	662	Success	17923	1602	658	17
+13628	05:32:15.583	AskQuestion Thread Group 1-2	Bulletin1154.pdf	375	Success	16225	1602	372	0
+13630	05:32:15.656	AskQuestion Thread Group 1-4	access Late-Breaking News	475	Success	19204	1615	471	0
+13631	05:32:15.788	AskQuestion Thread Group 1-1	Color Theory	422	Success	15971	1600	418	18
+13632	05:32:15.966	AskQuestion Thread Group 1-2	MPEG-4 Notice	428	Success	19962	1601	424	0
+13633	05:32:16.064	AskQuestion Thread Group 1-3	iPod_Hi-Fi_Safety_Communications_Regulation_Info.pdf	391	Success	18071	1638	385	0
+13637	05:32:16.132	AskQuestion Thread Group 1-4	Configuring Mac OS X for Multiple Displays	778	Success	23661	1640	776	0
+13634	05:32:16.210	AskQuestion Thread Group 1-1	Copias NFR	391	Success	21078	1598	387	0
+13635	05:32:16.394	AskQuestion Thread Group 1-2	PENSION PLAN SAR FORM	332	Success	19411	1613	327	0
+13636	05:32:16.456	AskQuestion Thread Group 1-3	Roaming Charges	342	Success	17754	1603	339	0
+13640	05:32:16.601	AskQuestion Thread Group 1-1	Using Complex Composite Mode Effects	621	Success	21185	1630	617	0
+13639	05:32:16.726	AskQuestion Thread Group 1-2	Working with Images in Grid View	387	Success	28038	1628	383	18
+13638	05:32:16.798	AskQuestion Thread Group 1-3	tmobile_content_doc_1599.pdf	312	Success	3825	1614	312	0
+13642	05:32:16.911	AskQuestion Thread Group 1-4	Copying Regions	472	Success	20259	1603	469	25
+13641	05:32:17.110	AskQuestion Thread Group 1-3	763067	252	Success	2966	1592	251	0
+13643	05:32:17.114	AskQuestion Thread Group 1-2	Visual Disabilities	356	Success	18725	1607	352	0
+13646	05:32:17.222	AskQuestion Thread Group 1-1	Edit a group	594	Success	18277	1602	591	0
+13644	05:32:17.362	AskQuestion Thread Group 1-3	Minimum Allowable Free Space On Scratch Disks	395	Success	20115	1643	391	0
+13645	05:32:17.383	AskQuestion Thread Group 1-4	How You Use the Timeline	433	Success	16902	1618	430	0
+13648	05:32:17.471	AskQuestion Thread Group 1-2	Open a bookmark	651	Success	19185	1605	648	0
+13647	05:32:17.757	AskQuestion Thread Group 1-3	Gigaelement FFTs on Apple G5 clusters	336	Success	2838	1633	336	12
+13649	05:32:17.816	AskQuestion Thread Group 1-1	fidelity_doc_905.pdf	398	Success	3751	1606	397	13
+13650	05:32:17.816	AskQuestion Thread Group 1-4	Replicating the Shape	443	Success	14490	1611	439	0
+13652	05:32:18.093	AskQuestion Thread Group 1-3	Installing an SFP	522	Success	18737	1607	519	0
+13651	05:32:18.122	AskQuestion Thread Group 1-2	Uninstalling Shake	419	Success	18523	1606	414	0
+13653	05:32:18.214	AskQuestion Thread Group 1-1	group by clause	468	Success	16033	1605	465	0
+13654	05:32:18.260	AskQuestion Thread Group 1-4	JSP_and_Servlets.pdf	444	Success	12620	1606	444	0
+13655	05:32:18.541	AskQuestion Thread Group 1-2	242301.pdf	401	Success	12824	1596	398	0
+13656	05:32:18.615	AskQuestion Thread Group 1-3	Bank or third party reversal fee	544	Success	19646	1628	541	0
+13659	05:32:18.682	AskQuestion Thread Group 1-1	Viewing Recent Calls	919	Success	18628	1610	917	0
+13657	05:32:18.704	AskQuestion Thread Group 1-4	Minimum Funding Standards	519	Success	17282	1615	517	0
+13658	05:32:18.942	AskQuestion Thread Group 1-2	763077E	403	Success	11319	1593	402	18
+13662	05:32:19.159	AskQuestion Thread Group 1-3	Carbon application	777	Success	19699	1606	774	0
+13661	05:32:19.223	AskQuestion Thread Group 1-4	AppleVision Fix 1.1 Information	513	Success	16904	1623	510	19
+13660	05:32:19.345	AskQuestion Thread Group 1-2	Shake_4_User's_Manual.pdf	372	Success	16657	1611	368	0
+13664	05:32:19.602	AskQuestion Thread Group 1-1	Data Service Charges	498	Success	21101	1610	492	0
+13665	05:32:19.718	AskQuestion Thread Group 1-2	Toolbar Button	580	Success	18488	1602	576	0
+13663	05:32:19.738	AskQuestion Thread Group 1-4	FranÃ§ais	283	Success	15585	1605	279	0
+13666	05:32:19.937	AskQuestion Thread Group 1-3	Delete a contact or group	377	Success	19027	1619	372	20
+13667	05:32:20.021	AskQuestion Thread Group 1-4	Fidelity Municipal Money Market Fund	496	Success	21965	1630	490	0
+13669	05:32:20.101	AskQuestion Thread Group 1-1	Monitoring of drive health	583	Success	20254	1618	579	22
+13668	05:32:20.298	AskQuestion Thread Group 1-2	tmobile_content_doc_1685.pdf	342	Success	2534	1614	342	0
+13671	05:32:20.314	AskQuestion Thread Group 1-3	Track Display	566	Success	19421	1601	562	0
+13670	05:32:20.517	AskQuestion Thread Group 1-4	Claris Emailer Lite 1.1v3	322	Success	17708	1617	318	0
+13672	05:32:20.640	AskQuestion Thread Group 1-2	WebBench	255	Success	4753	1594	255	0
+13673	05:32:20.684	AskQuestion Thread Group 1-1	fidelity_doc_908.pdf	359	Success	3750	1606	358	0
+13674	05:32:20.839	AskQuestion Thread Group 1-4	HCIIGS 1.1-3of6.sea	272	Success	15336	1607	269	0
+13675	05:32:20.880	AskQuestion Thread Group 1-3	Using Luma Travel Mattes	366	Success	17848	1616	363	0
+13676	05:32:20.896	AskQuestion Thread Group 1-2	Daily Cashiering File	539	Success	15807	1611	534	0
+13678	05:32:21.043	AskQuestion Thread Group 1-1	Onscreen Help	514	Success	18542	1601	513	0
+13677	05:32:21.111	AskQuestion Thread Group 1-4	Download applications	424	Success	17174	1609	421	0
+13679	05:32:21.246	AskQuestion Thread Group 1-3	Mac OS 8.1: Late Breaking Tip	447	Success	26078	1625	445	0
+13680	05:32:21.435	AskQuestion Thread Group 1-2	Data/Processing the data	476	Success	19182	1614	474	19
+13681	05:32:21.536	AskQuestion Thread Group 1-4	Premium Service Charges	416	Success	15775	1613	412	20
+13683	05:32:21.558	AskQuestion Thread Group 1-1	The Aperture Main Window	596	Success	17553	1616	592	0
+13682	05:32:21.693	AskQuestion Thread Group 1-3	Logiciel LiveType	342	Success	18044	1605	337	0
+13684	05:32:21.911	AskQuestion Thread Group 1-2	The Arrange Area	465	Success	21082	1606	461	0
+13686	05:32:21.952	AskQuestion Thread Group 1-4	User canceled	547	Success	18469	1601	544	0
+13685	05:32:22.035	AskQuestion Thread Group 1-3	ExclusiÃ³n de garantÃ­as	444	Success	16400	1634	438	18
+13687	05:32:22.154	AskQuestion Thread Group 1-1	BOOTING THE SWITCH AND SAN	408	Success	5046	1620	407	22
+13688	05:32:22.376	AskQuestion Thread Group 1-2	Speed Dialing	393	Success	16024	1601	390	0
+13689	05:32:22.483	AskQuestion Thread Group 1-3	Piscataquis Community Middle School	303	Success	3256	1627	303	0
+13691	05:32:22.499	AskQuestion Thread Group 1-4	View the SIM card phone book	554	Success	18370	1624	551	0
+13690	05:32:22.562	AskQuestion Thread Group 1-1	Dual FireWire 800 ports	481	Success	22015	1615	477	0
+13692	05:32:22.769	AskQuestion Thread Group 1-2	Navigating Through and Selecting Images	505	Success	19669	1633	501	0
+13694	05:32:22.787	AskQuestion Thread Group 1-3	Adjustments to Bill	712	Success	17600	1609	709	0
+13695	05:32:23.043	AskQuestion Thread Group 1-1	installing 7.5.5 SCSI Server Update	489	Success	17716	1629	485	0
+13693	05:32:23.054	AskQuestion Thread Group 1-4	fidelity_doc_1008.html	327	Success	5884	1608	326	0
+13696	05:32:23.274	AskQuestion Thread Group 1-2	Tuning fetch strategies	422	Success	16557	1613	416	0
+13697	05:32:23.381	AskQuestion Thread Group 1-4	Applying Effects to Multiple Clips	493	Success	21996	1628	487	0
+13698	05:32:23.499	AskQuestion Thread Group 1-3	Changing Timeline Display Options	409	Success	20522	1625	403	0
+13699	05:32:23.533	AskQuestion Thread Group 1-1	Grow Area	434	Success	19679	1597	430	0
+13700	05:32:23.696	AskQuestion Thread Group 1-2	tmobile_content_doc_1707.pdf	359	Success	15600	1614	354	19
+13703	05:32:23.874	AskQuestion Thread Group 1-4	OT 1.1.1-LICENSE	472	Success	19408	1604	467	19
+13701	05:32:23.908	AskQuestion Thread Group 1-3	Forwarding a Call	381	Success	18268	1607	376	0
+13702	05:32:23.968	AskQuestion Thread Group 1-1	Creating Matching Dictionaries	376	Success	20432	1620	371	0
+13704	05:32:24.055	AskQuestion Thread Group 1-2	763063	404	Success	2944	1592	404	0
+13705	05:32:24.290	AskQuestion Thread Group 1-3	Award from Salon Geeks	308	Success	17296	1614	307	22
+13706	05:32:24.344	AskQuestion Thread Group 1-1	Using_WaveBurner.pdf	322	Success	12619	1606	321	19
+13707	05:32:24.347	AskQuestion Thread Group 1-4	245109.pdf	432	Success	12614	1596	429	0
+13711	05:32:24.460	AskQuestion Thread Group 1-2	Fidelity Advisor Municipal Income Fund Class A	784	Success	45558	1644	680	0
+13710	05:32:24.598	AskQuestion Thread Group 1-3	Messaging Charges	450	Success	19136	1605	447	0
+13708	05:32:24.667	AskQuestion Thread Group 1-1	One CACTUS or ICP screen print	354	Success	16995	1626	348	0
+13709	05:32:24.780	AskQuestion Thread Group 1-4	iDVD 6.0.3	258	Success	11468	1598	257	0
+13714	05:32:25.022	AskQuestion Thread Group 1-1	WiggleWorks 1.0.2 Patch	479	Success	19732	1613	476	0
+13713	05:32:25.038	AskQuestion Thread Group 1-4	Transfert	359	Success	22213	1595	354	0
+13712	05:32:25.048	AskQuestion Thread Group 1-3	Motor and Cognitive Disabilities	327	Success	18545	1624	324	0
+13719	05:32:25.244	AskQuestion Thread Group 1-2	Teacher information	9720	Success	18542	1607	9718	0
+13715	05:32:25.376	AskQuestion Thread Group 1-3	AppleEquity Lease	416	Success	20177	1605	415	0
+13718	05:32:25.398	AskQuestion Thread Group 1-4	Can't make some data into the expected type	7819	Success	21365	1643	7817	0
+13716	05:32:25.502	AskQuestion Thread Group 1-1	BegrÃ¦nsning af ansvar	373	Success	6500	1622	373	0
+13717	05:32:25.793	AskQuestion Thread Group 1-3	Zooming and Scrolling in the Timeline	3339	Success	20635	1633	3336	0
+13720	05:32:25.876	AskQuestion Thread Group 1-1	At_Ease_5.0.1_Web_Extras_Info.txt	9204	Success	13404	1619	9201	0
+13722	05:32:29.132	AskQuestion Thread Group 1-3	Create a SIM card contact	6020	Success	19173	1619	6016	18
+13721	05:32:33.217	AskQuestion Thread Group 1-4	Navigate on a web page	1929	Success	17811	1616	1925	18
+13723	05:32:34.966	AskQuestion Thread Group 1-2	Macintosh	313	Success	15293	1595	309	19
+13726	05:32:35.081	AskQuestion Thread Group 1-1	Variable Speed Effect	502	Success	19146	1611	499	17
+13725	05:32:35.148	AskQuestion Thread Group 1-4	IBM eServer x335	423	Success	4504	1606	423	0
+13724	05:32:35.154	AskQuestion Thread Group 1-3	763077F	335	Success	11041	1593	334	20
+13727	05:32:35.279	AskQuestion Thread Group 1-2	Control de las exportaciones	433	Success	21349	1620	428	0
+13730	05:32:35.489	AskQuestion Thread Group 1-3	9 Fidelity Advisor Municipal Income Fund Class B	510	Success	47451	1648	506	0
+13731	05:32:35.571	AskQuestion Thread Group 1-4	Blocking ARB	490	Success	14370	1600	485	12
+13728	05:32:35.583	AskQuestion Thread Group 1-1	OT 1.1.1-2of4.sea	268	Success	17480	1605	263	0
+13729	05:32:35.712	AskQuestion Thread Group 1-2	Airborne or Federal Express receipts	252	Success	15257	1630	249	0
+13732	05:32:35.852	AskQuestion Thread Group 1-1	Linking Calls	379	Success	18846	1601	374	0
+13733	05:32:35.964	AskQuestion Thread Group 1-2	Western Wireless	422	Success	18573	1604	418	0
+13734	05:32:35.999	AskQuestion Thread Group 1-3	Using the IORegistryEntryGet functions	414	Success	3565	1630	414	0
+13735	05:32:36.061	AskQuestion Thread Group 1-4	Browser and Viewer	532	Success	20190	1608	528	0
+13738	05:32:36.231	AskQuestion Thread Group 1-1	System Floating Window	638	Success	19047	1612	634	0
+13736	05:32:36.387	AskQuestion Thread Group 1-2	fidelity_doc_1016.html	417	Success	12044	1608	416	0
+13737	05:32:36.413	AskQuestion Thread Group 1-3	Understanding Collection performance	414	Success	21112	1626	410	0
+13739	05:32:36.593	AskQuestion Thread Group 1-4	QuickDraw GX	360	Success	16978	1600	356	0
+13741	05:32:36.804	AskQuestion Thread Group 1-2	x500@umich.edu	343	Success	2733	1600	343	0
+13743	05:32:36.827	AskQuestion Thread Group 1-3	Rearranging Images in the Browser	593	Success	19023	1627	589	0
+13740	05:32:36.869	AskQuestion Thread Group 1-1	Bioinformatics Benchmark System (BBSv3): Dual Processor Details	258	Success	3109	1661	258	0
+13742	05:32:36.953	AskQuestion Thread Group 1-4	VideoSyncII	261	Success	5507	1597	261	0
+13746	05:32:37.127	AskQuestion Thread Group 1-1	Garantie limitÃ©e des supports	700	Success	22662	1632	698	18
+13744	05:32:37.147	AskQuestion Thread Group 1-2	Xsan_Admin_Guide_v1.4.pdf	546	Success	18898	1611	541	19
+13745	05:32:37.214	AskQuestion Thread Group 1-4	PowerBook 5300 System Software	606	Success	19029	1622	596	0
+13747	05:32:37.421	AskQuestion Thread Group 1-3	Tilladelse til brug af data	652	Success	20228	1621	646	19
+13748	05:32:37.693	AskQuestion Thread Group 1-2	ERROR status	400	Success	20717	1600	397	0
+13749	05:32:37.821	AskQuestion Thread Group 1-4	Open a web page by typing a URL	462	Success	19365	1631	410	14
+13750	05:32:37.827	AskQuestion Thread Group 1-1	Allocation Percentage	466	Success	16265	1609	462	0
+13752	05:32:38.073	AskQuestion Thread Group 1-3	NSAccessibility Protocol	470	Success	17132	1612	466	0
+13751	05:32:38.093	AskQuestion Thread Group 1-2	macos100_intro_for_tech-EN.pdf	428	Success	17620	1616	425	0
+13753	05:32:38.283	AskQuestion Thread Group 1-4	fidelity_doc_1032.html	449	Success	4930	1608	449	0
+13754	05:32:38.293	AskQuestion Thread Group 1-1	Additive primaries	503	Success	18485	1606	500	0
+13757	05:32:38.530	AskQuestion Thread Group 1-2	Transferring a Call	680	Success	14298	1609	678	0
+13755	05:32:38.543	AskQuestion Thread Group 1-3	Adding Text to a Sequence	550	Success	18299	1619	547	0
+13756	05:32:38.732	AskQuestion Thread Group 1-4	Control Bar	397	Success	18879	1599	394	0
+13758	05:32:38.796	AskQuestion Thread Group 1-1	System Enabler 403	433	Success	15207	1608	430	0
+13761	05:32:39.094	AskQuestion Thread Group 1-3	TIFFS directory	619	Success	19589	1603	616	0
+13759	05:32:39.129	AskQuestion Thread Group 1-4	Commercial developer	506	Success	20423	1608	502	0
+13762	05:32:39.211	AskQuestion Thread Group 1-2	Cost Basis of Powertel Share	533	Success	18327	1622	528	11
+13760	05:32:39.229	AskQuestion Thread Group 1-1	Connecting an External Video Monitor and Audio Speakers	462	Success	29895	1655	431	17
+13765	05:32:39.635	AskQuestion Thread Group 1-4	Certificates missing CUSIP numbers	385	Success	17102	1626	380	0
+13764	05:32:39.691	AskQuestion Thread Group 1-1	Apple IIGS ShrinkIt archive in Binary II format	300	Success	15854	1647	297	0
+13763	05:32:39.713	AskQuestion Thread Group 1-3	245102.pdf	265	Success	2552	1596	265	15
+13766	05:32:39.744	AskQuestion Thread Group 1-2	Matching keys from IOKitKeys.h 3	505	Success	4447	1626	505	0
+13767	05:32:39.978	AskQuestion Thread Group 1-3	HCIIGS 1.1-4of6.sea	401	Success	15336	1607	398	0
+13768	05:32:39.992	AskQuestion Thread Group 1-1	Contrato Ã­ntegro	461	Success	16230	1615	457	0
+13769	05:32:40.020	AskQuestion Thread Group 1-4	Choosing a Screen Layout	617	Success	20374	1616	612	18
+13771	05:32:40.250	AskQuestion Thread Group 1-2	Setting SNMP Traps	519	Success	20036	1608	515	0
+13770	05:32:40.380	AskQuestion Thread Group 1-3	LiveType-software	344	Success	17442	1603	340	0
+13772	05:32:40.453	AskQuestion Thread Group 1-1	Going Beyond the Basics	498	Success	20760	1615	494	0
+13773	05:32:40.638	AskQuestion Thread Group 1-4	Schema validation	377	Success	18324	1605	374	0
+13774	05:32:40.724	AskQuestion Thread Group 1-3	Browsing web pages	411	Success	18519	1608	407	0
+13776	05:32:40.769	AskQuestion Thread Group 1-2	9 Fidelity Advisor Municipal Income Fund Class I	613	Success	45035	1648	609	0
+13775	05:32:40.951	AskQuestion Thread Group 1-1	Creating disk images	323	Success	19273	1610	319	0
+13778	05:32:41.015	AskQuestion Thread Group 1-4	Putting a Call on Hold	567	Success	17749	1616	561	0
+13777	05:32:41.135	AskQuestion Thread Group 1-3	Most Innovative	418	Success	17025	1603	414	0
+13779	05:32:41.275	AskQuestion Thread Group 1-1	VoiceStream and Powertel	530	Success	15877	1614	529	20
+13780	05:32:41.382	AskQuestion Thread Group 1-2	Displaying Specific Metadata with Your Images	454	Success	20591	1641	449	19
+13781	05:32:41.553	AskQuestion Thread Group 1-3	fidelity_doc_1057.html	479	Success	12048	1608	478	0
+13782	05:32:41.582	AskQuestion Thread Group 1-4	LaserWriter Pro 600 and 630	455	Success	19308	1621	451	0
+13784	05:32:41.805	AskQuestion Thread Group 1-1	Delete a SIM card contact	390	Success	19196	1619	386	0
+13783	05:32:41.836	AskQuestion Thread Group 1-2	763077G	304	Success	11043	1593	304	0
+13786	05:32:42.032	AskQuestion Thread Group 1-3	Installing the ClarisImpact 2.0v3 update	462	Success	18455	1634	410	19
+13785	05:32:42.037	AskQuestion Thread Group 1-4	Gavin.Eadie@UMich.EDU	400	Success	2785	1607	400	12
+13788	05:32:42.140	AskQuestion Thread Group 1-2	Tax considerations	552	Success	14408	1606	548	0
+13787	05:32:42.195	AskQuestion Thread Group 1-1	Savings in Tax Deferred Retirement	460	Success	21257	1628	454	0
+13790	05:32:42.437	AskQuestion Thread Group 1-4	Limitation de responsabilitÃ©	506	Success	22341	1629	502	0
+13789	05:32:42.495	AskQuestion Thread Group 1-3	iMovie HD 6.0.3	429	Success	11030	1605	428	0
+13791	05:32:42.655	AskQuestion Thread Group 1-1	What is native editing?	384	Success	20712	1615	381	0
+13793	05:32:42.692	AskQuestion Thread Group 1-2	Vertical Multitrack Controls	546	Success	20820	1618	541	0
+13794	05:32:42.924	AskQuestion Thread Group 1-3	CONTEST RULES	515	Success	17241	1601	511	0
+13792	05:32:42.943	AskQuestion Thread Group 1-4	NOMINEES	285	Success	14002	1594	281	0
+13795	05:32:43.039	AskQuestion Thread Group 1-1	XserveRAID_UserGuide.PDF	413	Success	14854	1610	411	0
+13798	05:32:43.228	AskQuestion Thread Group 1-4	Adjustments Inspector	855	Success	20732	1609	850	0
+13796	05:32:43.238	AskQuestion Thread Group 1-2	763069	243	Success	2944	1592	243	0
+13799	05:32:43.439	AskQuestion Thread Group 1-3	Assistive application	657	Success	22381	1609	651	0
+13800	05:32:43.452	AskQuestion Thread Group 1-1	Viewing phone information	807	Success	20274	1615	804	14
+13797	05:32:43.481	AskQuestion Thread Group 1-2	Identifying Suspect Units	299	Success	25149	1615	294	11
+13801	05:32:43.780	AskQuestion Thread Group 1-2	5xxx-6xxx_Tester_1.0_Info.txt	498	Success	16826	1615	494	0
+13802	05:32:44.083	AskQuestion Thread Group 1-4	Controlling Contrast	460	Success	19392	1608	457	24
+13804	05:32:44.096	AskQuestion Thread Group 1-3	Opening a Telnet Session	526	Success	19204	1616	521	20
+13803	05:32:44.259	AskQuestion Thread Group 1-1	Dell PowerEdge 1850	334	Success	4464	1609	334	0
+13805	05:32:44.278	AskQuestion Thread Group 1-2	Powertel Merger	352	Success	17937	1603	349	0
+13806	05:32:44.544	AskQuestion Thread Group 1-4	AccessingHardware.pdf	347	Success	12693	1607	344	0
+13807	05:32:44.595	AskQuestion Thread Group 1-1	Call Barring	359	Success	18451	1600	356	0
+13809	05:32:44.623	AskQuestion Thread Group 1-3	Dialect resolution	501	Success	14454	1606	498	0
+13808	05:32:44.632	AskQuestion Thread Group 1-2	fidelity_doc_1085.html	482	Success	12048	1608	482	0
+13810	05:32:44.891	AskQuestion Thread Group 1-4	Aviso sobre H.264/AVC	415	Success	23567	1611	411	0
+13812	05:32:44.954	AskQuestion Thread Group 1-1	Call an emergency phone number	530	Success	21412	1624	526	0
+13811	05:32:45.115	AskQuestion Thread Group 1-2	245101.pdf	367	Success	2553	1596	367	0
+13813	05:32:45.124	AskQuestion Thread Group 1-3	Apple Video Player	382	Success	17069	1608	379	0
+13814	05:32:45.306	AskQuestion Thread Group 1-4	Creating Versions of an Image	419	Success	19937	1623	415	0
+13816	05:32:45.483	AskQuestion Thread Group 1-2	APPLEVDO.INF	324	Success	2698	1598	324	18
+13815	05:32:45.484	AskQuestion Thread Group 1-1	Scanner	317	Success	15108	1593	315	19
+13817	05:32:45.507	AskQuestion Thread Group 1-3	ContrÃ´le des exportations	352	Success	27974	1626	349	0
+13818	05:32:45.725	AskQuestion Thread Group 1-4	Fidelity Asset Manager	372	Success	16874	1612	370	0
+13820	05:32:45.802	AskQuestion Thread Group 1-1	Enter Stock or Market Index Symbol	448	Success	16886	1630	445	0
+13819	05:32:45.807	AskQuestion Thread Group 1-2	Mounting disk images	362	Success	18204	1610	359	0
+13821	05:32:45.859	AskQuestion Thread Group 1-3	AppleScript Scripting Additions Guide	567	Success	20577	1629	563	0
+13822	05:32:46.097	AskQuestion Thread Group 1-4	HCIIGS 1.1-5of6.sea	366	Success	15072	1607	365	21
+13823	05:32:46.170	AskQuestion Thread Group 1-2	Quarterly Report on Form 10-Q	318	Success	16450	1623	315	0
+13826	05:32:46.250	AskQuestion Thread Group 1-1	Setting TTY options	577	Success	19578	1609	573	0
+13825	05:32:46.426	AskQuestion Thread Group 1-3	PowerBook Duo Enabler	362	Success	22637	1611	357	19
+13824	05:32:46.463	AskQuestion Thread Group 1-4	Student developer	318	Success	16132	1605	314	0
+13827	05:32:46.489	AskQuestion Thread Group 1-2	Creating Artificially High Contrast	559	Success	20458	1627	553	0
+13828	05:32:46.781	AskQuestion Thread Group 1-4	TÃ©rmino	358	Success	16245	1604	355	0
+13830	05:32:46.788	AskQuestion Thread Group 1-3	Sending Messages	442	Success	18381	1604	438	0
+13829	05:32:46.827	AskQuestion Thread Group 1-1	MovingProjectsToXcode.pdf	399	Success	12678	1611	397	0
+13831	05:32:47.048	AskQuestion Thread Group 1-2	Apple Remote Access 1.0 Modem Script	338	Success	18897	1632	334	0
+13834	05:32:47.140	AskQuestion Thread Group 1-4	Locale Naming Conventions	659	Success	18450	1615	655	0
+13852	05:32:47.227	AskQuestion Thread Group 1-1	Fidelity Blue Chip Growth Fund	2766	Success	12603	1624	2764	0
+13832	05:32:47.231	AskQuestion Thread Group 1-3	246109.pdf	244	Success	2552	1596	244	0
+13835	05:32:47.386	AskQuestion Thread Group 1-2	Mute a phone call	479	Success	18098	1609	477	0
+13833	05:32:47.475	AskQuestion Thread Group 1-3	fidelity_doc_1098.html	315	Success	4934	1608	315	0
+13837	05:32:47.791	AskQuestion Thread Group 1-3	Fabric Connection	425	Success	20561	1605	421	0
+13836	05:32:47.799	AskQuestion Thread Group 1-4	Subtractive primaries	302	Success	16101	1609	298	0
+13838	05:32:47.865	AskQuestion Thread Group 1-2	BSEC FIND	606	Success	15333	1597	599	17
+13839	05:32:48.101	AskQuestion Thread Group 1-4	ASCII Character	387	Success	19041	1603	385	20
+13840	05:32:48.217	AskQuestion Thread Group 1-3	Setting voice mail options	521	Success	18033	1618	518	0
+13842	05:32:48.472	AskQuestion Thread Group 1-2	UsuÃ¡rios do Governo	433	Success	3962	1620	433	0
+13841	05:32:48.488	AskQuestion Thread Group 1-4	Deutsche Telekom	264	Success	10823	1604	263	0
+13843	05:32:48.738	AskQuestion Thread Group 1-3	Metadata Inspector	315	Success	17923	1606	305	18
+13844	05:32:48.752	AskQuestion Thread Group 1-4	033-2287-A_ServerSupportGuide.pdf	392	Success	13866	1619	389	0
+13845	05:32:48.905	AskQuestion Thread Group 1-2	DOS Compatibility Software Update	283	Success	16872	1625	278	0
+13846	05:32:49.053	AskQuestion Thread Group 1-3	Correcting and Coloring Images	372	Success	18662	1622	371	0
+13847	05:32:49.144	AskQuestion Thread Group 1-4	LINPACK	310	Success	6868	1593	310	0
+13848	05:32:49.188	AskQuestion Thread Group 1-2	Receiving and Reading Messages	388	Success	20107	1622	385	0
+13849	05:32:49.426	AskQuestion Thread Group 1-3	763077H	305	Success	623	1593	305	0
+13850	05:32:49.455	AskQuestion Thread Group 1-4	Regulatory Approvals	398	Success	19397	1608	393	0
+13851	05:32:49.576	AskQuestion Thread Group 1-2	Avis MPEG-2	400	Success	20664	1599	396	0
+13854	05:32:49.731	AskQuestion Thread Group 1-3	Alternate between phone calls	637	Success	18811	1621	633	0
+13853	05:32:49.853	AskQuestion Thread Group 1-4	Gavin King	282	Success	14363	1598	279	0
+13856	05:32:49.976	AskQuestion Thread Group 1-2	Understanding Image Versions	606	Success	18625	1618	602	19
+13857	05:32:49.993	AskQuestion Thread Group 1-1	Computational power	696	Success	18819	1607	693	18
+13855	05:32:50.135	AskQuestion Thread Group 1-4	fidelity_doc_1129.html	261	Success	4937	1608	261	17
+13858	05:32:50.368	AskQuestion Thread Group 1-3	VoiceStream Wireless Corporation	322	Success	17731	1622	319	0
+13859	05:32:50.396	AskQuestion Thread Group 1-4	Example of Accessibility	560	Success	20047	1614	557	0
+13860	05:32:50.582	AskQuestion Thread Group 1-2	Command syntax for standard AppleScript scripting	1893	Success	20627	1645	1891	0
+13864	05:32:50.689	AskQuestion Thread Group 1-1	Why edit HDV natively?	8383	Success	23577	1614	8378	0
+13862	05:32:50.691	AskQuestion Thread Group 1-3	Canadian Quote	8348	Success	14840	1602	8346	0
+13867	05:32:50.956	AskQuestion Thread Group 1-4	Disk Tools for Mac OS 8.1 PowerPC-based computers	8614	Success	19787	1649	8610	0
+13861	05:32:52.475	AskQuestion Thread Group 1-2	Set general phone options	672	Success	20146	1617	667	16
+13863	05:32:53.147	AskQuestion Thread Group 1-2	Initiator with Stealth	5909	Success	18064	1612	5906	0
+13865	05:32:59.040	AskQuestion Thread Group 1-3	UsuÃ¡rios do Governo	373	Success	3962	1620	373	19
+13868	05:32:59.057	AskQuestion Thread Group 1-2	Installing and Printing the PostScript Version of the Color Chart Over NetWare	536	Success	21827	1686	534	25
+13866	05:32:59.073	AskQuestion Thread Group 1-1	Ease 3.0.3 Updater	480	Success	17923	1608	475	25
+13869	05:32:59.414	AskQuestion Thread Group 1-3	incompatibilities with Avid Cinema	314	Success	17707	1626	313	0
+13870	05:32:59.554	AskQuestion Thread Group 1-1	LaserWriter 8.3.3	382	Success	5783	1605	379	0
+13873	05:32:59.572	AskQuestion Thread Group 1-4	Control de las exportaciones	539	Success	21349	1620	534	21
+13871	05:32:59.594	AskQuestion Thread Group 1-2	Dissenting Shares	384	Success	8726	1605	384	0
+13872	05:32:59.730	AskQuestion Thread Group 1-3	Powertel	283	Success	15446	1594	280	0
+13874	05:32:59.936	AskQuestion Thread Group 1-1	Phonebook	386	Success	15079	1595	383	0
+13875	05:32:59.979	AskQuestion Thread Group 1-2	Fidelity Balanced Fund	402	Success	19475	1612	398	0
+13876	05:33:00.013	AskQuestion Thread Group 1-3	Materials	376	Success	19458	1595	372	0
+13877	05:33:00.111	AskQuestion Thread Group 1-4	Paperwork retention requirement	307	Success	15169	1621	304	0
+13878	05:33:00.322	AskQuestion Thread Group 1-1	WorkingWithFW.pdf	337	Success	12601	1603	337	0
+13879	05:33:00.381	AskQuestion Thread Group 1-2	Vaults Panel	302	Success	16927	1600	299	0
+13881	05:33:00.389	AskQuestion Thread Group 1-3	BEST MAC OS X LEOPARD APPLICATION	626	Success	21286	1629	618	0
+13880	05:33:00.419	AskQuestion Thread Group 1-4	Use alpha-dialing	340	Success	6316	1605	339	0
+13884	05:33:00.660	AskQuestion Thread Group 1-1	Secondary Color Correction	502	Success	19546	1616	499	0
+13883	05:33:00.684	AskQuestion Thread Group 1-2	Rack of servers containing	466	Success	19539	1618	461	0
+13882	05:33:00.759	AskQuestion Thread Group 1-4	Built-in sensors	362	Success	18768	1604	358	0
+13885	05:33:01.015	AskQuestion Thread Group 1-3	fidelity_doc_1211.html	462	Success	12048	1608	461	0
+13886	05:33:01.121	AskQuestion Thread Group 1-4	Scriptable Text Editor	395	Success	18748	1612	390	0
+13888	05:33:01.150	AskQuestion Thread Group 1-2	Color Classic Update	420	Success	17311	1610	416	12
+13887	05:33:01.162	AskQuestion Thread Group 1-1	HCIIGS 1.1-6of6.sea	395	Success	15314	1607	342	18
+13890	05:33:01.477	AskQuestion Thread Group 1-3	Appraisal Rights	531	Success	18949	1604	525	14
+13889	05:33:01.516	AskQuestion Thread Group 1-4	Reverse Alpha	310	Success	15180	1601	307	0
+13892	05:33:01.558	AskQuestion Thread Group 1-1	763047A	512	Success	2688	1593	512	0
+13891	05:33:01.570	AskQuestion Thread Group 1-2	Copying Images and Moving Images to Different Locations	446	Success	19417	1655	441	0
+13893	05:33:01.826	AskQuestion Thread Group 1-4	Employee BeneÃ‘ts	471	Success	13763	1618	470	19
+13894	05:33:02.008	AskQuestion Thread Group 1-3	BEST MAC OS X GAME	353	Success	20031	1612	349	0
+13896	05:33:02.016	AskQuestion Thread Group 1-2	DigiSign digital signatures	608	Success	18923	1617	607	0
+13895	05:33:02.070	AskQuestion Thread Group 1-1	246105.pdf	327	Success	2553	1596	327	0
+13897	05:33:02.297	AskQuestion Thread Group 1-4	Steve Ebersole	373	Success	2945	1602	373	0
+13898	05:33:02.361	AskQuestion Thread Group 1-3	Integralidade; Idioma Prevalecente	474	Success	18979	1624	470	0
+13899	05:33:02.398	AskQuestion Thread Group 1-1	Using Livetype with Final Cut Pro	592	Success	21455	1629	589	0
+13902	05:33:02.625	AskQuestion Thread Group 1-2	Accessibility Keyboard Shortcuts	567	Success	19552	1622	564	0
+13901	05:33:02.670	AskQuestion Thread Group 1-4	Lifetime of Locale Objects	521	Success	20067	1618	516	0
+13900	05:33:02.835	AskQuestion Thread Group 1-3	Xserve G5	322	Success	16312	1597	315	0
+13903	05:33:02.991	AskQuestion Thread Group 1-1	Voice Dial	412	Success	18272	1598	409	0
+13908	05:33:03.157	AskQuestion Thread Group 1-3	Delete a phone call log	819	Success	18851	1617	813	0
+13904	05:33:03.191	AskQuestion Thread Group 1-4	installing System 7.5 Update	410	Success	18877	1620	405	0
+13905	05:33:03.192	AskQuestion Thread Group 1-2	Fidelity Dividend Growth Fund	514	Success	21758	1621	510	15
+13906	05:33:03.404	AskQuestion Thread Group 1-1	self-extracting archive of DOS files	340	Success	15700	1630	338	18
+13907	05:33:03.601	AskQuestion Thread Group 1-4	Importing Music from Your Audio CDs into iTunes	352	Success	21635	1647	348	0
+13910	05:33:03.706	AskQuestion Thread Group 1-2	PRINT SERVER 3.0.1	446	Success	24178	1608	442	0
+13909	05:33:03.744	AskQuestion Thread Group 1-1	Aviso acerca de MPEG-2	348	Success	20898	1614	340	0
+13913	05:33:03.953	AskQuestion Thread Group 1-4	Are we really editing native HDV?	585	Success	21550	1629	581	18
+13911	05:33:03.976	AskQuestion Thread Group 1-3	Expenses	308	Success	14775	1594	302	20
+13915	05:33:04.098	AskQuestion Thread Group 1-1	Data Objects	636	Success	19876	1600	633	0
+13912	05:33:04.152	AskQuestion Thread Group 1-2	Avis MPEG-4	350	Success	17711	1599	346	0
+13914	05:33:04.284	AskQuestion Thread Group 1-3	Showing and Hiding Areas of the Interface	407	Success	19426	1639	403	0
+13916	05:33:04.502	AskQuestion Thread Group 1-2	AppleScript support	424	Success	19817	1607	421	0
+13917	05:33:04.539	AskQuestion Thread Group 1-4	VideoSyncII only supports	532	Success	18792	1615	529	0
+13918	05:33:04.691	AskQuestion Thread Group 1-3	AppleScript Language	422	Success	18712	1608	406	0
+13920	05:33:04.734	AskQuestion Thread Group 1-1	Search for a phone call log	688	Success	18626	1623	685	0
+13919	05:33:04.926	AskQuestion Thread Group 1-2	Administrationssoftware	336	Success	6783	1609	336	0
+13921	05:33:05.072	AskQuestion Thread Group 1-4	Managing Firmware and Configuration Files	481	Success	22532	1635	477	0
+13923	05:33:05.113	AskQuestion Thread Group 1-3	Identifying Referenced Images	623	Success	19934	1619	618	0
+13922	05:33:05.263	AskQuestion Thread Group 1-2	PAG_IntroMacOSXforTechs.pdf	443	Success	12697	1613	441	19
+13924	05:33:05.423	AskQuestion Thread Group 1-1	ClarisWorks4.0v5-Edu.txt	381	Success	16411	1610	377	18
+13925	05:33:05.554	AskQuestion Thread Group 1-4	Using LiveType to Create a Motion Menu	408	Success	21229	1636	403	0
+13926	05:33:05.707	AskQuestion Thread Group 1-2	OT 1.1.1-1of4.sea	258	Success	16909	1605	254	0
+13931	05:33:05.736	AskQuestion Thread Group 1-3	Dissenting Shares	1082	Success	17233	1605	1078	0
+13928	05:33:05.804	AskQuestion Thread Group 1-1	Fidelity Exchange Fund	725	Success	16871	1612	723	0
+13927	05:33:05.962	AskQuestion Thread Group 1-4	Affordable	319	Success	18917	1596	314	20
+13929	05:33:05.965	AskQuestion Thread Group 1-2	Sending DTMF Tones	598	Success	19598	1608	595	0
+13930	05:33:06.281	AskQuestion Thread Group 1-4	Installing the ClarisImpact 2.0v3 update	307	Success	16822	1634	303	0
+13932	05:33:06.529	AskQuestion Thread Group 1-1	763580	321	Success	2727	1592	321	0
+13934	05:33:06.563	AskQuestion Thread Group 1-2	Telebit QBlazer	455	Success	14394	1603	348	0
+13933	05:33:06.588	AskQuestion Thread Group 1-4	BEST MAC OS X STUDENT PRODUCT	384	Success	22112	1625	375	0
+13935	05:33:06.818	AskQuestion Thread Group 1-3	Blackberry_8830_User_Guide.pdf	410	Success	13742	1616	406	21
+13936	05:33:06.850	AskQuestion Thread Group 1-1	Installing Scripting Additions	400	Success	19667	1620	396	0
+13938	05:33:06.972	AskQuestion Thread Group 1-4	Control de las exportaciones	559	Success	21349	1620	556	0
+13937	05:33:07.018	AskQuestion Thread Group 1-2	PowerTalk Gateways	392	Success	15955	1606	389	0
+13940	05:33:07.228	AskQuestion Thread Group 1-3	DOS Clipboard not Supported	509	Success	21098	1619	506	0
+13941	05:33:07.250	AskQuestion Thread Group 1-1	Moves focus to the Dock	580	Success	25141	1617	574	0
+13939	05:33:07.410	AskQuestion Thread Group 1-2	246102.pdf	277	Success	2555	1596	277	11
+13943	05:33:07.532	AskQuestion Thread Group 1-4	How is long GOP MPEG-2 HDV different than regular video codecs?	595	Success	21814	1669	593	0
+13944	05:33:07.687	AskQuestion Thread Group 1-2	Avis AMR	511	Success	18957	1596	457	0
+13942	05:33:07.737	AskQuestion Thread Group 1-3	QT_Streaming_Server_v10.4.pdf	322	Success	22009	1615	316	0
+13945	05:33:07.831	AskQuestion Thread Group 1-1	Background of the Deutsche Telekom	405	Success	17437	1628	402	12
+13947	05:33:08.059	AskQuestion Thread Group 1-3	Apple Menu Options	540	Success	17162	1608	537	0
+13950	05:33:08.128	AskQuestion Thread Group 1-4	Choosing Your Workspace Layout	774	Success	20768	1622	769	19
+13946	05:33:08.198	AskQuestion Thread Group 1-2	fidelity_doc_1244.html	336	Success	4934	1608	336	0
+13948	05:33:08.236	AskQuestion Thread Group 1-1	Fidelity Export and Multinational Fund	568	Success	17348	1632	566	0
+13949	05:33:08.534	AskQuestion Thread Group 1-2	LaserWriter Printing Software	356	Success	17472	1619	355	0
+13951	05:33:08.600	AskQuestion Thread Group 1-3	Accessing and Comparing Bytes	340	Success	17399	1621	337	0
+13954	05:33:08.805	AskQuestion Thread Group 1-1	Monitoring Phone Use	547	Success	19585	1610	543	0
+13953	05:33:08.890	AskQuestion Thread Group 1-2	Avid Cinema 1.1 Update	419	Success	18244	1614	411	0
+13952	05:33:08.903	AskQuestion Thread Group 1-4	OphÃ¸r	316	Success	11029	1602	315	0
+13957	05:33:08.941	AskQuestion Thread Group 1-3	Animating Type with LiveType	765	Success	24906	1620	762	25
+13956	05:33:09.219	AskQuestion Thread Group 1-4	PCI Timing Update	461	Success	15949	1607	458	0
+13955	05:33:09.309	AskQuestion Thread Group 1-2	Goldman Sachs	371	Success	16386	1601	368	0
+13960	05:33:09.352	AskQuestion Thread Group 1-1	Fraskrivelse af ansvar for egenskaber ved Apple-software	795	Success	25742	1654	792	0
+13959	05:33:09.681	AskQuestion Thread Group 1-2	SetPrintersInMacOSX.pdf	405	Success	12666	1609	403	21
+13958	05:33:09.682	AskQuestion Thread Group 1-4	Locating a Referenced Image on a Hard Disk	356	Success	19634	1642	352	0
+13961	05:33:09.708	AskQuestion Thread Group 1-3	High-Bandwidth Server Architecture	510	Success	22447	1624	507	0
+13962	05:33:10.038	AskQuestion Thread Group 1-4	PLATFORM INNOVATION	419	Success	19432	1607	415	0
+13963	05:33:10.087	AskQuestion Thread Group 1-2	Final Cut Studio Workflow	455	Success	19150	1617	452	0
+13965	05:33:10.148	AskQuestion Thread Group 1-1	Is it true that HDV render times are longer?	546	Success	20571	1646	542	18
+13964	05:33:10.219	AskQuestion Thread Group 1-3	Change your call barring password	397	Success	19844	1627	394	0
+13966	05:33:10.458	AskQuestion Thread Group 1-4	Locales	396	Success	18382	1593	386	17
+13968	05:33:10.543	AskQuestion Thread Group 1-2	USER EXPERIENCE	442	Success	17318	1603	438	0
+13967	05:33:10.616	AskQuestion Thread Group 1-3	Viewing and Specifying Preferences	329	Success	20367	1626	324	0
+13970	05:33:10.694	AskQuestion Thread Group 1-1	Data and Fax Calls	557	Success	19395	1610	552	0
+13973	05:33:10.854	AskQuestion Thread Group 1-4	Single-Switch Zoning	808	Success	17746	1608	805	0
+13969	05:33:10.945	AskQuestion Thread Group 1-3	763582	260	Success	2749	1592	260	20
+13971	05:33:10.985	AskQuestion Thread Group 1-2	accessibility.pdf	474	Success	12693	1603	471	0
+13974	05:33:11.205	AskQuestion Thread Group 1-3	Copying Data Objects	478	Success	21817	1610	473	0
+13972	05:33:11.251	AskQuestion Thread Group 1-1	Eksportkontrol	404	Success	19053	1600	400	0
+13975	05:33:11.460	AskQuestion Thread Group 1-2	Activates the next open window in the frontmost application	572	Success	20244	1661	570	0
+13978	05:33:11.655	AskQuestion Thread Group 1-1	Modifying Bytes	587	Success	19573	1603	584	0
+13977	05:33:11.662	AskQuestion Thread Group 1-4	Fidelity Select Banking Portfolio	524	Success	18001	1625	521	0
+13976	05:33:11.684	AskQuestion Thread Group 1-3	Comparison with other AFS Commercial Credit leases	411	Success	21684	1648	409	0
+13980	05:33:12.032	AskQuestion Thread Group 1-2	Creating a Locale Object	613	Success	30441	1616	609	20
+13979	05:33:12.096	AskQuestion Thread Group 1-3	AirCard 710/750 Wireless Network Card	331	Success	17325	1631	328	0
+13982	05:33:12.186	AskQuestion Thread Group 1-4	Working Efficiently	487	Success	20869	1607	484	0
+13981	05:33:12.242	AskQuestion Thread Group 1-1	Emmanuel Bernard	430	Success	4945	1604	430	18
+13983	05:33:12.427	AskQuestion Thread Group 1-3	Replacing Bytes	379	Success	16233	1603	376	0
+13987	05:33:12.646	AskQuestion Thread Group 1-2	Adjusting the Background of the Viewer	611	Success	27935	1634	557	0
+13984	05:33:12.673	AskQuestion Thread Group 1-4	GSM Wireless Networks	387	Success	19421	1611	384	20
+13986	05:33:12.673	AskQuestion Thread Group 1-1	Set call forwarding profiles	467	Success	19578	1620	464	0
+13985	05:33:12.806	AskQuestion Thread Group 1-3	GÃ¦ldende lovgivning og tilsidesÃ¦ttelse af bestemmelser	317	Success	13914	1672	312	0
+13988	05:33:13.060	AskQuestion Thread Group 1-4	Replacing Bytes	372	Success	16233	1603	369	0
+13991	05:33:13.125	AskQuestion Thread Group 1-3	Creating Date Objects	642	Success	21490	1611	638	19
+13992	05:33:13.140	AskQuestion Thread Group 1-1	Network Selection	648	Success	17534	1605	644	0
+13990	05:33:13.257	AskQuestion Thread Group 1-2	Copias acadÃ©micas	444	Success	20541	1616	438	0
+13989	05:33:13.432	AskQuestion Thread Group 1-4	fidelity_doc_1307.html	243	Success	4934	1608	243	0
+13993	05:33:13.676	AskQuestion Thread Group 1-4	246101.pdf	329	Success	2554	1596	329	0
+13994	05:33:13.701	AskQuestion Thread Group 1-2	Recovering a Bad Zone Automatically	374	Success	25773	1629	370	0
+13996	05:33:13.767	AskQuestion Thread Group 1-3	Locking and Unlocking Your Phone	429	Success	19708	1626	425	0
+13995	05:33:13.788	AskQuestion Thread Group 1-1	GPRS packet mode data connections	393	Success	20561	1627	389	0
+13998	05:33:14.006	AskQuestion Thread Group 1-4	Enable or disable a call forwarding profile	462	Success	20363	1641	458	0
+13997	05:33:14.075	AskQuestion Thread Group 1-2	768866	265	Success	2749	1592	265	17
+13999	05:33:14.181	AskQuestion Thread Group 1-1	Fidelity Select Financial Services Portfolio	425	Success	18045	1638	421	0
+14003	05:33:14.196	AskQuestion Thread Group 1-3	Cascading Switches	786	Success	17771	1606	783	0
+14000	05:33:14.342	AskQuestion Thread Group 1-2	Australia	343	Success	15033	1595	340	0
+14001	05:33:14.469	AskQuestion Thread Group 1-4	Fidelity Account Change of Registration Form	430	Success	20085	1640	427	0
+14002	05:33:14.606	AskQuestion Thread Group 1-1	Gateway	331	Success	16634	1593	329	18
+14004	05:33:14.685	AskQuestion Thread Group 1-2	PERFORMANCE OPTIMIZATION	320	Success	19544	1612	313	0
+14005	05:33:14.899	AskQuestion Thread Group 1-4	Automatic waiver	337	Success	14392	1604	334	18
+14006	05:33:14.938	AskQuestion Thread Group 1-1	Delegation	299	Success	17457	1596	295	0
+14007	05:33:14.983	AskQuestion Thread Group 1-3	Hibernate Reference	485	Success	14068	1607	481	0
+14008	05:33:15.006	AskQuestion Thread Group 1-2	Fidelity Select Utilities Growth Portfolio	503	Success	29724	1636	499	0
+14010	05:33:15.236	AskQuestion Thread Group 1-4	è²¬ä»»ã�®åˆ¶é™�	429	Success	14301	1685	426	0
+14009	05:33:15.237	AskQuestion Thread Group 1-1	Consenso all'utilizzo dei dati	392	Success	24337	1622	387	0
+14011	05:33:15.468	AskQuestion Thread Group 1-3	fidelity_doc_1100.pdf	268	Success	4912	1607	268	16
+14012	05:33:15.509	AskQuestion Thread Group 1-2	BlackBerry	297	Success	16568	1596	294	0
+14018	05:33:15.634	AskQuestion Thread Group 1-1	Transferring Files Between Computers	6996	Success	20221	1628	6993	0
+14013	05:33:15.666	AskQuestion Thread Group 1-4	Tree Cascades	401	Success	16662	1601	396	0
+14015	05:33:15.736	AskQuestion Thread Group 1-3	Final Cut Express HD	6533	Success	16784	1612	6529	0
+14014	05:33:15.806	AskQuestion Thread Group 1-2	768868	1684	Success	2728	1592	1684	0
+14016	05:33:16.067	AskQuestion Thread Group 1-4	Loading and storing objects	6202	Success	20279	1619	6198	0
+14019	05:33:17.491	AskQuestion Thread Group 1-2	YleistÃ¤	5167	Success	630	1604	5167	15
+14017	05:33:22.270	AskQuestion Thread Group 1-3	242309.pdf	357	Success	12603	1596	357	18
+14020	05:33:22.271	AskQuestion Thread Group 1-4	Protecting Web Transactions	527	Success	19355	1617	523	17
+14022	05:33:22.628	AskQuestion Thread Group 1-3	Quickly Accessing Commands	459	Success	20774	1616	455	0
+14021	05:33:22.632	AskQuestion Thread Group 1-1	cisco	320	Success	18077	1591	316	22
+14023	05:33:22.659	AskQuestion Thread Group 1-2	Leasing Versus Cascading	431	Success	20096	1614	425	16
+14024	05:33:22.798	AskQuestion Thread Group 1-4	240218.pdf	352	Success	629	1596	351	0
+14025	05:33:22.952	AskQuestion Thread Group 1-1	LDAP	322	Success	15726	1590	318	0
+14026	05:33:23.087	AskQuestion Thread Group 1-3	AXRadioButton	289	Success	3062	1599	289	0
+14027	05:33:23.090	AskQuestion Thread Group 1-2	Backlight Control 1.0	417	Success	16996	1611	415	0
+14028	05:33:23.159	AskQuestion Thread Group 1-4	SIM Card Overview	386	Success	19917	1607	381	0
+14029	05:33:23.274	AskQuestion Thread Group 1-1	How does the quality of a native HDV workflow compare with the competition?	367	Success	24566	1685	362	0
+14030	05:33:23.376	AskQuestion Thread Group 1-3	iTunes	432	Success	15886	1592	428	0
+14032	05:33:23.508	AskQuestion Thread Group 1-2	Ricardo Batista	380	Success	2650	1603	380	0
+14031	05:33:23.546	AskQuestion Thread Group 1-4	Canvas	328	Success	17265	1592	324	0
+14033	05:33:23.641	AskQuestion Thread Group 1-1	HAMILTON SUNDSTRAND	369	Success	18169	1607	365	0
+14034	05:33:23.808	AskQuestion Thread Group 1-3	StyleWriter 6500 Printer	412	Success	19490	1614	408	0
+14036	05:33:23.875	AskQuestion Thread Group 1-4	Troubleshooting	379	Success	13817	1601	375	0
+14035	05:33:23.889	AskQuestion Thread Group 1-2	iPod shuffle	346	Success	15824	1600	343	0
+14037	05:33:24.010	AskQuestion Thread Group 1-1	Header	493	Success	17476	1592	489	0
+21907	05:47:30.854	AskQuestion Thread Group 1-2	Fidelity Dividend Growth Fund	500	Success	21146	1621	496	0
+21906	05:47:30.934	AskQuestion Thread Group 1-4	self-extracting archive of DOS files	368	Success	15845	1630	365	18
+21909	05:47:30.986	AskQuestion Thread Group 1-1	Importing Music from Your Audio CDs into iTunes	502	Success	22082	1647	498	0
+21908	05:47:31.003	AskQuestion Thread Group 1-3	PRINT SERVER 3.0.1	372	Success	24172	1608	368	0
+21911	05:47:31.302	AskQuestion Thread Group 1-4	Aviso acerca de MPEG-2	441	Success	20898	1614	434	0
+21912	05:47:31.354	AskQuestion Thread Group 1-2	Are we really editing native HDV?	430	Success	21543	1629	426	0
+21910	05:47:31.375	AskQuestion Thread Group 1-3	Expenses	285	Success	14775	1594	282	19
+21914	05:47:31.488	AskQuestion Thread Group 1-1	Data Objects	589	Success	19876	1600	587	19
+21913	05:47:31.660	AskQuestion Thread Group 1-3	Avis MPEG-4	355	Success	17711	1599	352	0
+21915	05:47:31.743	AskQuestion Thread Group 1-4	Showing and Hiding Areas of the Interface	419	Success	19426	1639	416	0
+21916	05:47:31.784	AskQuestion Thread Group 1-2	AppleScript support	413	Success	19823	1607	407	0
+21919	05:47:32.016	AskQuestion Thread Group 1-3	VideoSyncII only supports	519	Success	18792	1615	516	0
+21918	05:47:32.078	AskQuestion Thread Group 1-1	AppleScript Language	440	Success	18712	1608	439	0
+21920	05:47:32.162	AskQuestion Thread Group 1-4	Search for a phone call log	614	Success	18626	1623	610	0
+21917	05:47:32.197	AskQuestion Thread Group 1-2	Administrationssoftware	268	Success	6783	1609	268	18
+21922	05:47:32.465	AskQuestion Thread Group 1-2	Managing Firmware and Configuration Files	451	Success	22283	1635	443	0
+21923	05:47:32.518	AskQuestion Thread Group 1-1	Identifying Referenced Images	551	Success	19934	1619	500	0
+21921	05:47:32.535	AskQuestion Thread Group 1-3	PAG_IntroMacOSXforTechs.pdf	364	Success	12697	1613	362	0
+21926	05:47:32.776	AskQuestion Thread Group 1-4	ClarisWorks4.0v5-Edu.txt	513	Success	16404	1610	510	0
+21925	05:47:32.900	AskQuestion Thread Group 1-3	Using LiveType to Create a Motion Menu	381	Success	21229	1636	379	0
+21924	05:47:32.916	AskQuestion Thread Group 1-2	OT 1.1.1-1of4.sea	319	Success	16909	1605	313	0
+21930	05:47:33.069	AskQuestion Thread Group 1-1	Dissenting Shares	856	Success	17233	1605	851	0
+21928	05:47:33.235	AskQuestion Thread Group 1-2	Fidelity Exchange Fund	554	Success	16871	1612	551	0
+21927	05:47:33.282	AskQuestion Thread Group 1-3	Affordable	383	Success	18917	1596	378	0
+21929	05:47:33.289	AskQuestion Thread Group 1-4	Sending DTMF Tones	559	Success	19593	1608	556	18
+21931	05:47:33.666	AskQuestion Thread Group 1-3	Installing the ClarisImpact 2.0v3 update	342	Success	18334	1634	338	14
+21932	05:47:33.790	AskQuestion Thread Group 1-2	763580	255	Success	2727	1592	254	0
+21933	05:47:33.848	AskQuestion Thread Group 1-4	Telebit QBlazer	393	Success	14394	1603	390	0
+21935	05:47:33.926	AskQuestion Thread Group 1-1	BEST MAC OS X STUDENT PRODUCT	601	Success	20346	1625	597	17
+21934	05:47:34.008	AskQuestion Thread Group 1-3	Blackberry_8830_User_Guide.pdf	331	Success	13742	1616	327	0
+21936	05:47:34.045	AskQuestion Thread Group 1-2	Installing Scripting Additions	601	Success	19798	1620	598	0
+21938	05:47:34.241	AskQuestion Thread Group 1-4	Control de las exportaciones	617	Success	21349	1620	614	0
+21937	05:47:34.339	AskQuestion Thread Group 1-3	PowerTalk Gateways	486	Success	15955	1606	482	0
+21939	05:47:34.528	AskQuestion Thread Group 1-1	DOS Clipboard not Supported	469	Success	21098	1619	465	0
+21941	05:47:34.647	AskQuestion Thread Group 1-2	Moves focus to the Dock	508	Success	25141	1617	502	14
+21940	05:47:34.825	AskQuestion Thread Group 1-3	246102.pdf	301	Success	2555	1596	300	0
+21942	05:47:34.858	AskQuestion Thread Group 1-4	How is long GOP MPEG-2 HDV different than regular video codecs?	357	Success	21732	1669	353	0
+21943	05:47:34.997	AskQuestion Thread Group 1-1	Avis AMR	397	Success	18957	1596	393	0
+21944	05:47:35.126	AskQuestion Thread Group 1-3	QT_Streaming_Server_v10.4.pdf	386	Success	22009	1615	382	0
+21945	05:47:35.155	AskQuestion Thread Group 1-2	Background of the Deutsche Telekom	476	Success	17437	1628	414	0
+21946	05:47:35.215	AskQuestion Thread Group 1-4	Apple Menu Options	448	Success	18448	1608	445	0
+21950	05:47:35.395	AskQuestion Thread Group 1-1	Choosing Your Workspace Layout	639	Success	20768	1622	636	0
+21948	05:47:35.512	AskQuestion Thread Group 1-3	fidelity_doc_1244.html	474	Success	4934	1608	473	0
+21947	05:47:35.632	AskQuestion Thread Group 1-2	Fidelity Export and Multinational Fund	321	Success	20180	1632	317	0
+21949	05:47:35.663	AskQuestion Thread Group 1-4	LaserWriter Printing Software	370	Success	17472	1619	366	17
+21951	05:47:35.953	AskQuestion Thread Group 1-2	Accessing and Comparing Bytes	323	Success	17399	1621	321	0
+21954	05:47:35.986	AskQuestion Thread Group 1-3	Monitoring Phone Use	562	Success	19585	1610	560	18
+21952	05:47:36.033	AskQuestion Thread Group 1-4	Avid Cinema 1.1 Update	391	Success	18244	1614	386	0
+21953	05:47:36.034	AskQuestion Thread Group 1-1	OphÃ¸r	441	Success	11029	1602	437	12
+21957	05:47:36.277	AskQuestion Thread Group 1-2	Animating Type with LiveType	623	Success	24913	1620	620	0
+21955	05:47:36.424	AskQuestion Thread Group 1-4	PCI Timing Update	300	Success	15949	1607	297	0
+21956	05:47:36.476	AskQuestion Thread Group 1-1	Goldman Sachs	373	Success	16379	1601	271	0
+21959	05:47:36.548	AskQuestion Thread Group 1-3	Fraskrivelse af ansvar for egenskaber ved Apple-software	617	Success	25742	1654	614	0
+21958	05:47:36.724	AskQuestion Thread Group 1-4	SetPrintersInMacOSX.pdf	298	Success	12666	1609	296	0
+21960	05:47:36.849	AskQuestion Thread Group 1-1	Locating a Referenced Image on a Hard Disk	423	Success	19513	1642	419	0
+21962	05:47:36.900	AskQuestion Thread Group 1-2	High-Bandwidth Server Architecture	564	Success	22447	1624	558	23
+21961	05:47:37.023	AskQuestion Thread Group 1-4	PLATFORM INNOVATION	437	Success	19432	1607	435	0
+21963	05:47:37.165	AskQuestion Thread Group 1-3	Final Cut Studio Workflow	426	Success	19151	1617	423	0
+21965	05:47:37.273	AskQuestion Thread Group 1-1	Is it true that HDV render times are longer?	618	Success	23613	1646	615	0
+21967	05:47:37.460	AskQuestion Thread Group 1-4	Change your call barring password	465	Success	19711	1627	461	0
+21964	05:47:37.464	AskQuestion Thread Group 1-2	Locales	422	Success	18382	1593	417	0
+21966	05:47:37.591	AskQuestion Thread Group 1-3	USER EXPERIENCE	304	Success	17318	1603	300	0
+21969	05:47:37.887	AskQuestion Thread Group 1-2	Viewing and Specifying Preferences	334	Success	20367	1626	331	0
+21971	05:47:37.892	AskQuestion Thread Group 1-1	Data and Fax Calls	526	Success	19395	1610	523	0
+21968	05:47:37.895	AskQuestion Thread Group 1-3	Single-Switch Zoning	265	Success	6592	1608	265	0
+21970	05:47:37.925	AskQuestion Thread Group 1-4	763582	336	Success	2749	1592	336	11
+21972	05:47:38.161	AskQuestion Thread Group 1-3	accessibility.pdf	335	Success	12693	1603	332	12
+21974	05:47:38.221	AskQuestion Thread Group 1-2	Copying Data Objects	446	Success	21817	1610	441	0
+21973	05:47:38.262	AskQuestion Thread Group 1-4	Eksportkontrol	326	Success	19053	1600	322	0
+21975	05:47:38.418	AskQuestion Thread Group 1-1	Activates the next open window in the frontmost application	497	Success	20385	1661	493	22
+21978	05:47:38.496	AskQuestion Thread Group 1-3	Modifying Bytes	701	Success	19573	1603	696	0
+21976	05:47:38.588	AskQuestion Thread Group 1-4	Fidelity Select Banking Portfolio	397	Success	22653	1625	393	0
+21977	05:47:38.667	AskQuestion Thread Group 1-2	Comparison with other AFS Commercial Credit leases	367	Success	21691	1648	365	0
+21982	05:47:38.915	AskQuestion Thread Group 1-1	Creating a Locale Object	650	Success	30448	1616	544	0
+21979	05:47:38.985	AskQuestion Thread Group 1-4	AirCard 710/750 Wireless Network Card	343	Success	16326	1631	340	0
+21981	05:47:39.034	AskQuestion Thread Group 1-2	Working Efficiently	468	Success	20875	1607	464	19
+21980	05:47:39.197	AskQuestion Thread Group 1-3	Emmanuel Bernard	241	Success	4945	1604	241	0
+21983	05:47:39.328	AskQuestion Thread Group 1-4	Replacing Bytes	475	Success	16233	1603	373	0
+21985	05:47:39.438	AskQuestion Thread Group 1-3	Adjusting the Background of the Viewer	562	Success	27928	1634	559	0
+21986	05:47:39.503	AskQuestion Thread Group 1-2	Set call forwarding profiles	583	Success	19709	1620	579	0
+21984	05:47:39.565	AskQuestion Thread Group 1-1	GSM Wireless Networks	426	Success	19710	1611	421	0
+21987	05:47:39.803	AskQuestion Thread Group 1-4	GÃ¦ldende lovgivning og tilsidesÃ¦ttelse af bestemmelser	325	Success	13914	1672	322	0
+21988	05:47:39.992	AskQuestion Thread Group 1-1	Replacing Bytes	514	Success	16233	1603	509	0
+21989	05:47:40.001	AskQuestion Thread Group 1-3	Creating Date Objects	514	Success	22260	1611	511	0
+21991	05:47:40.088	AskQuestion Thread Group 1-2	Network Selection	512	Success	18488	1605	509	0
+21990	05:47:40.130	AskQuestion Thread Group 1-4	Copias acadÃ©micas	397	Success	20541	1616	394	23
+21993	05:47:40.506	AskQuestion Thread Group 1-1	fidelity_doc_1307.html	428	Success	4934	1608	427	18
+21994	05:47:40.515	AskQuestion Thread Group 1-3	246101.pdf	470	Success	2554	1596	470	19
+21992	05:47:40.527	AskQuestion Thread Group 1-4	Recovering a Bad Zone Automatically	371	Success	25773	1629	366	0
+21995	05:47:40.600	AskQuestion Thread Group 1-2	Locking and Unlocking Your Phone	428	Success	19708	1626	425	0
+21996	05:47:40.898	AskQuestion Thread Group 1-4	GPRS packet mode data connections	398	Success	20561	1627	395	0
+21997	05:47:40.935	AskQuestion Thread Group 1-1	Enable or disable a call forwarding profile	413	Success	20230	1641	412	0
+21998	05:47:40.985	AskQuestion Thread Group 1-3	768866	382	Success	2749	1592	381	0
+21999	05:47:41.028	AskQuestion Thread Group 1-2	Fidelity Select Financial Services Portfolio	600	Success	18557	1638	595	0
+22005	05:47:41.297	AskQuestion Thread Group 1-4	Cascading Switches	932	Success	17771	1606	928	0
+22000	05:47:41.349	AskQuestion Thread Group 1-1	Australia	306	Success	15026	1595	303	0
+22001	05:47:41.368	AskQuestion Thread Group 1-3	Fidelity Account Change of Registration Form	454	Success	16393	1640	451	0
+22002	05:47:41.628	AskQuestion Thread Group 1-2	Gateway	285	Success	16641	1593	281	19
+22003	05:47:41.655	AskQuestion Thread Group 1-1	PERFORMANCE OPTIMIZATION	457	Success	19544	1612	453	0
+22004	05:47:41.822	AskQuestion Thread Group 1-3	Automatic waiver	373	Success	14392	1604	369	0
+22006	05:47:41.914	AskQuestion Thread Group 1-2	Delegation	386	Success	17457	1596	380	0
+22007	05:47:42.112	AskQuestion Thread Group 1-1	Hibernate Reference	340	Success	14137	1607	337	0
+22011	05:47:42.195	AskQuestion Thread Group 1-3	Fidelity Select Utilities Growth Portfolio	642	Success	20336	1636	640	0
+22009	05:47:42.230	AskQuestion Thread Group 1-4	è²¬ä»»ã�®åˆ¶é™�	451	Success	14301	1685	448	18
+22008	05:47:42.300	AskQuestion Thread Group 1-2	Consenso all'utilizzo dei dati	319	Success	24343	1622	315	0
+22010	05:47:42.452	AskQuestion Thread Group 1-1	fidelity_doc_1100.pdf	371	Success	13378	1607	370	0
+22012	05:47:42.619	AskQuestion Thread Group 1-2	BlackBerry	298	Success	16568	1596	295	0
+22013	05:47:42.681	AskQuestion Thread Group 1-4	Transferring Files Between Computers	447	Success	20418	1628	443	0
+22014	05:47:42.824	AskQuestion Thread Group 1-1	Tree Cascades	385	Success	16655	1601	377	17
+22015	05:47:42.837	AskQuestion Thread Group 1-3	Final Cut Express HD	394	Success	16790	1612	390	18
+22016	05:47:42.917	AskQuestion Thread Group 1-2	768868	432	Success	2727	1592	432	0
+22019	05:47:43.128	AskQuestion Thread Group 1-4	Loading and storing objects	458	Success	19790	1619	454	0
+22017	05:47:43.209	AskQuestion Thread Group 1-1	YleistÃ¤	318	Success	629	1604	318	0
+22018	05:47:43.231	AskQuestion Thread Group 1-3	242309.pdf	354	Success	12603	1596	352	0
+22020	05:47:43.349	AskQuestion Thread Group 1-2	Protecting Web Transactions	536	Success	20596	1617	531	0
+22023	05:47:43.528	AskQuestion Thread Group 1-1	Quickly Accessing Commands	585	Success	21470	1616	580	0
+22022	05:47:43.585	AskQuestion Thread Group 1-3	cisco	353	Success	18077	1591	347	0
+22021	05:47:43.586	AskQuestion Thread Group 1-4	Leasing Versus Cascading	344	Success	18308	1614	340	0
+22025	05:47:43.885	AskQuestion Thread Group 1-2	240218.pdf	385	Success	629	1596	385	17
+22024	05:47:43.930	AskQuestion Thread Group 1-4	LDAP	284	Success	15719	1590	281	0
+22026	05:47:43.941	AskQuestion Thread Group 1-3	AXRadioButton	378	Success	3062	1599	378	0
+22027	05:47:44.113	AskQuestion Thread Group 1-1	Backlight Control 1.0	374	Success	21047	1611	370	0
+22028	05:47:44.215	AskQuestion Thread Group 1-4	SIM Card Overview	346	Success	21577	1607	343	0
+22030	05:47:44.270	AskQuestion Thread Group 1-2	How does the quality of a native HDV workflow compare with the competition?	387	Success	23421	1685	383	0
+22029	05:47:44.320	AskQuestion Thread Group 1-3	iTunes	276	Success	15886	1592	274	0
+22031	05:47:44.487	AskQuestion Thread Group 1-1	Ricardo Batista	344	Success	2650	1603	344	0
+22033	05:47:44.562	AskQuestion Thread Group 1-4	Canvas	509	Success	17265	1592	507	13
+22032	05:47:44.596	AskQuestion Thread Group 1-3	HAMILTON SUNDSTRAND	434	Success	18169	1607	432	0
+22034	05:47:44.657	AskQuestion Thread Group 1-2	StyleWriter 6500 Printer	437	Success	19490	1614	434	0
+22035	05:47:44.831	AskQuestion Thread Group 1-1	Troubleshooting	299	Success	13824	1601	295	19
+22037	05:47:45.031	AskQuestion Thread Group 1-3	iPod shuffle	343	Success	15824	1600	340	18
+22036	05:47:45.072	AskQuestion Thread Group 1-4	Header	297	Success	17476	1592	294	0
+22038	05:47:45.096	AskQuestion Thread Group 1-2	Recent Clips Pop-Up Menu	449	Success	20205	1616	445	0
+22041	05:47:45.131	AskQuestion Thread Group 1-1	Apple Earphones	10859	Success	15478	1603	10856	0
+22047	05:47:45.369	AskQuestion Thread Group 1-4	Garantie limitÃ©e du support (le cas Ã©chÃ©ant)	11348	Success	25696	1675	11346	0
+22043	05:47:45.374	AskQuestion Thread Group 1-3	United States	10970	Success	16777	1601	10968	0
+22039	05:47:45.545	AskQuestion Thread Group 1-2	246100.pdf	235	Success	2553	1596	235	0
+22040	05:47:45.781	AskQuestion Thread Group 1-2	Using mmap and munmap	3610	Success	4755	1613	3610	0
+22042	05:47:49.392	AskQuestion Thread Group 1-2	AFS Commercial Credit: Leases for technology	6618	Success	22243	1640	6616	11
+22045	05:47:55.992	AskQuestion Thread Group 1-1	Fidelity Select Home Finance Portfolio	521	Success	25000	1632	518	20
+22044	05:47:56.012	AskQuestion Thread Group 1-2	timeIntervalSinceDate	456	Success	4469	1607	456	17
+22046	05:47:56.347	AskQuestion Thread Group 1-3	Alarm Reminders	353	Success	19191	1603	350	18
+22050	05:47:56.469	AskQuestion Thread Group 1-2	Can't make some data into the expected type	701	Success	21364	1643	698	0
+22048	05:47:56.513	AskQuestion Thread Group 1-1	Managed Systems -ohjelmisto rajattomalle kÃ¤yttÃ¤jÃ¤mÃ¤Ã¤rÃ¤lle	427	Success	5009	1717	426	0
+22049	05:47:56.701	AskQuestion Thread Group 1-3	LaserWriter 8 driver	433	Success	18000	1610	429	0
+22051	05:47:56.719	AskQuestion Thread Group 1-4	JMX Integration	488	Success	18314	1603	485	17
+22052	05:47:56.940	AskQuestion Thread Group 1-1	Santorini Server Manager earlier than 4.0	422	Success	24414	1637	418	0
+22055	05:47:57.134	AskQuestion Thread Group 1-3	Restoring the Previous Volume Configuration After Changes	467	Success	20697	1655	462	0
+22053	05:47:57.171	AskQuestion Thread Group 1-2	knowledge	349	Success	14835	1595	344	0
+22054	05:47:57.208	AskQuestion Thread Group 1-4	fidelity_doc_1322.pdf	348	Success	13122	1607	343	0
+22056	05:47:57.362	AskQuestion Thread Group 1-1	FAULT TOLERANT SUPERVISOR PRINTED WIRING BOARD ASSEMBLY	398	Success	18915	1653	396	0
+22060	05:47:57.521	AskQuestion Thread Group 1-2	Setting Your Internet Connection to Use the AirCard	659	Success	20491	1651	653	0
+22057	05:47:57.556	AskQuestion Thread Group 1-4	Aperture Workflow	319	Success	17682	1605	315	0
+22058	05:47:57.601	AskQuestion Thread Group 1-3	Automatic Trunking	346	Success	15545	1606	343	0
+22059	05:47:57.760	AskQuestion Thread Group 1-1	4GiPoddimensions.pdf	272	Success	10898	1606	271	0
+22061	05:47:57.875	AskQuestion Thread Group 1-4	FIDELITY GOLD CARD UPGRADES	358	Success	17006	1619	355	0
+22063	05:47:57.947	AskQuestion Thread Group 1-3	Connecting iPod shuffle	436	Success	21289	1613	428	0
+22062	05:47:58.032	AskQuestion Thread Group 1-1	Frontmost	302	Success	17839	1595	298	19
+22064	05:47:58.180	AskQuestion Thread Group 1-2	IC Policies & Procedures	312	Success	14981	1616	310	21
+22066	05:47:58.234	AskQuestion Thread Group 1-4	Factors to Consider	373	Success	18377	1609	369	0
+22065	05:47:58.334	AskQuestion Thread Group 1-1	246113.pdf	247	Success	2553	1596	247	0
+22067	05:47:58.383	AskQuestion Thread Group 1-3	Fund Closed description	407	Success	20344	1613	403	12
+22068	05:47:58.492	AskQuestion Thread Group 1-2	Documentation Error	327	Success	17874	1607	323	0
+22070	05:47:58.582	AskQuestion Thread Group 1-1	phone	377	Success	13814	1591	373	0
+22069	05:47:58.607	AskQuestion Thread Group 1-4	play MIDI tune	304	Success	20080	1604	300	0
+22071	05:47:58.790	AskQuestion Thread Group 1-3	Contextual sessions	391	Success	16846	1607	388	0
+22072	05:47:58.819	AskQuestion Thread Group 1-2	Downloading a File Using a Web Browser	473	Success	19760	1636	469	0
+22074	05:47:58.911	AskQuestion Thread Group 1-4	ICP system	541	Success	16449	1598	537	17
+22073	05:47:58.959	AskQuestion Thread Group 1-1	GEARBOX ASSEMBL	377	Success	17483	1603	374	0
+22075	05:47:59.181	AskQuestion Thread Group 1-3	autofill music onto iPod shuffle	318	Success	20305	1626	314	0
+22076	05:47:59.292	AskQuestion Thread Group 1-2	6809449A06-A	264	Success	2912	1598	264	0
+22090	05:47:59.336	AskQuestion Thread Group 1-1	sky	2445	Success	12799	1589	2442	0
+22077	05:47:59.452	AskQuestion Thread Group 1-4	Controls in the Projects Panel	412	Success	19124	1624	408	0
+22078	05:47:59.499	AskQuestion Thread Group 1-3	Position	373	Success	14224	1594	372	0
+22079	05:47:59.556	AskQuestion Thread Group 1-2	Systems monitoring and management department 	492	Success	20576	1641	488	0
+22084	05:47:59.865	AskQuestion Thread Group 1-4	Disk Security	776	Success	20277	1601	771	0
+22080	05:47:59.873	AskQuestion Thread Group 1-3	How does HDV hold up for visual effects work?	388	Success	21786	1647	384	0
+22081	05:48:00.048	AskQuestion Thread Group 1-2	zoom	302	Success	15793	1590	298	0
+22083	05:48:00.262	AskQuestion Thread Group 1-3	Basic Platinum Card	366	Success	16202	1609	362	0
+22082	05:48:00.350	AskQuestion Thread Group 1-2	240211.pdf	243	Success	629	1596	243	19
+22087	05:48:00.593	AskQuestion Thread Group 1-2	Alternatives to 64-bit Computing	730	Success	19633	1624	727	0
+22086	05:48:00.628	AskQuestion Thread Group 1-3	AUTOMATION	650	Success	16917	1596	648	33
+22085	05:48:00.642	AskQuestion Thread Group 1-4	Desktop Printer Spooler	359	Success	17267	1613	358	0
+22088	05:48:01.002	AskQuestion Thread Group 1-4	Set up your Aperture system	602	Success	18867	1621	598	17
+22089	05:48:01.278	AskQuestion Thread Group 1-3	fidelity_doc_1332.pdf	397	Success	4914	1607	396	0
+22091	05:48:01.323	AskQuestion Thread Group 1-2	CREATOR ID	621	Success	16833	1598	618	0
+22092	05:48:01.604	AskQuestion Thread Group 1-4	Windows 98	508	Success	16484	1598	501	0
+22093	05:48:01.675	AskQuestion Thread Group 1-3	033-2287-A_ServerSupportGuide.pdf	480	Success	13866	1619	472	0
+22094	05:48:01.781	AskQuestion Thread Group 1-1	Xsan	441	Success	16069	1590	439	19
+22095	05:48:01.945	AskQuestion Thread Group 1-2	Reply has not yet arrived	481	Success	38679	1619	477	0
+22097	05:48:02.113	AskQuestion Thread Group 1-4	Fidelity Value Fund	795	Success	18256	1609	791	0
+22098	05:48:02.155	AskQuestion Thread Group 1-3	Apple Qmaster	852	Success	18698	1601	846	0
+22096	05:48:02.222	AskQuestion Thread Group 1-1	tmobile_content_doc_1499.pdf	453	Success	2537	1614	453	0
+22099	05:48:02.426	AskQuestion Thread Group 1-2	Calendars	591	Success	13894	1595	588	20
+22100	05:48:02.676	AskQuestion Thread Group 1-1	apple_content_test	428	Success	10526	1604	428	0
+22101	05:48:02.908	AskQuestion Thread Group 1-4	Desktop Printer Extension	397	Success	17620	1615	392	0
+22103	05:48:03.007	AskQuestion Thread Group 1-3	Sopimuksen pÃ¤Ã¤ttyminen	486	Success	18508	1632	482	26
+22102	05:48:03.018	AskQuestion Thread Group 1-2	AC SSPC POWER MODULE PRINTED WIRING BOARD ASSEMBLY	466	Success	21082	1650	461	0
+22104	05:48:03.105	AskQuestion Thread Group 1-1	MotoMixer Sound Editor	480	Success	19772	1612	476	0
+22107	05:48:03.305	AskQuestion Thread Group 1-4	IntÃ©gralitÃ© de lâ€™Accord	765	Success	22196	1658	761	18
+22105	05:48:03.484	AskQuestion Thread Group 1-2	phone call is in progress	359	Success	18625	1619	356	0
+22106	05:48:03.493	AskQuestion Thread Group 1-3	Battery Meter	384	Success	19554	1601	380	0
+22109	05:48:03.586	AskQuestion Thread Group 1-1	Add Motion Keyframe	771	Success	23822	1609	768	0
+22108	05:48:03.843	AskQuestion Thread Group 1-2	SQL Dialects	447	Success	15437	1600	446	0
+22111	05:48:03.878	AskQuestion Thread Group 1-3	AppleShare Client software	496	Success	18608	1616	495	0
+22110	05:48:04.071	AskQuestion Thread Group 1-4	fidelity_doc_1338.pdf	286	Success	6152	1607	286	0
+22113	05:48:04.291	AskQuestion Thread Group 1-2	SmoothCam Node	354	Success	19005	1602	350	0
+22112	05:48:04.357	AskQuestion Thread Group 1-1	247002.pdf	267	Success	2554	1596	267	17
+22114	05:48:04.357	AskQuestion Thread Group 1-4	AltiVec/SSE Migration Guide	343	Success	16044	1617	339	0
+22116	05:48:04.374	AskQuestion Thread Group 1-3	Bad name for file	546	Success	17433	1609	538	0
+22115	05:48:04.624	AskQuestion Thread Group 1-1	SHARING AND INTEGRATION	285	Success	15565	1613	280	0
+22117	05:48:04.645	AskQuestion Thread Group 1-2	Embraer ERJ170	352	Success	15374	1602	348	18
+22119	05:48:04.701	AskQuestion Thread Group 1-4	Fixed Dial	587	Success	18828	1598	583	0
+22121	05:48:04.909	AskQuestion Thread Group 1-1	Photo edit	523	Success	17167	1598	519	0
+22118	05:48:04.920	AskQuestion Thread Group 1-3	Playhead and Scrubber Bar	329	Success	17390	1617	326	0
+22120	05:48:04.999	AskQuestion Thread Group 1-2	Updating and Restoring iPod shuffle Software	330	Success	15106	1640	327	0
+22125	05:48:05.251	AskQuestion Thread Group 1-3	Translating Compare Operations	670	Success	23298	1620	666	18
+22122	05:48:05.291	AskQuestion Thread Group 1-4	Check Disb Inquiry tab	325	Success	15734	1614	322	0
+22124	05:48:05.329	AskQuestion Thread Group 1-2	Windows 2000	541	Success	15593	1600	532	0
+22123	05:48:05.435	AskQuestion Thread Group 1-1	WTLS	431	Success	7381	1590	431	0
+22128	05:48:05.616	AskQuestion Thread Group 1-4	FINANCIAL PROFILE FOR NEW REGISTRATION	580	Success	18931	1632	578	18
+22127	05:48:05.866	AskQuestion Thread Group 1-1	770553	288	Success	3255	1592	288	0
+22126	05:48:05.871	AskQuestion Thread Group 1-2	240221.pdf	249	Success	629	1596	249	0
+22129	05:48:05.921	AskQuestion Thread Group 1-3	Tool and Compatibility Issues	512	Success	19433	1621	508	0
+22130	05:48:06.120	AskQuestion Thread Group 1-2	Calculations	338	Success	14236	1598	335	0
+22131	05:48:06.154	AskQuestion Thread Group 1-1	Opening and Closing Projects	378	Success	19385	1620	374	0
+22132	05:48:06.196	AskQuestion Thread Group 1-4	5500-6500_Video_Input_Updt_Info.txt	387	Success	17553	1621	383	0
+22135	05:48:06.433	AskQuestion Thread Group 1-3	Creating Alert Tones	552	Success	19117	1610	530	0
+22133	05:48:06.459	AskQuestion Thread Group 1-2	APU START CONTACTOR ASSEMBLY 	468	Success	19407	1623	464	0
+22134	05:48:06.532	AskQuestion Thread Group 1-1	fidelity_doc_1353.pdf	422	Success	13129	1607	420	13
+22136	05:48:06.583	AskQuestion Thread Group 1-4	Load Balancing	403	Success	19773	1602	401	0
+22139	05:48:06.927	AskQuestion Thread Group 1-2	tmobile_content_doc_1553.pdf	403	Success	15600	1614	400	20
+22137	05:48:06.954	AskQuestion Thread Group 1-1	1702774	247	Success	623	1593	247	0
+22140	05:48:06.985	AskQuestion Thread Group 1-3	txt_files	476	Success	14372	1595	475	0
+22138	05:48:06.986	AskQuestion Thread Group 1-4	è¼¸å‡ºç®¡ç�†ã€€ã€€ã�Šå®¢æ§˜ã�¯	278	Success	17463	1793	275	0
+22141	05:48:07.201	AskQuestion Thread Group 1-1	ZWIRE	279	Success	14045	1591	273	0
+22142	05:48:07.265	AskQuestion Thread Group 1-4	OT 1.1.1-3of4.sea	416	Success	16699	1605	414	0
+22144	05:48:07.330	AskQuestion Thread Group 1-2	LaserWriter 8.5.1 software	528	Success	19198	1616	526	0
+22146	05:48:07.462	AskQuestion Thread Group 1-3	Dialing an Emergency Number	515	Success	19346	1619	510	20
+22143	05:48:07.480	AskQuestion Thread Group 1-1	Final_Cut_Express_HD_User_Manual.pdf	320	Success	18130	1622	315	0
+22145	05:48:07.682	AskQuestion Thread Group 1-4	HCIIGS_1.1.txt	293	Success	14519	1600	290	18
+22148	05:48:07.800	AskQuestion Thread Group 1-1	JDBC connections	536	Success	20763	1604	532	0
+22147	05:48:07.859	AskQuestion Thread Group 1-2	Einwilligung zur Verwendung von Daten	469	Success	22579	1631	465	0
+22149	05:48:07.975	AskQuestion Thread Group 1-4	Fidelity Select Home Finance Portfolio	365	Success	25000	1632	362	0
+22150	05:48:07.977	AskQuestion Thread Group 1-3	AppleCare_Protect_Plan_EU_es.pdf	571	Success	19915	1618	567	0
+22151	05:48:08.328	AskQuestion Thread Group 1-2	Focused	282	Success	15804	1593	279	0
+22153	05:48:08.336	AskQuestion Thread Group 1-1	Windows xp	384	Success	16415	1598	379	0
+22152	05:48:08.340	AskQuestion Thread Group 1-4	US Mac OS 7.1.1 or later	274	Success	16698	1620	270	0
+22156	05:48:08.548	AskQuestion Thread Group 1-3	WAP Push	509	Success	18435	1596	507	0
+22154	05:48:08.610	AskQuestion Thread Group 1-2	Fidelity Debit Card	354	Success	15754	1609	353	0
+22155	05:48:08.614	AskQuestion Thread Group 1-4	Making Code 64-Bit Clean	375	Success	20775	1616	370	0
+22157	05:48:08.721	AskQuestion Thread Group 1-1	fidelity_doc_1360.pdf	359	Success	13129	1607	356	19
+22159	05:48:08.965	AskQuestion Thread Group 1-2	VientisÃ¤Ã¤tely	371	Success	18113	1621	367	17
+22158	05:48:08.989	AskQuestion Thread Group 1-4	Setting the Maximum Volume Limit	333	Success	19504	1626	329	0
+22160	05:48:09.057	AskQuestion Thread Group 1-3	APU BATT CHGR	347	Success	17331	1603	344	0
+22161	05:48:09.080	AskQuestion Thread Group 1-1	BEST MAC OS X DEVELOPER TOOL	549	Success	21968	1624	545	0
+22162	05:48:09.322	AskQuestion Thread Group 1-4	Nederlands	485	Success	14992	1596	381	0
+22163	05:48:09.336	AskQuestion Thread Group 1-2	Resolves issue with Wireless Disabled mode for AirPort Express	562	Success	19588	1664	558	0
+22164	05:48:09.404	AskQuestion Thread Group 1-3	Floating Point Capabilities of AltiVec and SSE	548	Success	25871	1644	545	0
+22165	05:48:09.630	AskQuestion Thread Group 1-1	AOPAY 	440	Success	14603	1594	436	0
+22167	05:48:09.807	AskQuestion Thread Group 1-4	tmobile_content_doc_1646.pdf	447	Success	2535	1614	447	17
+22168	05:48:09.898	AskQuestion Thread Group 1-2	RotoShape Node	502	Success	17944	1602	499	0
+22166	05:48:09.953	AskQuestion Thread Group 1-3	Using Time Zones	295	Success	17335	1606	290	24
+22169	05:48:10.071	AskQuestion Thread Group 1-1	System disk for the Apple II	404	Success	15696	1624	401	0
+22170	05:48:10.249	AskQuestion Thread Group 1-3	Unlock your handheld	386	Success	15191	1610	383	0
+22171	05:48:10.255	AskQuestion Thread Group 1-4	Financial Advisor Fee Request	505	Success	15501	1621	503	0
+22172	05:48:10.401	AskQuestion Thread Group 1-2	Port Utilization and Health	438	Success	19109	1619	433	0
+22173	05:48:10.475	AskQuestion Thread Group 1-1	Midboard Slat Actuator	380	Success	17345	1612	375	0
+22174	05:48:10.635	AskQuestion Thread Group 1-3	Launching the Watcher Program	429	Success	19422	1621	426	0
+22175	05:48:10.760	AskQuestion Thread Group 1-4	SPDA DC FEEDER PRINTED WIRING BOARD	395	Success	17935	1631	392	0
+22177	05:48:10.839	AskQuestion Thread Group 1-2	Select an Alert Profile	435	Success	19687	1615	429	0
+22176	05:48:10.855	AskQuestion Thread Group 1-1	fidelity_doc_1367.pdf	418	Success	4916	1607	417	17
+22178	05:48:11.065	AskQuestion Thread Group 1-3	Sign Extension Rules for C and C-derived Languages	312	Success	4555	1650	312	0
+22179	05:48:11.156	AskQuestion Thread Group 1-4	Rigorous Research Studies 	447	Success	20557	1618	443	0
+22182	05:48:11.273	AskQuestion Thread Group 1-1	CarbonPrintingManager_Ref.pdf	512	Success	15326	1615	509	0
+22180	05:48:11.275	AskQuestion Thread Group 1-2	Portable Phone Operation and EME Exposure	335	Success	18916	1637	331	13
+22181	05:48:11.378	AskQuestion Thread Group 1-3	Distribute your images	383	Success	21753	1612	380	0
+22183	05:48:11.603	AskQuestion Thread Group 1-4	Networking	391	Success	14634	1596	388	0
+22184	05:48:11.611	AskQuestion Thread Group 1-2	OT 1.1.1-Net Install.sea	527	Success	17539	1614	525	0
+22185	05:48:11.761	AskQuestion Thread Group 1-3	File reference number error	392	Success	18681	1619	388	0
+22186	05:48:11.785	AskQuestion Thread Group 1-1	Download notification tunes	438	Success	18386	1617	434	0
+22187	05:48:11.994	AskQuestion Thread Group 1-4	Processing position-level deposits in BCOW	296	Success	15576	1636	292	22
+22188	05:48:12.138	AskQuestion Thread Group 1-2	Window	435	Success	13503	1592	432	0
+22189	05:48:12.153	AskQuestion Thread Group 1-3	BROKERAGE ACCOUNT CHECK PERSONALIZATION	491	Success	17966	1631	486	19
+22190	05:48:12.224	AskQuestion Thread Group 1-1	fidelity_doc_1386.pdf	465	Success	13130	1607	463	0
+22191	05:48:12.290	AskQuestion Thread Group 1-4	Corrections to Shake Documentation	508	Success	21439	1626	504	0
+22195	05:48:12.573	AskQuestion Thread Group 1-2	The Differences Between Apple FireWire and FireWire Basic	774	Success	23255	1657	771	0
+22193	05:48:12.645	AskQuestion Thread Group 1-3	Creating and Showing Favorite Projects	509	Success	21272	1632	505	0
+22192	05:48:12.690	AskQuestion Thread Group 1-1	Hibernate statistics	409	Success	13221	1608	405	0
+22194	05:48:12.799	AskQuestion Thread Group 1-4	tmobile_content_doc_1685.pdf	371	Success	2534	1614	371	0
+22201	05:48:13.099	AskQuestion Thread Group 1-1	About AirPort Extreme Update 2007-002	8056	Success	20042	1631	8053	22
+22196	05:48:13.154	AskQuestion Thread Group 1-3	HaftungsbeschrÃ¤nkung	274	Success	653	1617	274	0
+22200	05:48:13.170	AskQuestion Thread Group 1-4	Overdracht	7603	Success	21736	1596	7598	0
+22197	05:48:13.347	AskQuestion Thread Group 1-2	Converting Dates to Strings	5897	Success	20364	1619	5893	19
+22203	05:48:13.428	AskQuestion Thread Group 1-3	Speak directly into the microphone	7888	Success	18142	1628	7884	0
+22198	05:48:19.245	AskQuestion Thread Group 1-2	Collaboration Services Administration	403	Success	19590	1627	399	12
+22199	05:48:19.648	AskQuestion Thread Group 1-2	275237.pdf	380	Success	2551	1596	379	0
+22202	05:48:20.029	AskQuestion Thread Group 1-2	AppleShare_MMgr_INIT_1.0_Info.txt	1174	Success	18010	1619	1170	0
+22204	05:48:20.775	AskQuestion Thread Group 1-4	jump to a new location in the scrubber bar	579	Success	31472	1644	574	25
+22205	05:48:21.157	AskQuestion Thread Group 1-1	Data Connections Through GPRS	414	Success	20514	1621	410	19
+22206	05:48:21.204	AskQuestion Thread Group 1-2	Partnership Account Agreement	548	Success	19833	1619	544	0
+22207	05:48:21.319	AskQuestion Thread Group 1-3	Focused	465	Success	15804	1593	461	17
+22208	05:48:21.355	AskQuestion Thread Group 1-4	BEST MAC OS X GAME	520	Success	18922	1612	519	0
+22209	05:48:21.571	AskQuestion Thread Group 1-1	fidelity_doc_1394.pdf	359	Success	4920	1607	359	0
+22210	05:48:21.753	AskQuestion Thread Group 1-2	BCOW CKRD	277	Success	2655	1597	277	19
+22213	05:48:21.785	AskQuestion Thread Group 1-3	Galaxy_S_II_quick_reference_sheet.pdf	512	Success	12966	1623	509	0
+22212	05:48:21.875	AskQuestion Thread Group 1-4	770561A	409	Success	2873	1593	409	0
+22211	05:48:21.931	AskQuestion Thread Group 1-1	242361.pdf	266	Success	629	1596	266	0
+22215	05:48:22.030	AskQuestion Thread Group 1-2	Vector Shift Operations	618	Success	22202	1613	612	0
+22217	05:48:22.197	AskQuestion Thread Group 1-1	Creating a Tone	551	Success	18084	1605	546	0
+22214	05:48:22.284	AskQuestion Thread Group 1-4	LaserWriter Software Compatibility	359	Success	19137	1624	356	0
+22216	05:48:22.297	AskQuestion Thread Group 1-3	Delete a notification profile	450	Success	19102	1621	445	0
+22219	05:48:22.644	AskQuestion Thread Group 1-4	Elements Used in Aperture	465	Success	18711	1617	460	0
+22218	05:48:22.648	AskQuestion Thread Group 1-2	1702885B	375	Success	11190	1594	374	0
+22220	05:48:22.747	AskQuestion Thread Group 1-3	Troubleshooting Digital Cinema Desktop Preview	418	Success	20475	1640	356	0
+22221	05:48:22.748	AskQuestion Thread Group 1-1	Video overlay software for the Apple IIGS	528	Success	18440	1639	525	0
+22222	05:48:23.024	AskQuestion Thread Group 1-2	fidelity_doc_1576.pdf	489	Success	13129	1607	486	0
+22224	05:48:23.110	AskQuestion Thread Group 1-4	Choosing the Windows ID Mapping Method	742	Success	20074	1634	739	11
+22223	05:48:23.165	AskQuestion Thread Group 1-3	DHCP	442	Success	18314	1590	439	0
+22225	05:48:23.276	AskQuestion Thread Group 1-1	PSD Files	678	Success	18415	1597	675	23
+22226	05:48:23.513	AskQuestion Thread Group 1-2	Programming SSE in C	623	Success	20486	1612	619	0
+22227	05:48:23.607	AskQuestion Thread Group 1-3	Pledge Agreement for Lending on Shelf-Registered	576	Success	16837	1644	575	19
+22230	05:48:23.852	AskQuestion Thread Group 1-4	Value Propositions	663	Success	15140	1606	647	0
+22228	05:48:23.955	AskQuestion Thread Group 1-1	Some parameter was invalid	448	Success	16165	1618	445	0
+22229	05:48:24.136	AskQuestion Thread Group 1-2	SCSI Utilities disk for the Apple II	379	Success	16199	1634	376	18
+22231	05:48:24.184	AskQuestion Thread Group 1-3	Adding LUNs to a Storage Poo	444	Success	2719	1624	443	0
+22232	05:48:24.404	AskQuestion Thread Group 1-1	tmobile_content_doc_1712.pdf	256	Success	2535	1614	256	0
+22233	05:48:24.515	AskQuestion Thread Group 1-2	iPod Hi-Fi	306	Success	14741	1598	255	0
+22234	05:48:24.516	AskQuestion Thread Group 1-4	BCOW PLD	351	Success	15016	1596	348	0
+22236	05:48:24.628	AskQuestion Thread Group 1-3	Viewing Port Diagnostics	393	Success	20631	1614	388	0
+22235	05:48:24.660	AskQuestion Thread Group 1-1	Tuplizers	246	Success	2817	1595	246	0
+22237	05:48:24.821	AskQuestion Thread Group 1-2	Aircraft	401	Success	15611	1594	397	0
+22240	05:48:24.868	AskQuestion Thread Group 1-4	Watcher Menu Options	591	Success	19736	1610	585	0
+22238	05:48:24.906	AskQuestion Thread Group 1-1	BeÃ«indiging	340	Success	9227	1608	339	0
+22239	05:48:25.023	AskQuestion Thread Group 1-3	IIGS ShrinkIt archive in Binary II format	308	Success	16084	1639	306	0
+22242	05:48:25.223	AskQuestion Thread Group 1-2	Installing_Your_Final_Cut_Studio_Software.pdf	447	Success	18244	1631	443	0
+22241	05:48:25.247	AskQuestion Thread Group 1-1	VollstÃ¤ndigkeit	388	Success	645	1612	388	0
+22243	05:48:25.332	AskQuestion Thread Group 1-3	EMS CDU 2A	344	Success	15783	1600	341	0
+22246	05:48:25.461	AskQuestion Thread Group 1-4	Deleting Images from Projects and Albums	545	Success	20017	1636	542	19
+22245	05:48:25.635	AskQuestion Thread Group 1-1	oracle	356	Success	13300	1592	353	13
+22244	05:48:25.670	AskQuestion Thread Group 1-2	fidelity_doc_1585.pdf	252	Success	4925	1607	252	0
+22247	05:48:25.676	AskQuestion Thread Group 1-3	Create a notification profile	411	Success	23153	1621	408	20
+22248	05:48:25.922	AskQuestion Thread Group 1-2	Generelt	385	Success	18916	1594	382	0
+22249	05:48:25.992	AskQuestion Thread Group 1-1	Check Call Forwarding Status	418	Success	18992	1620	416	0
+22251	05:48:26.007	AskQuestion Thread Group 1-4	BEST MAC OS X DASHBOARD WIDGET	654	Success	21606	1626	649	0
+22250	05:48:26.088	AskQuestion Thread Group 1-3	CIS_Mail_2.0_v.1.0.2.txt	364	Success	21292	1610	360	0
+22252	05:48:26.308	AskQuestion Thread Group 1-2	242385.pdf	358	Success	629	1596	358	17
+22253	05:48:26.411	AskQuestion Thread Group 1-1	About the DOS Compatibility Software Update	392	Success	18794	1639	388	0
+22255	05:48:26.452	AskQuestion Thread Group 1-3	Shake 4	635	Success	16578	1595	633	0
+22258	05:48:26.661	AskQuestion Thread Group 1-4	Setting Storage Pool Stripe Breadth	643	Success	22764	1629	638	0
+22254	05:48:26.666	AskQuestion Thread Group 1-2	fidelity_doc_1609.pdf	268	Success	4925	1607	267	0
+22257	05:48:26.803	AskQuestion Thread Group 1-1	Piggy Back description	415	Success	17529	1612	410	0
+22256	05:48:26.934	AskQuestion Thread Group 1-2	PLEDGE	259	Success	14178	1592	257	0
+22259	05:48:27.087	AskQuestion Thread Group 1-3	Discriminator	292	Success	6934	1599	292	0
+22260	05:48:27.193	AskQuestion Thread Group 1-2	NSShortMonthNameArray	272	Success	4417	1607	272	0
+22261	05:48:27.219	AskQuestion Thread Group 1-1	Detecting SSE3	371	Success	6699	1602	371	0
+22263	05:48:27.304	AskQuestion Thread Group 1-4	Removing a Client from a SAN	581	Success	27854	1624	574	0
+22262	05:48:27.379	AskQuestion Thread Group 1-3	tmobile_content_doc_1752.pdf	427	Success	15600	1614	424	0
+22264	05:48:27.465	AskQuestion Thread Group 1-2	Operational Warnings	489	Success	17482	1608	485	0
+22265	05:48:27.591	AskQuestion Thread Group 1-1	Sealed Bearing Support	584	Success	20439	1612	579	0
+22266	05:48:27.807	AskQuestion Thread Group 1-3	APPLEVDO.TXT	399	Success	9959	1598	398	24
+22267	05:48:27.885	AskQuestion Thread Group 1-4	What Are Digital Master Files?	381	Success	19258	1624	377	17
+22268	05:48:27.954	AskQuestion Thread Group 1-2	Disk 1 of 7-Install.sea	571	Success	19682	1615	569	0
+22270	05:48:28.175	AskQuestion Thread Group 1-1	The Factory Serial Number	444	Success	17754	1617	441	20
+22271	05:48:28.206	AskQuestion Thread Group 1-3	Selected Text Range	481	Success	21473	1609	478	0
+22269	05:48:28.267	AskQuestion Thread Group 1-4	772699	331	Success	2871	1592	331	0
+22273	05:48:28.525	AskQuestion Thread Group 1-2	Change Your SIM Card	480	Success	19088	1612	477	21
+22272	05:48:28.599	AskQuestion Thread Group 1-4	Compatibility Checker 2.0	360	Success	16598	1615	357	0
+22274	05:48:28.619	AskQuestion Thread Group 1-1	Instructions for installing the APPLEVDO.INF	409	Success	19094	1638	406	0
+22275	05:48:28.687	AskQuestion Thread Group 1-3	Removing an SFP	525	Success	19158	1605	522	0
+22278	05:48:28.959	AskQuestion Thread Group 1-4	Mail Services in Action	532	Success	21185	1615	528	0
+22276	05:48:29.006	AskQuestion Thread Group 1-2	Margin Application	378	Success	16759	1606	375	0
+22277	05:48:29.028	AskQuestion Thread Group 1-1	Power-Off Delay	378	Success	23200	1603	374	0
+22279	05:48:29.212	AskQuestion Thread Group 1-3	Select a display language	380	Success	19369	1617	376	0
+22280	05:48:29.384	AskQuestion Thread Group 1-2	available hard disk space	333	Success	20677	1617	330	0
+22281	05:48:29.406	AskQuestion Thread Group 1-1	Install a Cover and Keypad	350	Success	18489	1620	345	0
+22283	05:48:29.491	AskQuestion Thread Group 1-4	Changing a Controllerâ€™s IP Address	649	Success	19638	1651	643	0
+22282	05:48:29.592	AskQuestion Thread Group 1-3	tmobile_content_doc_2859.pdf	508	Success	16109	1614	501	0
+22286	05:48:29.717	AskQuestion Thread Group 1-2	Adding a Gradient	695	Success	21013	1607	691	0
+22284	05:48:29.756	AskQuestion Thread Group 1-1	Pairing Your iPod Hi-Fi with the Remote	507	Success	19889	1637	502	0
+22285	05:48:30.101	AskQuestion Thread Group 1-3	fidelity_doc_2072.pdf	284	Success	3757	1607	284	13
+22288	05:48:30.141	AskQuestion Thread Group 1-4	BEST MAC OS X STUDENT PRODUCT	527	Success	21050	1625	519	17
+22287	05:48:30.264	AskQuestion Thread Group 1-1	cello	317	Success	4855	1591	317	12
+22291	05:48:30.385	AskQuestion Thread Group 1-3	PIN Disabled	600	Success	19424	1600	597	0
+22289	05:48:30.414	AskQuestion Thread Group 1-2	275309.pdf	314	Success	12612	1596	313	0
+22290	05:48:30.591	AskQuestion Thread Group 1-1	Network Adapter Manager	349	Success	17402	1613	344	0
+22292	05:48:30.668	AskQuestion Thread Group 1-4	unsigned	371	Success	15871	1594	368	0
+22294	05:48:30.728	AskQuestion Thread Group 1-2	Configuring the Port Smart Settings	543	Success	19898	1629	539	20
+22293	05:48:30.940	AskQuestion Thread Group 1-1	Beheersoftware	289	Success	6669	1600	289	0
+22296	05:48:30.985	AskQuestion Thread Group 1-3	Using FTP to Share Files	517	Success	24465	1618	513	0
+22295	05:48:31.040	AskQuestion Thread Group 1-4	APU FUEL MOD	306	Success	16996	1602	303	0
+22298	05:48:31.229	AskQuestion Thread Group 1-1	SNMP	490	Success	17640	1590	486	0
+22297	05:48:31.271	AskQuestion Thread Group 1-2	244001.pdf	345	Success	629	1596	345	0
+22299	05:48:31.346	AskQuestion Thread Group 1-4	FITS AND CLEARANCES	386	Success	15480	1609	383	0
+22302	05:48:31.503	AskQuestion Thread Group 1-3	Fidelity IRA and Inherited IRA New Account Application Instructions	512	Success	19960	1669	509	0
+22300	05:48:31.616	AskQuestion Thread Group 1-2	JMX deployment	377	Success	17319	1602	376	0
+22301	05:48:31.719	AskQuestion Thread Group 1-1	Piscataquis Community Middle School	287	Success	3256	1627	287	0
+22305	05:48:31.733	AskQuestion Thread Group 1-4	Set browser options	579	Success	18942	1609	576	0
+22303	05:48:31.994	AskQuestion Thread Group 1-2	1700595	267	Success	2791	1593	267	0
+22306	05:48:32.006	AskQuestion Thread Group 1-1	Velocity Engine Issues	623	Success	21104	1612	620	0
+22304	05:48:32.015	AskQuestion Thread Group 1-3	Disk 2 of 7-System.Disk.sea	278	Success	3372	1619	277	0
+22307	05:48:32.261	AskQuestion Thread Group 1-2	What Are Projects?	385	Success	15938	1608	380	0
+22309	05:48:32.293	AskQuestion Thread Group 1-3	Using SSL for Weblog Access	646	Success	22570	1621	642	20
+22308	05:48:32.313	AskQuestion Thread Group 1-4	fidelity_doc_2214.pdf	516	Success	13129	1607	509	18
+22310	05:48:32.629	AskQuestion Thread Group 1-1	Deleting Items from the Projects Panel	372	Success	19085	1634	367	10
+22311	05:48:32.646	AskQuestion Thread Group 1-2	Attaching a Serial Cable	414	Success	19085	1616	410	0
+22312	05:48:32.829	AskQuestion Thread Group 1-4	Remove a Cover and Keypad	384	Success	18479	1619	381	0
+22313	05:48:32.939	AskQuestion Thread Group 1-3	Parent	288	Success	14523	1592	284	0
+22315	05:48:33.002	AskQuestion Thread Group 1-1	Must be the release version	476	Success	18902	1621	364	0
+22314	05:48:33.060	AskQuestion Thread Group 1-2	Restore of bundled file types	359	Success	20331	1623	355	17
+22316	05:48:33.213	AskQuestion Thread Group 1-4	Oppdateringer	338	Success	18064	1599	333	0
+22317	05:48:33.228	AskQuestion Thread Group 1-3	SPOUSE ONLY	442	Success	18099	1599	437	0
+22318	05:48:33.420	AskQuestion Thread Group 1-2	tmobile_content_doc_326.pdf	436	Success	16253	1613	431	0
+22320	05:48:33.479	AskQuestion Thread Group 1-1	Finding the Serial Number of Your iPod Hi-Fi	447	Success	18999	1644	444	0
+22319	05:48:33.551	AskQuestion Thread Group 1-4	772699A	371	Success	2851	1593	370	0
+22321	05:48:33.671	AskQuestion Thread Group 1-3	config network ip	427	Success	20168	1607	421	0
+22322	05:48:33.856	AskQuestion Thread Group 1-2	IRA Over Contribution description	365	Success	20944	1625	362	0
+22324	05:48:33.922	AskQuestion Thread Group 1-4	Data Types and Intrinsics	681	Success	24016	1617	678	0
+22323	05:48:33.927	AskQuestion Thread Group 1-1	Volledige overeenkomst; taalversie	483	Success	18973	1624	478	0
+22326	05:48:34.099	AskQuestion Thread Group 1-3	Switching Primary Cards	615	Success	19907	1613	610	0
+22325	05:48:34.221	AskQuestion Thread Group 1-2	EDL Access	460	Success	15692	1598	456	0
+22329	05:48:34.410	AskQuestion Thread Group 1-1	iPod_Hi-Fi_Safety_Communications_Regulation_Info.pdf	548	Success	18071	1638	433	0
+22327	05:48:34.603	AskQuestion Thread Group 1-4	NSShortWeekDayNameArray	297	Success	4444	1609	297	18
+22328	05:48:34.681	AskQuestion Thread Group 1-2	Disk 3 of 7-SystemTools1.sea	259	Success	3350	1620	259	0
+22330	05:48:34.714	AskQuestion Thread Group 1-3	fidelity_doc_31.pdf	323	Success	3753	1605	322	21
+22333	05:48:34.900	AskQuestion Thread Group 1-4	How BTAM Works	429	Success	3985	1604	429	0
+22331	05:48:34.941	AskQuestion Thread Group 1-2	Ethernet LEDs	350	Success	18347	1601	345	0
+22332	05:48:34.959	AskQuestion Thread Group 1-1	245503.pdf	332	Success	629	1596	332	18
+22334	05:48:35.038	AskQuestion Thread Group 1-3	BeÃ«indiging	334	Success	9227	1608	334	0
+22336	05:48:35.293	AskQuestion Thread Group 1-2	Edit an AutoText entry	464	Success	21364	1614	462	17
+22337	05:48:35.293	AskQuestion Thread Group 1-1	SSN Over Contribution description	487	Success	18164	1625	484	0
+22338	05:48:35.330	AskQuestion Thread Group 1-4	Change the Switch Name	514	Success	19114	1614	511	0
+22335	05:48:35.372	AskQuestion Thread Group 1-3	Begrensning av erstatningsansvar	321	Success	22156	1622	317	0
+22339	05:48:35.693	AskQuestion Thread Group 1-3	BlackBerry Wireless Handheld	342	Success	17429	1618	339	0
+22341	05:48:35.757	AskQuestion Thread Group 1-2	275310.pdf	468	Success	12612	1596	467	0
+22340	05:48:35.780	AskQuestion Thread Group 1-1	Resetting Your Phone	432	Success	19046	1610	428	0
+22342	05:48:35.844	AskQuestion Thread Group 1-4	DC POWER CENTER ASSEMBLY	559	Success	19854	1616	555	0
+22344	05:48:36.035	AskQuestion Thread Group 1-3	Control Surface Changes	486	Success	19682	1613	483	0
+22343	05:48:36.212	AskQuestion Thread Group 1-1	EntityNameResolvers	286	Success	2838	1605	285	0
+22345	05:48:36.225	AskQuestion Thread Group 1-2	Translating Floating Point Operations	491	Success	24066	1629	489	0
+22346	05:48:36.404	AskQuestion Thread Group 1-4	Device Driver Issues	407	Success	19729	1610	402	0
+22348	05:48:36.498	AskQuestion Thread Group 1-1	762834	436	Success	3011	1592	436	0
+22347	05:48:36.521	AskQuestion Thread Group 1-3	Mac OS X 10.3.9 or later	368	Success	19400	1620	363	0
+22349	05:48:36.716	AskQuestion Thread Group 1-2	fidelity_doc_3165.pdf	398	Success	13129	1607	395	0
+22350	05:48:36.811	AskQuestion Thread Group 1-4	Irving Elementary School	346	Success	21524	1614	342	13
+22351	05:48:36.889	AskQuestion Thread Group 1-3	Daily reconciliation	356	Success	15106	1608	352	25
+22352	05:48:36.934	AskQuestion Thread Group 1-1	What Are Albums?	376	Success	17522	1606	373	0
+22353	05:48:37.114	AskQuestion Thread Group 1-2	TESTING	318	Success	14599	1593	315	0
+22355	05:48:37.158	AskQuestion Thread Group 1-4	Adobe Type Manager	515	Success	18391	1608	512	0
+22354	05:48:37.245	AskQuestion Thread Group 1-3	Reboot	289	Success	15945	1592	285	0
+22356	05:48:37.311	AskQuestion Thread Group 1-1	File Formats You Can Import into Your Library	400	Success	20892	1645	396	18
+22358	05:48:37.432	AskQuestion Thread Group 1-2	Defining iChat Service Access	502	Success	24616	1621	493	12
+22357	05:48:37.534	AskQuestion Thread Group 1-3	Subrole	349	Success	2680	1593	349	0
+22359	05:48:37.673	AskQuestion Thread Group 1-4	Logic7_DedicatedCntrlSurfaceInfo.pdf	316	Success	15648	1622	311	0
+22360	05:48:37.711	AskQuestion Thread Group 1-1	boulevard Davout	416	Success	16054	1604	413	0
+22361	05:48:37.883	AskQuestion Thread Group 1-3	Dual-channel Ultra320 SCSI PCI-X card	390	Success	26469	1631	382	0
+22362	05:48:37.934	AskQuestion Thread Group 1-2	Email and PIN messages	445	Success	20237	1614	441	0
+22364	05:48:37.989	AskQuestion Thread Group 1-4	Create an AutoText entry	504	Success	18916	1616	498	0
+22363	05:48:38.127	AskQuestion Thread Group 1-1	BTAM Specifics	302	Success	4080	1602	302	0
+22365	05:48:38.273	AskQuestion Thread Group 1-3	AppleEvent timed out	415	Success	15935	1610	411	0
+22366	05:48:38.379	AskQuestion Thread Group 1-2	Charge the Phone	532	Success	18892	1606	522	0
+22368	05:48:38.429	AskQuestion Thread Group 1-1	SSPC initialization	512	Success	17284	1607	509	0
+22367	05:48:38.493	AskQuestion Thread Group 1-4	Telnet Session	419	Success	16281	1602	409	0
+22369	05:48:38.688	AskQuestion Thread Group 1-3	exceptions	428	Success	13760	1596	427	0
+22370	05:48:38.911	AskQuestion Thread Group 1-2	ICS Branch Reconciliation reports	308	Success	19405	1625	303	0
+22372	05:48:38.912	AskQuestion Thread Group 1-4	XDoclet markup	451	Success	18170	1602	448	22
+22371	05:48:38.942	AskQuestion Thread Group 1-1	fidelity_doc_3363.pdf	349	Success	13129	1607	346	0
+22374	05:48:39.116	AskQuestion Thread Group 1-3	Break an Infrared Connection	494	Success	20705	1620	492	19
+22373	05:48:39.219	AskQuestion Thread Group 1-2	Disk 4 of 7-SystemTools2.sea	334	Success	3328	1620	333	0
+22375	05:48:39.291	AskQuestion Thread Group 1-1	Purchasing Information	431	Success	17881	1610	428	0
+22376	05:48:39.364	AskQuestion Thread Group 1-4	RS-232 null-modem serial cable	5367	Success	26156	1622	5364	0
+22379	05:48:39.553	AskQuestion Thread Group 1-2	Collaboration Services in Small- to Medium-Sized Organizations	8468	Success	25923	1660	8464	19
+22380	05:48:39.615	AskQuestion Thread Group 1-3	Sending a Talk then Fax Call	8515	Success	20177	1624	8511	0
+22377	05:48:39.723	AskQuestion Thread Group 1-1	770545	7715	Success	3252	1592	7714	17
+22381	05:48:44.733	AskQuestion Thread Group 1-4	DVD Studio Pro Installation Disc	3406	Success	23425	1626	3396	18
+22378	05:48:47.439	AskQuestion Thread Group 1-1	Canada	418	Success	14541	1592	415	28
+22382	05:48:47.857	AskQuestion Thread Group 1-1	Accessing the Late-Breaking News Document	427	Success	19058	1635	424	0
+22383	05:48:48.023	AskQuestion Thread Group 1-2	fidelity_doc_3658.pdf	327	Success	3759	1607	327	17
+22386	05:48:48.138	AskQuestion Thread Group 1-3	Send a message to a contact in your address book	514	Success	20386	1652	462	18
+22385	05:48:48.139	AskQuestion Thread Group 1-4	NSTimeDateFormatString	394	Success	4085	1608	394	14
+22384	05:48:48.285	AskQuestion Thread Group 1-1	Disk 5 of 7-Fonts.sea	248	Success	3358	1613	248	0
+22387	05:48:48.350	AskQuestion Thread Group 1-2	275160.pdf	332	Success	12614	1596	331	0
+22390	05:48:48.533	AskQuestion Thread Group 1-4	Contest entries may be submitted electronically in disk image format via ftp	576	Success	29690	1684	572	0
+22391	05:48:48.533	AskQuestion Thread Group 1-1	Importing Image Files Stored on Your Computer	622	Success	22980	1643	618	0
+22388	05:48:48.652	AskQuestion Thread Group 1-3	Compiling 64-Bit Code Using GCC	399	Success	20452	1625	395	0
+22389	05:48:48.682	AskQuestion Thread Group 1-2	What Is the Library?	407	Success	16815	1612	403	0

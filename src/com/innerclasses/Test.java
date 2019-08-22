@@ -16,7 +16,7 @@ public class Test {
 	}
 	
 	private void testPrint() {
-		//print1(); //Outer class don't innerclass methods, they can accessed via object
+		//print1(); //Outer class cann't access innerclass methods, they can accessed via object
 		//new InnerClass().print1();
 		System.out.println("MainClass - Print");
 	}

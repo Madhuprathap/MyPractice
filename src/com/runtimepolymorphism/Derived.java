@@ -27,4 +27,13 @@ public class Derived extends Base{
 		// TODO Auto-generated method stub
 		super.display(x);
 	}
+	
+	// access scope should be broader -> can not decrease scope
+	// return type should be same or sub-type
+	// exception , can throw any no of new runtime/unchecked exceptions & can not throw any new checked exceptions other than sub-type of existing one. 
+	// Can throw fewer checked exceptions too (can ignore checked exceptions declared in base method signature)
+	@Override
+	public void exceptionCheck() throws FileNotFoundException, NumberFormatException {
+		// TODO Auto-generated method stub
+	}
 }

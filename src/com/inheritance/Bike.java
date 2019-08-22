@@ -1,6 +1,11 @@
 package com.inheritance;
 
 public class Bike {
+	
+	static {
+		System.out.println("Static Bike");
+	}
+	static int i = 5;
 	public Bike() {
 		System.out.println("In Bike");
 		method1();
@@ -25,5 +30,9 @@ public class Bike {
 	
 	public void overridetest() {
 		System.out.println("overridetest - Bike");
+	}
+
+	public static void staticTest() {
+		System.out.println("staticTest - Bike");
 	}
 }

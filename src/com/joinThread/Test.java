@@ -6,6 +6,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.TreeSet;
 
+import com.sun.deploy.uitoolkit.impl.fx.AppletStageManager;
+
 public class Test {
 
 	/**
@@ -16,7 +18,7 @@ public class Test {
 		Timestamp heartbeatTime = new Timestamp(new java.util.Date().getTime());
 		System.out.println(heartbeatTime);
 		
-		Thread t1 = new Thread(new OneThread());
+		/*Thread t1 = new Thread(new OneThread());
 		t1.setPriority(1);
 		t1.setDaemon(false);
 		t1.start();
@@ -29,16 +31,30 @@ public class Test {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
 		for (int i = 0; i < 10; i++) {
 			System.out.println("in main: "+ i);
-		}
-		
+		}*/
 		System.out.println(Test.class.getClassLoader());
+		
+		Class.forName("com.sun.deploy.uitoolkit.impl.fx.AppletStageManager", true 
+                ,  Test.class.getClassLoader().getParent());
+		System.out.println(AppletStageManager.class.getClassLoader());
+		
+		// child class loader knows if parent loads the class reverse is not true
+		Class.forName("com.sun.deploy.uitoolkit.impl.fx.AppletStageManager", true 
+                ,  Test.class.getClassLoader());
+		System.out.println("Child load try " + AppletStageManager.class.getClassLoader());
+		
+		Class.forName("java.lang.String", true 
+                ,  Test.class.getClassLoader());
+		System.out.println("Child load try " + String.class.getClassLoader());
+		
 		Class.forName("com.joinThread.CallableTest", true 
                  ,  Test.class.getClassLoader());
 		
-		System.out.println(Test.class.getClassLoader());
+		System.out.println("normal " + Test.class.getClassLoader());
+		// try same class to load with parent
+		// parent does not class loaded by child
 		Class.forName("com.joinThread.CallableTest", true 
                  ,  Test.class.getClassLoader().getParent());
 	}

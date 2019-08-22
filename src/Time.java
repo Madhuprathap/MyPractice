@@ -12,6 +12,8 @@ class Time
 		// instanceof supports inheritance
 		Derived derived = new Derived();
 		System.out.println(derived instanceof Base);
+		
+		System.out.println(new Date(1557140201363L));
 	}
 }
                   
